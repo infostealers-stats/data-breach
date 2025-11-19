@@ -18,43 +18,43 @@ This repository is built for researchers, security teams, journalists, and devel
 | AT&T Careers | 2025-10-21 | <a href="https://www.google.com/search?q=AT%26T%20Careers%20data%20breach" target="_blank" rel="noopener noreferrer">AT&T Careers</a> |
 | TISZA Vil&#xE1;g | Oct-2025 | <a href="https://www.google.com/search?q=TISZA%20Vil%26%23xE1%3Bg%20data%20breach" target="_blank" rel="noopener noreferrer">TISZA Vil&#xE1;g</a> |
 | MyVidster (2025) | Oct-2025 | <a href="https://www.google.com/search?q=MyVidster%20(2025)%20data%20breach" target="_blank" rel="noopener noreferrer">MyVidster (2025)</a> |
-| Adidas () | 2025-10-10 | <a href="https://www.google.com/search?q=Adidas%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Adidas ()</a> |
-| Aero Mexico () | 2025-10-10 | <a href="https://www.google.com/search?q=Aero%20Mexico%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Aero Mexico ()</a> |
-| Air France-KLM () | 2025-10-10 | <a href="https://www.google.com/search?q=Air%20France-KLM%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Air France-KLM ()</a> |
+| Adidas | 2025-10-10 | <a href="https://www.google.com/search?q=Adidas%20data%20breach" target="_blank" rel="noopener noreferrer">Adidas</a> |
+| Aero Mexico | 2025-10-10 | <a href="https://www.google.com/search?q=Aero%20Mexico%20data%20breach" target="_blank" rel="noopener noreferrer">Aero Mexico</a> |
+| Air France-KLM | 2025-10-10 | <a href="https://www.google.com/search?q=Air%20France-KLM%20data%20breach" target="_blank" rel="noopener noreferrer">Air France-KLM</a> |
 | Albertsons | 2025-10-10 | <a href="https://www.google.com/search?q=Albertsons%20data%20breach" target="_blank" rel="noopener noreferrer">Albertsons</a> |
-| Asics () | 2025-10-10 | <a href="https://www.google.com/search?q=Asics%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Asics ()</a> |
-| Carmax () | 2025-10-10 | <a href="https://www.google.com/search?q=Carmax%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Carmax ()</a> |
-| Cartier () | 2025-10-10 | <a href="https://www.google.com/search?q=Cartier%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Cartier ()</a> |
-| Chanel () | 2025-10-10 | <a href="https://www.google.com/search?q=Chanel%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Chanel ()</a> |
-| Cisco () | 2025-10-10 | <a href="https://www.google.com/search?q=Cisco%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Cisco ()</a> |
+| Asics | 2025-10-10 | <a href="https://www.google.com/search?q=Asics%20data%20breach" target="_blank" rel="noopener noreferrer">Asics</a> |
+| Carmax | 2025-10-10 | <a href="https://www.google.com/search?q=Carmax%20data%20breach" target="_blank" rel="noopener noreferrer">Carmax</a> |
+| Cartier | 2025-10-10 | <a href="https://www.google.com/search?q=Cartier%20data%20breach" target="_blank" rel="noopener noreferrer">Cartier</a> |
+| Chanel | 2025-10-10 | <a href="https://www.google.com/search?q=Chanel%20data%20breach" target="_blank" rel="noopener noreferrer">Chanel</a> |
+| Cisco | 2025-10-10 | <a href="https://www.google.com/search?q=Cisco%20data%20breach" target="_blank" rel="noopener noreferrer">Cisco</a> |
 | Engie | 2025-10-10 | <a href="https://www.google.com/search?q=Engie%20data%20breach" target="_blank" rel="noopener noreferrer">Engie</a> |
-| Fedex () | 2025-10-10 | <a href="https://www.google.com/search?q=Fedex%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Fedex ()</a> |
+| Fedex | 2025-10-10 | <a href="https://www.google.com/search?q=Fedex%20data%20breach" target="_blank" rel="noopener noreferrer">Fedex</a> |
 | Fujifilm | 2025-10-10 | <a href="https://www.google.com/search?q=Fujifilm%20data%20breach" target="_blank" rel="noopener noreferrer">Fujifilm</a> |
 | Gap | 2025-10-10 | <a href="https://www.google.com/search?q=Gap%20data%20breach" target="_blank" rel="noopener noreferrer">Gap</a> |
-| Google () | 2025-10-10 | <a href="https://www.google.com/search?q=Google%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Google ()</a> |
-| HBO Max () | 2025-10-10 | <a href="https://www.google.com/search?q=HBO%20Max%20()%20data%20breach" target="_blank" rel="noopener noreferrer">HBO Max ()</a> |
-| HMH () | 2025-10-10 | <a href="https://www.google.com/search?q=HMH%20()%20data%20breach" target="_blank" rel="noopener noreferrer">HMH ()</a> |
-| HomeDepot () | 2025-10-10 | <a href="https://www.google.com/search?q=HomeDepot%20()%20data%20breach" target="_blank" rel="noopener noreferrer">HomeDepot ()</a> |
-| Hulu () | 2025-10-10 | <a href="https://www.google.com/search?q=Hulu%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Hulu ()</a> |
-| Ikea () | 2025-10-10 | <a href="https://www.google.com/search?q=Ikea%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Ikea ()</a> |
-| Instacart () | 2025-10-10 | <a href="https://www.google.com/search?q=Instacart%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Instacart ()</a> |
-| Walgreens () | 2025-10-10 | <a href="https://www.google.com/search?q=Walgreens%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Walgreens ()</a> |
-| McDonalds () | 2025-10-10 | <a href="https://www.google.com/search?q=McDonalds%20()%20data%20breach" target="_blank" rel="noopener noreferrer">McDonalds ()</a> |
-| Pandora () | 2025-10-10 | <a href="https://www.google.com/search?q=Pandora%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Pandora ()</a> |
-| Petco () | 2025-10-10 | <a href="https://www.google.com/search?q=Petco%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Petco ()</a> |
-| Puma () | 2025-10-10 | <a href="https://www.google.com/search?q=Puma%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Puma ()</a> |
-| Republic Services () | 2025-10-10 | <a href="https://www.google.com/search?q=Republic%20Services%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Republic Services ()</a> |
-| Saksfifth () | 2025-10-10 | <a href="https://www.google.com/search?q=Saksfifth%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Saksfifth ()</a> |
-| Stellantis () | 2025-10-10 | <a href="https://www.google.com/search?q=Stellantis%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Stellantis ()</a> |
-| Toyota () | 2025-10-10 | <a href="https://www.google.com/search?q=Toyota%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Toyota ()</a> |
-| Transunion () | 2025-10-10 | <a href="https://www.google.com/search?q=Transunion%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Transunion ()</a> |
-| TripleA () | 2025-10-10 | <a href="https://www.google.com/search?q=TripleA%20()%20data%20breach" target="_blank" rel="noopener noreferrer">TripleA ()</a> |
-| UPS () | 2025-10-10 | <a href="https://www.google.com/search?q=UPS%20()%20data%20breach" target="_blank" rel="noopener noreferrer">UPS ()</a> |
+| Google | 2025-10-10 | <a href="https://www.google.com/search?q=Google%20data%20breach" target="_blank" rel="noopener noreferrer">Google</a> |
+| HBO Max | 2025-10-10 | <a href="https://www.google.com/search?q=HBO%20Max%20data%20breach" target="_blank" rel="noopener noreferrer">HBO Max</a> |
+| HMH | 2025-10-10 | <a href="https://www.google.com/search?q=HMH%20data%20breach" target="_blank" rel="noopener noreferrer">HMH</a> |
+| HomeDepot | 2025-10-10 | <a href="https://www.google.com/search?q=HomeDepot%20data%20breach" target="_blank" rel="noopener noreferrer">HomeDepot</a> |
+| Hulu | 2025-10-10 | <a href="https://www.google.com/search?q=Hulu%20data%20breach" target="_blank" rel="noopener noreferrer">Hulu</a> |
+| Ikea | 2025-10-10 | <a href="https://www.google.com/search?q=Ikea%20data%20breach" target="_blank" rel="noopener noreferrer">Ikea</a> |
+| Instacart | 2025-10-10 | <a href="https://www.google.com/search?q=Instacart%20data%20breach" target="_blank" rel="noopener noreferrer">Instacart</a> |
+| Walgreens | 2025-10-10 | <a href="https://www.google.com/search?q=Walgreens%20data%20breach" target="_blank" rel="noopener noreferrer">Walgreens</a> |
+| McDonalds | 2025-10-10 | <a href="https://www.google.com/search?q=McDonalds%20data%20breach" target="_blank" rel="noopener noreferrer">McDonalds</a> |
+| Pandora | 2025-10-10 | <a href="https://www.google.com/search?q=Pandora%20data%20breach" target="_blank" rel="noopener noreferrer">Pandora</a> |
+| Petco | 2025-10-10 | <a href="https://www.google.com/search?q=Petco%20data%20breach" target="_blank" rel="noopener noreferrer">Petco</a> |
+| Puma | 2025-10-10 | <a href="https://www.google.com/search?q=Puma%20data%20breach" target="_blank" rel="noopener noreferrer">Puma</a> |
+| Republic Services | 2025-10-10 | <a href="https://www.google.com/search?q=Republic%20Services%20data%20breach" target="_blank" rel="noopener noreferrer">Republic Services</a> |
+| Saksfifth | 2025-10-10 | <a href="https://www.google.com/search?q=Saksfifth%20data%20breach" target="_blank" rel="noopener noreferrer">Saksfifth</a> |
+| Stellantis | 2025-10-10 | <a href="https://www.google.com/search?q=Stellantis%20data%20breach" target="_blank" rel="noopener noreferrer">Stellantis</a> |
+| Toyota | 2025-10-10 | <a href="https://www.google.com/search?q=Toyota%20data%20breach" target="_blank" rel="noopener noreferrer">Toyota</a> |
+| Transunion | 2025-10-10 | <a href="https://www.google.com/search?q=Transunion%20data%20breach" target="_blank" rel="noopener noreferrer">Transunion</a> |
+| TripleA | 2025-10-10 | <a href="https://www.google.com/search?q=TripleA%20data%20breach" target="_blank" rel="noopener noreferrer">TripleA</a> |
+| UPS | 2025-10-10 | <a href="https://www.google.com/search?q=UPS%20data%20breach" target="_blank" rel="noopener noreferrer">UPS</a> |
 | Vietnam Airlines | 2025-10-10 | <a href="https://www.google.com/search?q=Vietnam%20Airlines%20data%20breach" target="_blank" rel="noopener noreferrer">Vietnam Airlines</a> |
-| Instructure () | 2025-10-10 | <a href="https://www.google.com/search?q=Instructure%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Instructure ()</a> |
-| Marriott () | 2025-10-10 | <a href="https://www.google.com/search?q=Marriott%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Marriott ()</a> |
-| KFC () | 2025-10-10 | <a href="https://www.google.com/search?q=KFC%20()%20data%20breach" target="_blank" rel="noopener noreferrer">KFC ()</a> |
-| Kering () | 2025-10-10 | <a href="https://www.google.com/search?q=Kering%20()%20data%20breach" target="_blank" rel="noopener noreferrer">Kering ()</a> |
+| Instructure | 2025-10-10 | <a href="https://www.google.com/search?q=Instructure%20data%20breach" target="_blank" rel="noopener noreferrer">Instructure</a> |
+| Marriott | 2025-10-10 | <a href="https://www.google.com/search?q=Marriott%20data%20breach" target="_blank" rel="noopener noreferrer">Marriott</a> |
+| KFC | 2025-10-10 | <a href="https://www.google.com/search?q=KFC%20data%20breach" target="_blank" rel="noopener noreferrer">KFC</a> |
+| Kering | 2025-10-10 | <a href="https://www.google.com/search?q=Kering%20data%20breach" target="_blank" rel="noopener noreferrer">Kering</a> |
 | Central Jersey Medical Center | 2025-10-10 | <a href="https://www.google.com/search?q=Central%20Jersey%20Medical%20Center%20data%20breach" target="_blank" rel="noopener noreferrer">Central Jersey Medical Center</a> |
 | Brevard Skin & Cancer Center | 2025-10-10 | <a href="https://www.google.com/search?q=Brevard%20Skin%20%26%20Cancer%20Center%20data%20breach" target="_blank" rel="noopener noreferrer">Brevard Skin & Cancer Center</a> |
 | Heritage Communities | 2025-10-09 | <a href="https://www.google.com/search?q=Heritage%20Communities%20data%20breach" target="_blank" rel="noopener noreferrer">Heritage Communities</a> |
