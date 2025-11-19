@@ -14,8 +14,6 @@ This repository is built for researchers, security teams, journalists, and devel
 
 - **Have I Been Pwned** - Troy Hunt's breach collection
 
-- **HHS Breach Portal** - US healthcare data breaches
-
 
 
 ## Breach list
