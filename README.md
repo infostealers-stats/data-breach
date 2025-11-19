@@ -8,14 +8,6 @@ This repository is built for researchers, security teams, journalists, and devel
 
 
 
-## Data Sources
-
-- **DataBreach.com** - Comprehensive breach database
-
-- **Have I Been Pwned** - Troy Hunt's breach collection
-
-
-
 ## Breach list
 
 | Breach Name | Date | More info |
