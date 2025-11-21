@@ -12,10 +12,12 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| International Kiteboarding Organization | Nov-2025 | <a href="https://www.google.com/search?q=International%20Kiteboarding%20Organization%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">International Kiteboarding Organization</a> |
 | Beckett Collectibles | Nov-2025 | <a href="https://www.google.com/search?q=Beckett%20Collectibles%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Beckett Collectibles</a> |
 | Eurofiber | Nov-2025 | <a href="https://www.google.com/search?q=Eurofiber%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Eurofiber</a> |
 | Operation Endgame 3.0 | Nov-2025 | <a href="https://www.google.com/search?q=Operation%20Endgame%203.0%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Operation Endgame 3.0</a> |
 | Spindletop Center | 2025-10-30 | <a href="https://www.google.com/search?q=Spindletop%20Center%202025-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">Spindletop Center</a> |
+| West Texas Health | 2025-10-27 | <a href="https://www.google.com/search?q=West%20Texas%20Health%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">West Texas Health</a> |
 | Saint Mary’s Home of Erie | 2025-10-23 | <a href="https://www.google.com/search?q=Saint%20Mary%E2%80%99s%20Home%20of%20Erie%202025-10-23%20data%20breach" target="_blank" rel="noopener noreferrer">Saint Mary’s Home of Erie</a> |
 | AT&T Careers | 2025-10-21 | <a href="https://www.google.com/search?q=AT%26T%20Careers%202025-10-21%20data%20breach" target="_blank" rel="noopener noreferrer">AT&T Careers</a> |
 | TISZA Vil&#xE1;g | Oct-2025 | <a href="https://www.google.com/search?q=TISZA%20Vil%26%23xE1%3Bg%20Oct-2025%20data%20breach" target="_blank" rel="noopener noreferrer">TISZA Vil&#xE1;g</a> |
