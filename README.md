@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| CodeStepByStep | Nov-2025 | <a href="https://www.google.com/search?q=CodeStepByStep%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">CodeStepByStep</a> |
 | International Kiteboarding Organization | Nov-2025 | <a href="https://www.google.com/search?q=International%20Kiteboarding%20Organization%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">International Kiteboarding Organization</a> |
 | Beckett Collectibles | Nov-2025 | <a href="https://www.google.com/search?q=Beckett%20Collectibles%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Beckett Collectibles</a> |
 | Eurofiber | Nov-2025 | <a href="https://www.google.com/search?q=Eurofiber%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Eurofiber</a> |
