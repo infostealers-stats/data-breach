@@ -1180,6 +1180,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | TheWarInc | 2012-01-01 | <a href="https://www.google.com/search?q=TheWarInc%202012-01-01%20data%20breach" target="_blank" rel="noopener noreferrer">TheWarInc</a> |
 | 17173 | 2011-12-28 | <a href="https://www.google.com/search?q=17173%202011-12-28%20data%20breach" target="_blank" rel="noopener noreferrer">17173</a> |
 | Tianya | 2011-12-26 | <a href="https://www.google.com/search?q=Tianya%202011-12-26%20data%20breach" target="_blank" rel="noopener noreferrer">Tianya</a> |
+| China Software Developer Network | Dec-2011 | <a href="https://www.google.com/search?q=China%20Software%20Developer%20Network%20Dec-2011%20data%20breach" target="_blank" rel="noopener noreferrer">China Software Developer Network</a> |
 | Zhenai.com | Dec-2011 | <a href="https://www.google.com/search?q=Zhenai.com%20Dec-2011%20data%20breach" target="_blank" rel="noopener noreferrer">Zhenai.com</a> |
 | Dodonew.com | Dec-2011 | <a href="https://www.google.com/search?q=Dodonew.com%20Dec-2011%20data%20breach" target="_blank" rel="noopener noreferrer">Dodonew.com</a> |
 | hemmelig.com | Dec-2011 | <a href="https://www.google.com/search?q=hemmelig.com%20Dec-2011%20data%20breach" target="_blank" rel="noopener noreferrer">hemmelig.com</a> |
