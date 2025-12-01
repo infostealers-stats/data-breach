@@ -21,6 +21,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | West Texas Health | 2025-10-27 | <a href="https://www.google.com/search?q=West%20Texas%20Health%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">West Texas Health</a> |
 | Saint Mary’s Home of Erie | 2025-10-23 | <a href="https://www.google.com/search?q=Saint%20Mary%E2%80%99s%20Home%20of%20Erie%202025-10-23%20data%20breach" target="_blank" rel="noopener noreferrer">Saint Mary’s Home of Erie</a> |
 | AT&T Careers | 2025-10-21 | <a href="https://www.google.com/search?q=AT%26T%20Careers%202025-10-21%20data%20breach" target="_blank" rel="noopener noreferrer">AT&T Careers</a> |
+| Greater Mental Health of New York | 2025-10-20 | <a href="https://www.google.com/search?q=Greater%20Mental%20Health%20of%20New%20York%202025-10-20%20data%20breach" target="_blank" rel="noopener noreferrer">Greater Mental Health of New York</a> |
 | TISZA Vil&#xE1;g | Oct-2025 | <a href="https://www.google.com/search?q=TISZA%20Vil%26%23xE1%3Bg%20Oct-2025%20data%20breach" target="_blank" rel="noopener noreferrer">TISZA Vil&#xE1;g</a> |
 | MyVidster (2025) | Oct-2025 | <a href="https://www.google.com/search?q=MyVidster%20(2025)%20Oct-2025%20data%20breach" target="_blank" rel="noopener noreferrer">MyVidster (2025)</a> |
 | Adidas | 2025-10-10 | <a href="https://www.google.com/search?q=Adidas%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Adidas</a> |
