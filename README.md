@@ -482,6 +482,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | LinkedInScrape | 2021-04-08 | <a href="https://www.google.com/search?q=LinkedInScrape%202021-04-08%20data%20breach" target="_blank" rel="noopener noreferrer">LinkedInScrape</a> |
 | vehicle | 2021-03-21 | <a href="https://www.google.com/search?q=vehicle%202021-03-21%20data%20breach" target="_blank" rel="noopener noreferrer">vehicle</a> |
 | Luxottica | 2021-03-16 | <a href="https://www.google.com/search?q=Luxottica%202021-03-16%20data%20breach" target="_blank" rel="noopener noreferrer">Luxottica</a> |
+| KinoKong | Mar-2021 | <a href="https://www.google.com/search?q=KinoKong%20Mar-2021%20data%20breach" target="_blank" rel="noopener noreferrer">KinoKong</a> |
 | IDC Games | Mar-2021 | <a href="https://www.google.com/search?q=IDC%20Games%20Mar-2021%20data%20breach" target="_blank" rel="noopener noreferrer">IDC Games</a> |
 | Domino&#x27;s India | Mar-2021 | <a href="https://www.google.com/search?q=Domino%26%23x27%3Bs%20India%20Mar-2021%20data%20breach" target="_blank" rel="noopener noreferrer">Domino&#x27;s India</a> |
 | ParkMobile | Mar-2021 | <a href="https://www.google.com/search?q=ParkMobile%20Mar-2021%20data%20breach" target="_blank" rel="noopener noreferrer">ParkMobile</a> |
