@@ -941,4 +941,4 @@ This repository is built for researchers, security teams, journalists, and devel
 | MySpace | Jul-2008 | <a href="https://www.google.com/search?q=MySpace%20Jul-2008%20data%20breach" target="_blank" rel="noopener noreferrer">MySpace</a> |
 | Foxy Bingo | Apr-2008 | <a href="https://www.google.com/search?q=Foxy%20Bingo%20Apr-2008%20data%20breach" target="_blank" rel="noopener noreferrer">Foxy Bingo</a> |
 | gPotato | Jul-2007 | <a href="https://www.google.com/search?q=gPotato%20Jul-2007%20data%20breach" target="_blank" rel="noopener noreferrer">gPotato</a> |
-| Health Dimensions Group |  | <a href="https://www.google.com/search?q=Health%20Dimensions%20Group%20%20data%20breach" target="_blank" rel="noopener noreferrer">Health Dimensions Group</a> |
+| Under Armour |  | <a href="https://www.google.com/search?q=Under%20Armour%20%20data%20breach" target="_blank" rel="noopener noreferrer">Under Armour</a> |
