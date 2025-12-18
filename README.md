@@ -676,6 +676,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Epic Games | Aug-2016 | <a href="https://www.google.com/search?q=Epic%20Games%20Aug-2016%20data%20breach" target="_blank" rel="noopener noreferrer">Epic Games</a> |
 | Unreal Engine | Aug-2016 | <a href="https://www.google.com/search?q=Unreal%20Engine%20Aug-2016%20data%20breach" target="_blank" rel="noopener noreferrer">Unreal Engine</a> |
 | GTAGaming | Aug-2016 | <a href="https://www.google.com/search?q=GTAGaming%20Aug-2016%20data%20breach" target="_blank" rel="noopener noreferrer">GTAGaming</a> |
+| Web Hosting Talk | Jul-2016 | <a href="https://www.google.com/search?q=Web%20Hosting%20Talk%20Jul-2016%20data%20breach" target="_blank" rel="noopener noreferrer">Web Hosting Talk</a> |
 | OnRPG | Jul-2016 | <a href="https://www.google.com/search?q=OnRPG%20Jul-2016%20data%20breach" target="_blank" rel="noopener noreferrer">OnRPG</a> |
 | Dota2 | Jul-2016 | <a href="https://www.google.com/search?q=Dota2%20Jul-2016%20data%20breach" target="_blank" rel="noopener noreferrer">Dota2</a> |
 | Kaneva | Jul-2016 | <a href="https://www.google.com/search?q=Kaneva%20Jul-2016%20data%20breach" target="_blank" rel="noopener noreferrer">Kaneva</a> |
@@ -897,6 +898,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Heroes of Newerth | Dec-2012 | <a href="https://www.google.com/search?q=Heroes%20of%20Newerth%20Dec-2012%20data%20breach" target="_blank" rel="noopener noreferrer">Heroes of Newerth</a> |
 | BookCrossing | Nov-2012 | <a href="https://www.google.com/search?q=BookCrossing%20Nov-2012%20data%20breach" target="_blank" rel="noopener noreferrer">BookCrossing</a> |
 | Netlog | Nov-2012 | <a href="https://www.google.com/search?q=Netlog%20Nov-2012%20data%20breach" target="_blank" rel="noopener noreferrer">Netlog</a> |
+| The Botting Network | Aug-2012 | <a href="https://www.google.com/search?q=The%20Botting%20Network%20Aug-2012%20data%20breach" target="_blank" rel="noopener noreferrer">The Botting Network</a> |
 | Xiaomi | Aug-2012 | <a href="https://www.google.com/search?q=Xiaomi%20Aug-2012%20data%20breach" target="_blank" rel="noopener noreferrer">Xiaomi</a> |
 | Lookbook | Aug-2012 | <a href="https://www.google.com/search?q=Lookbook%20Aug-2012%20data%20breach" target="_blank" rel="noopener noreferrer">Lookbook</a> |
 | Disqus | Jul-2012 | <a href="https://www.google.com/search?q=Disqus%20Jul-2012%20data%20breach" target="_blank" rel="noopener noreferrer">Disqus</a> |
