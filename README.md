@@ -40,6 +40,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Operation Endgame 2.0 | May-2025 | <a href="https://www.google.com/search?q=Operation%20Endgame%202.0%20May-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Operation Endgame 2.0</a> |
 | Synthient Credential Stuffing Threat Data | Apr-2025 | <a href="https://www.google.com/search?q=Synthient%20Credential%20Stuffing%20Threat%20Data%20Apr-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Synthient Credential Stuffing Threat Data</a> |
 | Synthient Stealer Log Threat Data | Apr-2025 | <a href="https://www.google.com/search?q=Synthient%20Stealer%20Log%20Threat%20Data%20Apr-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Synthient Stealer Log Threat Data</a> |
+| AUTOSUR | Mar-2025 | <a href="https://www.google.com/search?q=AUTOSUR%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">AUTOSUR</a> |
 | ADDA | Mar-2025 | <a href="https://www.google.com/search?q=ADDA%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">ADDA</a> |
 | Tehets&#xE9;gKapu | Mar-2025 | <a href="https://www.google.com/search?q=Tehets%26%23xE9%3BgKapu%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Tehets&#xE9;gKapu</a> |
 | Samsung Germany Customer Tickets | Mar-2025 | <a href="https://www.google.com/search?q=Samsung%20Germany%20Customer%20Tickets%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Samsung Germany Customer Tickets</a> |
