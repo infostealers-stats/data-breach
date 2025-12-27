@@ -484,6 +484,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Deezer | Apr-2019 | <a href="https://www.google.com/search?q=Deezer%20Apr-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Deezer</a> |
 | Aimware | Apr-2019 | <a href="https://www.google.com/search?q=Aimware%20Apr-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Aimware</a> |
 | Lumin PDF | Apr-2019 | <a href="https://www.google.com/search?q=Lumin%20PDF%20Apr-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Lumin PDF</a> |
+| Utair | Mar-2019 | <a href="https://www.google.com/search?q=Utair%20Mar-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Utair</a> |
 | Hakko Corporation | Mar-2019 | <a href="https://www.google.com/search?q=Hakko%20Corporation%20Mar-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Hakko Corporation</a> |
 | MalindoAir | Mar-2019 | <a href="https://www.google.com/search?q=MalindoAir%20Mar-2019%20data%20breach" target="_blank" rel="noopener noreferrer">MalindoAir</a> |
 | Vastaamo | Mar-2019 | <a href="https://www.google.com/search?q=Vastaamo%20Mar-2019%20data%20breach" target="_blank" rel="noopener noreferrer">Vastaamo</a> |
