@@ -20,6 +20,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Operation Endgame 3.0 | Nov-2025 | <a href="https://www.google.com/search?q=Operation%20Endgame%203.0%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Operation Endgame 3.0</a> |
 | TISZA Vil&#xE1;g | Oct-2025 | <a href="https://www.google.com/search?q=TISZA%20Vil%26%23xE1%3Bg%20Oct-2025%20data%20breach" target="_blank" rel="noopener noreferrer">TISZA Vil&#xE1;g</a> |
 | MyVidster (2025) | Oct-2025 | <a href="https://www.google.com/search?q=MyVidster%20(2025)%20Oct-2025%20data%20breach" target="_blank" rel="noopener noreferrer">MyVidster (2025)</a> |
+| WIRED | Sep-2025 | <a href="https://www.google.com/search?q=WIRED%20Sep-2025%20data%20breach" target="_blank" rel="noopener noreferrer">WIRED</a> |
 | Prosper | Sep-2025 | <a href="https://www.google.com/search?q=Prosper%20Sep-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Prosper</a> |
 | Artists&amp;Clients | Aug-2025 | <a href="https://www.google.com/search?q=Artists%26amp%3BClients%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Artists&amp;Clients</a> |
 | Bouygues Telecom | Aug-2025 | <a href="https://www.google.com/search?q=Bouygues%20Telecom%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Bouygues Telecom</a> |
