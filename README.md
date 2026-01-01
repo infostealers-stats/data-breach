@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| RedHat Gitlab | 2025-12-30 | <a href="https://www.google.com/search?q=RedHat%20Gitlab%202025-12-30%20data%20breach" target="_blank" rel="noopener noreferrer">RedHat Gitlab</a> |
 | WIRED - 2,364,431 breached accounts | 2025-12-27 | <a href="https://www.google.com/search?q=WIRED%20-%202%2C364%2C431%20breached%20accounts%202025-12-27%20data%20breach" target="_blank" rel="noopener noreferrer">WIRED - 2,364,431 breached accounts</a> |
 | Utair - 401,400 breached accounts | 2025-12-26 | <a href="https://www.google.com/search?q=Utair%20-%20401%2C400%20breached%20accounts%202025-12-26%20data%20breach" target="_blank" rel="noopener noreferrer">Utair - 401,400 breached accounts</a> |
 | Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts | 2025-12-24 | <a href="https://www.google.com/search?q=%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%93%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%81%D1%82%20(Gemotest)%20-%206%2C341%2C495%20breached%20accounts%202025-12-24%20data%20breach" target="_blank" rel="noopener noreferrer">Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts</a> |
