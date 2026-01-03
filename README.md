@@ -69,16 +69,16 @@ This repository is built for researchers, security teams, journalists, and devel
 | Fujifilm | 2025-10-10 | <a href="https://www.google.com/search?q=Fujifilm%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Fujifilm</a> |
 | Engie | 2025-10-10 | <a href="https://www.google.com/search?q=Engie%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Engie</a> |
 | Gap | 2025-10-10 | <a href="https://www.google.com/search?q=Gap%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Gap</a> |
-| Google | 2025-10-10 | <a href="https://www.google.com/search?q=Google%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Google</a> |
+| Republic Services | 2025-10-10 | <a href="https://www.google.com/search?q=Republic%20Services%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Republic Services</a> |
 | HomeDepot | 2025-10-10 | <a href="https://www.google.com/search?q=HomeDepot%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">HomeDepot</a> |
 | Instacart | 2025-10-10 | <a href="https://www.google.com/search?q=Instacart%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Instacart</a> |
-| KFC | 2025-10-10 | <a href="https://www.google.com/search?q=KFC%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">KFC</a> |
-| Chanel | 2025-10-10 | <a href="https://www.google.com/search?q=Chanel%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Chanel</a> |
+| TripleA | 2025-10-10 | <a href="https://www.google.com/search?q=TripleA%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">TripleA</a> |
+| Google | 2025-10-10 | <a href="https://www.google.com/search?q=Google%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Google</a> |
+| Carmax | 2025-10-10 | <a href="https://www.google.com/search?q=Carmax%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Carmax</a> |
 | Kering | 2025-10-10 | <a href="https://www.google.com/search?q=Kering%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Kering</a> |
 | Pandora | 2025-10-10 | <a href="https://www.google.com/search?q=Pandora%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Pandora</a> |
 | Cisco | 2025-10-10 | <a href="https://www.google.com/search?q=Cisco%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Cisco</a> |
 | Air France-KLM | 2025-10-10 | <a href="https://www.google.com/search?q=Air%20France-KLM%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Air France-KLM</a> |
-| Petco | 2025-10-10 | <a href="https://www.google.com/search?q=Petco%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Petco</a> |
 | Saksfifth | 2025-10-10 | <a href="https://www.google.com/search?q=Saksfifth%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Saksfifth</a> |
 | Puma | 2025-10-10 | <a href="https://www.google.com/search?q=Puma%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Puma</a> |
 | Asics | 2025-10-10 | <a href="https://www.google.com/search?q=Asics%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Asics</a> |
@@ -89,29 +89,30 @@ This repository is built for researchers, security teams, journalists, and devel
 | UPS | 2025-10-10 | <a href="https://www.google.com/search?q=UPS%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">UPS</a> |
 | Instructure | 2025-10-10 | <a href="https://www.google.com/search?q=Instructure%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Instructure</a> |
 | HBO Max | 2025-10-10 | <a href="https://www.google.com/search?q=HBO%20Max%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">HBO Max</a> |
-| Republic Services | 2025-10-10 | <a href="https://www.google.com/search?q=Republic%20Services%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Republic Services</a> |
 | Cartier | 2025-10-10 | <a href="https://www.google.com/search?q=Cartier%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Cartier</a> |
-| Carmax | 2025-10-10 | <a href="https://www.google.com/search?q=Carmax%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Carmax</a> |
-| TripleA | 2025-10-10 | <a href="https://www.google.com/search?q=TripleA%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">TripleA</a> |
 | Walgreens | 2025-10-10 | <a href="https://www.google.com/search?q=Walgreens%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Walgreens</a> |
 | Hulu | 2025-10-10 | <a href="https://www.google.com/search?q=Hulu%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Hulu</a> |
 | Toyota | 2025-10-10 | <a href="https://www.google.com/search?q=Toyota%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Toyota</a> |
 | Ikea | 2025-10-10 | <a href="https://www.google.com/search?q=Ikea%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Ikea</a> |
 | Adidas | 2025-10-10 | <a href="https://www.google.com/search?q=Adidas%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Adidas</a> |
-| McDonalds | 2025-10-10 | <a href="https://www.google.com/search?q=McDonalds%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">McDonalds</a> |
 | Transunion | 2025-10-10 | <a href="https://www.google.com/search?q=Transunion%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Transunion</a> |
 | HMH | 2025-10-10 | <a href="https://www.google.com/search?q=HMH%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">HMH</a> |
+| McDonalds | 2025-10-10 | <a href="https://www.google.com/search?q=McDonalds%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">McDonalds</a> |
+| KFC | 2025-10-10 | <a href="https://www.google.com/search?q=KFC%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">KFC</a> |
+| Chanel | 2025-10-10 | <a href="https://www.google.com/search?q=Chanel%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Chanel</a> |
+| Petco | 2025-10-10 | <a href="https://www.google.com/search?q=Petco%202025-10-10%20data%20breach" target="_blank" rel="noopener noreferrer">Petco</a> |
 | Heritage Communities | 2025-10-09 | <a href="https://www.google.com/search?q=Heritage%20Communities%202025-10-09%20data%20breach" target="_blank" rel="noopener noreferrer">Heritage Communities</a> |
 | Wired.com | 2025-10-08 | <a href="https://www.google.com/search?q=Wired.com%202025-10-08%20data%20breach" target="_blank" rel="noopener noreferrer">Wired.com</a> |
 | Archway Marketing Services, Inc. | 2025-10-07 | <a href="https://www.google.com/search?q=Archway%20Marketing%20Services%2C%20Inc.%202025-10-07%20data%20breach" target="_blank" rel="noopener noreferrer">Archway Marketing Services, Inc.</a> |
 | Medstar Health | 2025-10-04 | <a href="https://www.google.com/search?q=Medstar%20Health%202025-10-04%20data%20breach" target="_blank" rel="noopener noreferrer">Medstar Health</a> |
+| Allervie Health | 2025-10-02 | <a href="https://www.google.com/search?q=Allervie%20Health%202025-10-02%20data%20breach" target="_blank" rel="noopener noreferrer">Allervie Health</a> |
 | TriMed Inc. HSIC | 2025-10-02 | <a href="https://www.google.com/search?q=TriMed%20Inc.%20HSIC%202025-10-02%20data%20breach" target="_blank" rel="noopener noreferrer">TriMed Inc. HSIC</a> |
 | Western Orthopaedics | 2025-09-30 | <a href="https://www.google.com/search?q=Western%20Orthopaedics%202025-09-30%20data%20breach" target="_blank" rel="noopener noreferrer">Western Orthopaedics</a> |
 | MCBS, LLC | 2025-09-25 | <a href="https://www.google.com/search?q=MCBS%2C%20LLC%202025-09-25%20data%20breach" target="_blank" rel="noopener noreferrer">MCBS, LLC</a> |
 | Madison Healthcare Services | 2025-09-23 | <a href="https://www.google.com/search?q=Madison%20Healthcare%20Services%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Healthcare Services</a> |
 | Mavis Tire Supply | 2025-09-23 | <a href="https://www.google.com/search?q=Mavis%20Tire%20Supply%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Mavis Tire Supply</a> |
-| Pyramid Global Hospitality | 2025-09-23 | <a href="https://www.google.com/search?q=Pyramid%20Global%20Hospitality%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Pyramid Global Hospitality</a> |
 | Washington Prime Group Inc | 2025-09-23 | <a href="https://www.google.com/search?q=Washington%20Prime%20Group%20Inc%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Washington Prime Group Inc</a> |
+| Pyramid Global Hospitality | 2025-09-23 | <a href="https://www.google.com/search?q=Pyramid%20Global%20Hospitality%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Pyramid Global Hospitality</a> |
 | Legend Senior Living | 2025-09-18 | <a href="https://www.google.com/search?q=Legend%20Senior%20Living%202025-09-18%20data%20breach" target="_blank" rel="noopener noreferrer">Legend Senior Living</a> |
 | Insurance Office of America | 2025-09-15 | <a href="https://www.google.com/search?q=Insurance%20Office%20of%20America%202025-09-15%20data%20breach" target="_blank" rel="noopener noreferrer">Insurance Office of America</a> |
 | WIRED | Sep-2025 | <a href="https://www.google.com/search?q=WIRED%20Sep-2025%20data%20breach" target="_blank" rel="noopener noreferrer">WIRED</a> |
@@ -155,6 +156,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Pi-hole | Jul-2025 | <a href="https://www.google.com/search?q=Pi-hole%20Jul-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Pi-hole</a> |
 | North Country HealthCare | 2025-07-13 | <a href="https://www.google.com/search?q=North%20Country%20HealthCare%202025-07-13%20data%20breach" target="_blank" rel="noopener noreferrer">North Country HealthCare</a> |
 | New American Funding, LLC | 2025-07-11 | <a href="https://www.google.com/search?q=New%20American%20Funding%2C%20LLC%202025-07-11%20data%20breach" target="_blank" rel="noopener noreferrer">New American Funding, LLC</a> |
+| The Washington Post | 2025-07-10 | <a href="https://www.google.com/search?q=The%20Washington%20Post%202025-07-10%20data%20breach" target="_blank" rel="noopener noreferrer">The Washington Post</a> |
 | Coalinga Regional Medical Center | 2025-07-10 | <a href="https://www.google.com/search?q=Coalinga%20Regional%20Medical%20Center%202025-07-10%20data%20breach" target="_blank" rel="noopener noreferrer">Coalinga Regional Medical Center</a> |
 | Central Florida Hand Specialists | 2025-07-08 | <a href="https://www.google.com/search?q=Central%20Florida%20Hand%20Specialists%202025-07-08%20data%20breach" target="_blank" rel="noopener noreferrer">Central Florida Hand Specialists</a> |
 | Crenshaw Community Hospital | 2025-07-08 | <a href="https://www.google.com/search?q=Crenshaw%20Community%20Hospital%202025-07-08%20data%20breach" target="_blank" rel="noopener noreferrer">Crenshaw Community Hospital</a> |
