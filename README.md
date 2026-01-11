@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| BreachForums (2025) - 324,449 breached accounts | 2026-01-10 | <a href="https://www.google.com/search?q=BreachForums%20(2025)%20-%20324%2C449%20breached%20accounts%202026-01-10%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums (2025) - 324,449 breached accounts</a> |
 | WhiteDate - 6,076 breached accounts | 2026-01-06 | <a href="https://www.google.com/search?q=WhiteDate%20-%206%2C076%20breached%20accounts%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate - 6,076 breached accounts</a> |
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | RedHat Gitlab | 2025-12-30 | <a href="https://www.google.com/search?q=RedHat%20Gitlab%202025-12-30%20data%20breach" target="_blank" rel="noopener noreferrer">RedHat Gitlab</a> |
@@ -53,7 +54,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts | 2025-11-06 | <a href="https://www.google.com/search?q=Synthient%20Credential%20Stuffing%20Threat%20Data%20-%201%2C957%2C476%2C021%20breached%20accounts%202025-11-06%20data%20breach" target="_blank" rel="noopener noreferrer">Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts</a> |
 | Health Dimensions Group | 2025-11-06 | <a href="https://www.google.com/search?q=Health%20Dimensions%20Group%202025-11-06%20data%20breach" target="_blank" rel="noopener noreferrer">Health Dimensions Group</a> |
 | Spindletop Center | 2025-10-30 | <a href="https://www.google.com/search?q=Spindletop%20Center%202025-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">Spindletop Center</a> |
-| MyVidster (2025) - 3,864,364 breached accounts | 2025-10-27 | <a href="https://www.google.com/search?q=MyVidster%20(2025)%20-%203%2C864%2C364%20breached%20accounts%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">MyVidster (2025) - 3,864,364 breached accounts</a> |
 | Milgard - Windows and Doors | 2025-10-27 | <a href="https://www.google.com/search?q=Milgard%20-%20Windows%20and%20Doors%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">Milgard - Windows and Doors</a> |
 | Copeland Corporation | 2025-10-27 | <a href="https://www.google.com/search?q=Copeland%20Corporation%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">Copeland Corporation</a> |
 | West Texas Health | 2025-10-27 | <a href="https://www.google.com/search?q=West%20Texas%20Health%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">West Texas Health</a> |
@@ -129,6 +129,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Summit College | 2025-08-28 | <a href="https://www.google.com/search?q=Summit%20College%202025-08-28%20data%20breach" target="_blank" rel="noopener noreferrer">Summit College</a> |
 | Beaumont Bone &amp; Joint Institute | 2025-08-20 | <a href="https://www.google.com/search?q=Beaumont%20Bone%20%26amp%3B%20Joint%20Institute%202025-08-20%20data%20breach" target="_blank" rel="noopener noreferrer">Beaumont Bone &amp; Joint Institute</a> |
 | MPOWERHealth | 2025-08-19 | <a href="https://www.google.com/search?q=MPOWERHealth%202025-08-19%20data%20breach" target="_blank" rel="noopener noreferrer">MPOWERHealth</a> |
+| BreachForums (2025) | Aug-2025 | <a href="https://www.google.com/search?q=BreachForums%20(2025)%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums (2025)</a> |
 | Artists&amp;Clients | Aug-2025 | <a href="https://www.google.com/search?q=Artists%26amp%3BClients%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Artists&amp;Clients</a> |
 | Bouygues Telecom | Aug-2025 | <a href="https://www.google.com/search?q=Bouygues%20Telecom%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Bouygues Telecom</a> |
 | Milj&#xF6;data | Aug-2025 | <a href="https://www.google.com/search?q=Milj%26%23xF6%3Bdata%20Aug-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Milj&#xF6;data</a> |
