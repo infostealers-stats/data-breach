@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Pass'Sport - 6,366,133 breached accounts | 2026-01-18 | <a href="https://www.google.com/search?q=Pass'Sport%20-%206%2C366%2C133%20breached%20accounts%202026-01-18%20data%20breach" target="_blank" rel="noopener noreferrer">Pass'Sport - 6,366,133 breached accounts</a> |
 | Instagram | 2026-01-12 | <a href="https://www.google.com/search?q=Instagram%202026-01-12%20data%20breach" target="_blank" rel="noopener noreferrer">Instagram</a> |
 | Instagram - 6,215,150 breached accounts | 2026-01-11 | <a href="https://www.google.com/search?q=Instagram%20-%206%2C215%2C150%20breached%20accounts%202026-01-11%20data%20breach" target="_blank" rel="noopener noreferrer">Instagram - 6,215,150 breached accounts</a> |
 | BreachForums (2025) - 672,247 breached accounts | 2026-01-10 | <a href="https://www.google.com/search?q=BreachForums%20(2025)%20-%20672%2C247%20breached%20accounts%202026-01-10%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums (2025) - 672,247 breached accounts</a> |
@@ -26,6 +27,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | AUTOSUR - 487,226 breached accounts | 2025-12-18 | <a href="https://www.google.com/search?q=AUTOSUR%20-%20487%2C226%20breached%20accounts%202025-12-18%20data%20breach" target="_blank" rel="noopener noreferrer">AUTOSUR - 487,226 breached accounts</a> |
 | The Botting Network - 96,320 breached accounts | 2025-12-18 | <a href="https://www.google.com/search?q=The%20Botting%20Network%20-%2096%2C320%20breached%20accounts%202025-12-18%20data%20breach" target="_blank" rel="noopener noreferrer">The Botting Network - 96,320 breached accounts</a> |
 | Web Hosting Talk - 515,149 breached accounts | 2025-12-17 | <a href="https://www.google.com/search?q=Web%20Hosting%20Talk%20-%20515%2C149%20breached%20accounts%202025-12-17%20data%20breach" target="_blank" rel="noopener noreferrer">Web Hosting Talk - 515,149 breached accounts</a> |
+| Pass&#x27;Sport | Dec-2025 | <a href="https://www.google.com/search?q=Pass%26%23x27%3BSport%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Pass&#x27;Sport</a> |
 | WhiteDate | Dec-2025 | <a href="https://www.google.com/search?q=WhiteDate%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate</a> |
 | Air Miles España (Travel Club) | 2025-12-08 | <a href="https://www.google.com/search?q=Air%20Miles%20Espa%C3%B1a%20(Travel%20Club)%202025-12-08%20data%20breach" target="_blank" rel="noopener noreferrer">Air Miles España (Travel Club)</a> |
 | KinoKong - 817,808 breached accounts | 2025-12-06 | <a href="https://www.google.com/search?q=KinoKong%20-%20817%2C808%20breached%20accounts%202025-12-06%20data%20breach" target="_blank" rel="noopener noreferrer">KinoKong - 817,808 breached accounts</a> |
@@ -53,7 +55,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Glendale obgyn | 2025-11-13 | <a href="https://www.google.com/search?q=Glendale%20obgyn%202025-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Glendale obgyn</a> |
 | Dartmouth College | 2025-11-13 | <a href="https://www.google.com/search?q=Dartmouth%20College%202025-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Dartmouth College</a> |
 | Heywood Hospital | 2025-11-09 | <a href="https://www.google.com/search?q=Heywood%20Hospital%202025-11-09%20data%20breach" target="_blank" rel="noopener noreferrer">Heywood Hospital</a> |
-| TISZA Világ - 198,520 breached accounts | 2025-11-08 | <a href="https://www.google.com/search?q=TISZA%20Vil%C3%A1g%20-%20198%2C520%20breached%20accounts%202025-11-08%20data%20breach" target="_blank" rel="noopener noreferrer">TISZA Világ - 198,520 breached accounts</a> |
 | Health Dimensions Group | 2025-11-06 | <a href="https://www.google.com/search?q=Health%20Dimensions%20Group%202025-11-06%20data%20breach" target="_blank" rel="noopener noreferrer">Health Dimensions Group</a> |
 | Spindletop Center | 2025-10-30 | <a href="https://www.google.com/search?q=Spindletop%20Center%202025-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">Spindletop Center</a> |
 | Milgard - Windows and Doors | 2025-10-27 | <a href="https://www.google.com/search?q=Milgard%20-%20Windows%20and%20Doors%202025-10-27%20data%20breach" target="_blank" rel="noopener noreferrer">Milgard - Windows and Doors</a> |
