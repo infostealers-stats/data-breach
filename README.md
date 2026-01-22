@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Under Armour - 72,742,892 breached accounts | 2026-01-21 | <a href="https://www.google.com/search?q=Under%20Armour%20-%2072%2C742%2C892%20breached%20accounts%202026-01-21%20data%20breach" target="_blank" rel="noopener noreferrer">Under Armour - 72,742,892 breached accounts</a> |
 | Raaga - 10,225,145 breached accounts | 2026-01-19 | <a href="https://www.google.com/search?q=Raaga%20-%2010%2C225%2C145%20breached%20accounts%202026-01-19%20data%20breach" target="_blank" rel="noopener noreferrer">Raaga - 10,225,145 breached accounts</a> |
 | Pass'Sport - 6,366,133 breached accounts | 2026-01-18 | <a href="https://www.google.com/search?q=Pass'Sport%20-%206%2C366%2C133%20breached%20accounts%202026-01-18%20data%20breach" target="_blank" rel="noopener noreferrer">Pass'Sport - 6,366,133 breached accounts</a> |
 | Instagram | 2026-01-12 | <a href="https://www.google.com/search?q=Instagram%202026-01-12%20data%20breach" target="_blank" rel="noopener noreferrer">Instagram</a> |
@@ -45,7 +46,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | International Kiteboarding Organization - 340,349 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=International%20Kiteboarding%20Organization%20-%20340%2C349%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">International Kiteboarding Organization - 340,349 breached accounts</a> |
 | Beckett Collectibles - 1,041,238 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=Beckett%20Collectibles%20-%201%2C041%2C238%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">Beckett Collectibles - 1,041,238 breached accounts</a> |
 | Eurofiber - 10,003 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=Eurofiber%20-%2010%2C003%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">Eurofiber - 10,003 breached accounts</a> |
-| Vultr - 187,872 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=Vultr%20-%20187%2C872%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">Vultr - 187,872 breached accounts</a> |
 | Medical Center, LLP | 2025-11-19 | <a href="https://www.google.com/search?q=Medical%20Center%2C%20LLP%202025-11-19%20data%20breach" target="_blank" rel="noopener noreferrer">Medical Center, LLP</a> |
 | Doctor Alliance | 2025-11-18 | <a href="https://www.google.com/search?q=Doctor%20Alliance%202025-11-18%20data%20breach" target="_blank" rel="noopener noreferrer">Doctor Alliance</a> |
 | Zilvia.net | Nov-2025 | <a href="https://www.google.com/search?q=Zilvia.net%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Zilvia.net</a> |
