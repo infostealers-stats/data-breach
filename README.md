@@ -1,4 +1,4 @@
-# Daily Updated Data Breach Repository
+# Latest Data Breaches Repository
 
 This repository provides a comprehensive and continuously maintained list of confirmed data breaches from around the world. Each breach entry includes the breach name, which typically reflects the affected organization, along with the date of the incident. These two core fields ensure that the data remains easy to track, reference, and integrate into external systems.
 
