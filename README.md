@@ -1,8 +1,8 @@
-# Latest Data Breaches Repository
+# Daily Updated Data Breach Repository
 
 This repository provides a comprehensive and continuously maintained list of confirmed data breaches from around the world. Each breach entry includes the breach name, which typically reflects the affected organization, along with the date of the incident. These two core fields ensure that the data remains easy to track, reference, and integrate into external systems.
 
-The list is updated every day to keep the information fresh and dependable from <a href="https://haveibeenpwned.com/" target="_blank">HIBP</a>, <a href="https://lunarcyber.com/" target="_blank">Lunar</a> and <a href="databreach.com" target="_blank">Databreach</a>.
+The list is updated every day to keep the information fresh and dependable.
 
 This repository is built for researchers, security teams, journalists, and developers who need a reliable, structured dataset to follow global breach activity, support threat intelligence workflows, or power analytical tools.
 
