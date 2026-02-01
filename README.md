@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Panera Bread - 5,112,502 breached accounts | 2026-01-31 | <a href="https://www.google.com/search?q=Panera%20Bread%20-%205%2C112%2C502%20breached%20accounts%202026-01-31%20data%20breach" target="_blank" rel="noopener noreferrer">Panera Bread - 5,112,502 breached accounts</a> |
 | SoundCloud - 29,815,722 breached accounts | 2026-01-27 | <a href="https://www.google.com/search?q=SoundCloud%20-%2029%2C815%2C722%20breached%20accounts%202026-01-27%20data%20breach" target="_blank" rel="noopener noreferrer">SoundCloud - 29,815,722 breached accounts</a> |
 | Match Group | 2026-01-27 | <a href="https://www.google.com/search?q=Match%20Group%202026-01-27%20data%20breach" target="_blank" rel="noopener noreferrer">Match Group</a> |
 | Panera Bread | 2026-01-26 | <a href="https://www.google.com/search?q=Panera%20Bread%202026-01-26%20data%20breach" target="_blank" rel="noopener noreferrer">Panera Bread</a> |
@@ -51,7 +52,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Advanced Dental | 2025-11-23 | <a href="https://www.google.com/search?q=Advanced%20Dental%202025-11-23%20data%20breach" target="_blank" rel="noopener noreferrer">Advanced Dental</a> |
 | Heart South Cardiovascular Group | 2025-11-21 | <a href="https://www.google.com/search?q=Heart%20South%20Cardiovascular%20Group%202025-11-21%20data%20breach" target="_blank" rel="noopener noreferrer">Heart South Cardiovascular Group</a> |
 | International Kiteboarding Organization - 340,349 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=International%20Kiteboarding%20Organization%20-%20340%2C349%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">International Kiteboarding Organization - 340,349 breached accounts</a> |
-| Beckett Collectibles - 1,041,238 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=Beckett%20Collectibles%20-%201%2C041%2C238%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">Beckett Collectibles - 1,041,238 breached accounts</a> |
 | Medical Center, LLP | 2025-11-19 | <a href="https://www.google.com/search?q=Medical%20Center%2C%20LLP%202025-11-19%20data%20breach" target="_blank" rel="noopener noreferrer">Medical Center, LLP</a> |
 | Doctor Alliance | 2025-11-18 | <a href="https://www.google.com/search?q=Doctor%20Alliance%202025-11-18%20data%20breach" target="_blank" rel="noopener noreferrer">Doctor Alliance</a> |
 | Zilvia.net | Nov-2025 | <a href="https://www.google.com/search?q=Zilvia.net%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Zilvia.net</a> |
