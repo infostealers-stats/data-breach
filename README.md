@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Betterment - 1,435,174 breached accounts | 2026-02-05 | <a href="https://www.google.com/search?q=Betterment%20-%201%2C435%2C174%20breached%20accounts%202026-02-05%20data%20breach" target="_blank" rel="noopener noreferrer">Betterment - 1,435,174 breached accounts</a> |
 | Panera Bread - 5,112,502 breached accounts | 2026-01-31 | <a href="https://www.google.com/search?q=Panera%20Bread%20-%205%2C112%2C502%20breached%20accounts%202026-01-31%20data%20breach" target="_blank" rel="noopener noreferrer">Panera Bread - 5,112,502 breached accounts</a> |
 | SoundCloud - 29,815,722 breached accounts | 2026-01-27 | <a href="https://www.google.com/search?q=SoundCloud%20-%2029%2C815%2C722%20breached%20accounts%202026-01-27%20data%20breach" target="_blank" rel="noopener noreferrer">SoundCloud - 29,815,722 breached accounts</a> |
 | Match Group | 2026-01-27 | <a href="https://www.google.com/search?q=Match%20Group%202026-01-27%20data%20breach" target="_blank" rel="noopener noreferrer">Match Group</a> |
@@ -26,7 +27,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Pass'Sport - 6,366,133 breached accounts | 2026-01-18 | <a href="https://www.google.com/search?q=Pass'Sport%20-%206%2C366%2C133%20breached%20accounts%202026-01-18%20data%20breach" target="_blank" rel="noopener noreferrer">Pass'Sport - 6,366,133 breached accounts</a> |
 | Instagram - 6,215,150 breached accounts | 2026-01-11 | <a href="https://www.google.com/search?q=Instagram%20-%206%2C215%2C150%20breached%20accounts%202026-01-11%20data%20breach" target="_blank" rel="noopener noreferrer">Instagram - 6,215,150 breached accounts</a> |
 | BreachForums (2025) - 672,247 breached accounts | 2026-01-10 | <a href="https://www.google.com/search?q=BreachForums%20(2025)%20-%20672%2C247%20breached%20accounts%202026-01-10%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums (2025) - 672,247 breached accounts</a> |
-| WhiteDate - 6,076 breached accounts | 2026-01-06 | <a href="https://www.google.com/search?q=WhiteDate%20-%206%2C076%20breached%20accounts%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate - 6,076 breached accounts</a> |
+| WhiteDate - 20,363 breached accounts | 2026-01-06 | <a href="https://www.google.com/search?q=WhiteDate%20-%2020%2C363%20breached%20accounts%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate - 20,363 breached accounts</a> |
 | SNU.GOUV.FR | 2026-01-06 | <a href="https://www.google.com/search?q=SNU.GOUV.FR%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">SNU.GOUV.FR</a> |
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | RedHat Gitlab | 2025-12-30 | <a href="https://www.google.com/search?q=RedHat%20Gitlab%202025-12-30%20data%20breach" target="_blank" rel="noopener noreferrer">RedHat Gitlab</a> |
@@ -51,7 +52,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | ADDA - 1,829,314 breached accounts | 2025-11-23 | <a href="https://www.google.com/search?q=ADDA%20-%201%2C829%2C314%20breached%20accounts%202025-11-23%20data%20breach" target="_blank" rel="noopener noreferrer">ADDA - 1,829,314 breached accounts</a> |
 | Advanced Dental | 2025-11-23 | <a href="https://www.google.com/search?q=Advanced%20Dental%202025-11-23%20data%20breach" target="_blank" rel="noopener noreferrer">Advanced Dental</a> |
 | Heart South Cardiovascular Group | 2025-11-21 | <a href="https://www.google.com/search?q=Heart%20South%20Cardiovascular%20Group%202025-11-21%20data%20breach" target="_blank" rel="noopener noreferrer">Heart South Cardiovascular Group</a> |
-| International Kiteboarding Organization - 340,349 breached accounts | 2025-11-20 | <a href="https://www.google.com/search?q=International%20Kiteboarding%20Organization%20-%20340%2C349%20breached%20accounts%202025-11-20%20data%20breach" target="_blank" rel="noopener noreferrer">International Kiteboarding Organization - 340,349 breached accounts</a> |
 | Medical Center, LLP | 2025-11-19 | <a href="https://www.google.com/search?q=Medical%20Center%2C%20LLP%202025-11-19%20data%20breach" target="_blank" rel="noopener noreferrer">Medical Center, LLP</a> |
 | Doctor Alliance | 2025-11-18 | <a href="https://www.google.com/search?q=Doctor%20Alliance%202025-11-18%20data%20breach" target="_blank" rel="noopener noreferrer">Doctor Alliance</a> |
 | Zilvia.net | Nov-2025 | <a href="https://www.google.com/search?q=Zilvia.net%20Nov-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Zilvia.net</a> |
