@@ -12,6 +12,9 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Toy Battles | Feb-2026 | <a href="https://www.google.com/search?q=Toy%20Battles%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles</a> |
+| Toy Battles - 1,017 breached accounts | 2026-02-10 | <a href="https://www.google.com/search?q=Toy%20Battles%20-%201%2C017%20breached%20accounts%202026-02-10%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles - 1,017 breached accounts</a> |
+| Association Nationale des Premiers Secours - 5,600 breached accounts | 2026-02-10 | <a href="https://www.google.com/search?q=Association%20Nationale%20des%20Premiers%20Secours%20-%205%2C600%20breached%20accounts%202026-02-10%20data%20breach" target="_blank" rel="noopener noreferrer">Association Nationale des Premiers Secours - 5,600 breached accounts</a> |
 | Substack | 2026-02-09 | <a href="https://www.google.com/search?q=Substack%202026-02-09%20data%20breach" target="_blank" rel="noopener noreferrer">Substack</a> |
 | Substack - 663,121 breached accounts | 2026-02-06 | <a href="https://www.google.com/search?q=Substack%20-%20663%2C121%20breached%20accounts%202026-02-06%20data%20breach" target="_blank" rel="noopener noreferrer">Substack - 663,121 breached accounts</a> |
 | Betterment - 1,435,174 breached accounts | 2026-02-05 | <a href="https://www.google.com/search?q=Betterment%20-%201%2C435%2C174%20breached%20accounts%202026-02-05%20data%20breach" target="_blank" rel="noopener noreferrer">Betterment - 1,435,174 breached accounts</a> |
@@ -49,10 +52,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | KinoKong - 817,808 breached accounts | 2025-12-06 | <a href="https://www.google.com/search?q=KinoKong%20-%20817%2C808%20breached%20accounts%202025-12-06%20data%20breach" target="_blank" rel="noopener noreferrer">KinoKong - 817,808 breached accounts</a> |
 | Zilvia.net - 287,863 breached accounts | 2025-12-01 | <a href="https://www.google.com/search?q=Zilvia.net%20-%20287%2C863%20breached%20accounts%202025-12-01%20data%20breach" target="_blank" rel="noopener noreferrer">Zilvia.net - 287,863 breached accounts</a> |
 | Family Farm and Home | 2025-11-28 | <a href="https://www.google.com/search?q=Family%20Farm%20and%20Home%202025-11-28%20data%20breach" target="_blank" rel="noopener noreferrer">Family Farm and Home</a> |
-| China Software Developer Network - 6,414,990 breached accounts | 2025-11-27 | <a href="https://www.google.com/search?q=China%20Software%20Developer%20Network%20-%206%2C414%2C990%20breached%20accounts%202025-11-27%20data%20breach" target="_blank" rel="noopener noreferrer">China Software Developer Network - 6,414,990 breached accounts</a> |
 | Iberia Airlines | 2025-11-25 | <a href="https://www.google.com/search?q=Iberia%20Airlines%202025-11-25%20data%20breach" target="_blank" rel="noopener noreferrer">Iberia Airlines</a> |
 | Under Armour | 2025-11-24 | <a href="https://www.google.com/search?q=Under%20Armour%202025-11-24%20data%20breach" target="_blank" rel="noopener noreferrer">Under Armour</a> |
-| CodeStepByStep - 103,077 breached accounts | 2025-11-23 | <a href="https://www.google.com/search?q=CodeStepByStep%20-%20103%2C077%20breached%20accounts%202025-11-23%20data%20breach" target="_blank" rel="noopener noreferrer">CodeStepByStep - 103,077 breached accounts</a> |
 | Advanced Dental | 2025-11-23 | <a href="https://www.google.com/search?q=Advanced%20Dental%202025-11-23%20data%20breach" target="_blank" rel="noopener noreferrer">Advanced Dental</a> |
 | Heart South Cardiovascular Group | 2025-11-21 | <a href="https://www.google.com/search?q=Heart%20South%20Cardiovascular%20Group%202025-11-21%20data%20breach" target="_blank" rel="noopener noreferrer">Heart South Cardiovascular Group</a> |
 | Medical Center, LLP | 2025-11-19 | <a href="https://www.google.com/search?q=Medical%20Center%2C%20LLP%202025-11-19%20data%20breach" target="_blank" rel="noopener noreferrer">Medical Center, LLP</a> |
