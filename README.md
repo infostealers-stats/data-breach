@@ -12,7 +12,8 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
-| Odido - 1,520,769 breached accounts | 2026-02-26 | <a href="https://www.google.com/search?q=Odido%20-%201%2C520%2C769%20breached%20accounts%202026-02-26%20data%20breach" target="_blank" rel="noopener noreferrer">Odido - 1,520,769 breached accounts</a> |
+| KomikoAI - 1,060,191 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=KomikoAI%20-%201%2C060%2C191%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">KomikoAI - 1,060,191 breached accounts</a> |
+| Odido - 6,077,025 breached accounts | 2026-02-26 | <a href="https://www.google.com/search?q=Odido%20-%206%2C077%2C025%20breached%20accounts%202026-02-26%20data%20breach" target="_blank" rel="noopener noreferrer">Odido - 6,077,025 breached accounts</a> |
 | Canadian Tire - 38,306,562 breached accounts | 2026-02-25 | <a href="https://www.google.com/search?q=Canadian%20Tire%20-%2038%2C306%2C562%20breached%20accounts%202026-02-25%20data%20breach" target="_blank" rel="noopener noreferrer">Canadian Tire - 38,306,562 breached accounts</a> |
 | CarGurus - 12,461,887 breached accounts | 2026-02-22 | <a href="https://www.google.com/search?q=CarGurus%20-%2012%2C461%2C887%20breached%20accounts%202026-02-22%20data%20breach" target="_blank" rel="noopener noreferrer">CarGurus - 12,461,887 breached accounts</a> |
 | Mercer Advisors | 2026-02-22 | <a href="https://www.google.com/search?q=Mercer%20Advisors%202026-02-22%20data%20breach" target="_blank" rel="noopener noreferrer">Mercer Advisors</a> |
@@ -23,6 +24,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | University of Pennsylvania - 623,750 breached accounts | 2026-02-16 | <a href="https://www.google.com/search?q=University%20of%20Pennsylvania%20-%20623%2C750%20breached%20accounts%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">University of Pennsylvania - 623,750 breached accounts</a> |
 | APOIA.se - 450,764 breached accounts | 2026-02-16 | <a href="https://www.google.com/search?q=APOIA.se%20-%20450%2C764%20breached%20accounts%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">APOIA.se - 450,764 breached accounts</a> |
 | Canada Goose | 2026-02-16 | <a href="https://www.google.com/search?q=Canada%20Goose%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Goose</a> |
+| KomikoAI | Feb-2026 | <a href="https://www.google.com/search?q=KomikoAI%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">KomikoAI</a> |
 | Odido | Feb-2026 | <a href="https://www.google.com/search?q=Odido%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Odido</a> |
 | Toy Battles | Feb-2026 | <a href="https://www.google.com/search?q=Toy%20Battles%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles</a> |
 | Figure Technology Solutions | 2026-02-14 | <a href="https://www.google.com/search?q=Figure%20Technology%20Solutions%202026-02-14%20data%20breach" target="_blank" rel="noopener noreferrer">Figure Technology Solutions</a> |
@@ -50,7 +52,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Association Nationale des Premiers Secours | Jan-2026 | <a href="https://www.google.com/search?q=Association%20Nationale%20des%20Premiers%20Secours%20Jan-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Association Nationale des Premiers Secours</a> |
 | Instagram - 6,215,150 breached accounts | 2026-01-11 | <a href="https://www.google.com/search?q=Instagram%20-%206%2C215%2C150%20breached%20accounts%202026-01-11%20data%20breach" target="_blank" rel="noopener noreferrer">Instagram - 6,215,150 breached accounts</a> |
 | BreachForums (2025) - 672,247 breached accounts | 2026-01-10 | <a href="https://www.google.com/search?q=BreachForums%20(2025)%20-%20672%2C247%20breached%20accounts%202026-01-10%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums (2025) - 672,247 breached accounts</a> |
-| WhiteDate - 20,363 breached accounts | 2026-01-06 | <a href="https://www.google.com/search?q=WhiteDate%20-%2020%2C363%20breached%20accounts%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate - 20,363 breached accounts</a> |
 | SNU.GOUV.FR | 2026-01-06 | <a href="https://www.google.com/search?q=SNU.GOUV.FR%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">SNU.GOUV.FR</a> |
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
