@@ -16,6 +16,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Lovora - 495,556 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=Lovora%20-%20495%2C556%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">Lovora - 495,556 breached accounts</a> |
 | Quitbro - 22,874 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=Quitbro%20-%2022%2C874%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">Quitbro - 22,874 breached accounts</a> |
 | KomikoAI - 1,060,191 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=KomikoAI%20-%201%2C060%2C191%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">KomikoAI - 1,060,191 breached accounts</a> |
+| guidely.in | 2026-03-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/guidely-in/" target="_blank" rel="noopener noreferrer">guidely.in</a> |
 | Cegedim.fr | 2026-02-27 | <a href="https://www.google.com/search?q=Cegedim.fr%202026-02-27%20data%20breach" target="_blank" rel="noopener noreferrer">Cegedim.fr</a> |
 | Odido - 6,077,025 breached accounts | 2026-02-26 | <a href="https://www.google.com/search?q=Odido%20-%206%2C077%2C025%20breached%20accounts%202026-02-26%20data%20breach" target="_blank" rel="noopener noreferrer">Odido - 6,077,025 breached accounts</a> |
 | Canadian Tire - 38,306,562 breached accounts | 2026-02-25 | <a href="https://www.google.com/search?q=Canadian%20Tire%20-%2038%2C306%2C562%20breached%20accounts%202026-02-25%20data%20breach" target="_blank" rel="noopener noreferrer">Canadian Tire - 38,306,562 breached accounts</a> |
@@ -40,12 +41,11 @@ This repository is built for researchers, security teams, journalists, and devel
 | Substack | 2026-02-09 | <a href="https://www.google.com/search?q=Substack%202026-02-09%20data%20breach" target="_blank" rel="noopener noreferrer">Substack</a> |
 | Substack - 663,121 breached accounts | 2026-02-06 | <a href="https://www.google.com/search?q=Substack%20-%20663%2C121%20breached%20accounts%202026-02-06%20data%20breach" target="_blank" rel="noopener noreferrer">Substack - 663,121 breached accounts</a> |
 | Betterment - 1,435,174 breached accounts | 2026-02-05 | <a href="https://www.google.com/search?q=Betterment%20-%201%2C435%2C174%20breached%20accounts%202026-02-05%20data%20breach" target="_blank" rel="noopener noreferrer">Betterment - 1,435,174 breached accounts</a> |
+| goli.com | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/goli-com/" target="_blank" rel="noopener noreferrer">goli.com</a> |
 | miltor.ru | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/miltor-ru/" target="_blank" rel="noopener noreferrer">miltor.ru</a> |
 | farmersdatingapp.com | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/farmersdatingapp-com/" target="_blank" rel="noopener noreferrer">farmersdatingapp.com</a> |
 | merceradvisors.com | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/merceradvisors-com/" target="_blank" rel="noopener noreferrer">merceradvisors.com</a> |
 | bіnbаnk.ru | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/b%d1%96nb%d0%b0nk-ru/" target="_blank" rel="noopener noreferrer">bіnbаnk.ru</a> |
-| Pares.AI | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/pares-ai/" target="_blank" rel="noopener noreferrer">Pares.AI</a> |
-| icab.org.bd | 2026-02-01 | <a href="https://lunarcyber.com/lunar-breach-catalog/icab-org-bd/" target="_blank" rel="noopener noreferrer">icab.org.bd</a> |
 | Panera Bread - 5,112,502 breached accounts | 2026-01-31 | <a href="https://www.google.com/search?q=Panera%20Bread%20-%205%2C112%2C502%20breached%20accounts%202026-01-31%20data%20breach" target="_blank" rel="noopener noreferrer">Panera Bread - 5,112,502 breached accounts</a> |
 | Iroquois Memorial Hospital | 2026-01-30 | <a href="https://www.google.com/search?q=Iroquois%20Memorial%20Hospital%202026-01-30%20data%20breach" target="_blank" rel="noopener noreferrer">Iroquois Memorial Hospital</a> |
 | SoundCloud - 29,815,722 breached accounts | 2026-01-27 | <a href="https://www.google.com/search?q=SoundCloud%20-%2029%2C815%2C722%20breached%20accounts%202026-01-27%20data%20breach" target="_blank" rel="noopener noreferrer">SoundCloud - 29,815,722 breached accounts</a> |
@@ -73,7 +73,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Pass&#x27;Sport | Dec-2025 | <a href="https://www.google.com/search?q=Pass%26%23x27%3BSport%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Pass&#x27;Sport</a> |
 | WhiteDate | Dec-2025 | <a href="https://www.google.com/search?q=WhiteDate%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">WhiteDate</a> |
 | Resource Corporation of America | 2025-12-09 | <a href="https://www.google.com/search?q=Resource%20Corporation%20of%20America%202025-12-09%20data%20breach" target="_blank" rel="noopener noreferrer">Resource Corporation of America</a> |
-| travelclub.es | 2025-12-08 | <a href="https://lunarcyber.com/lunar-breach-catalog/travelclub-es/" target="_blank" rel="noopener noreferrer">travelclub.es</a> |
 | Air Miles España (Travel Club) | 2025-12-08 | <a href="https://www.google.com/search?q=Air%20Miles%20Espa%C3%B1a%20(Travel%20Club)%202025-12-08%20data%20breach" target="_blank" rel="noopener noreferrer">Air Miles España (Travel Club)</a> |
 | Mid South Pulmonary &amp; Sleep Specialists | 2025-11-28 | <a href="https://www.google.com/search?q=Mid%20South%20Pulmonary%20%26amp%3B%20Sleep%20Specialists%202025-11-28%20data%20breach" target="_blank" rel="noopener noreferrer">Mid South Pulmonary &amp; Sleep Specialists</a> |
 | Family Farm and Home | 2025-11-28 | <a href="https://www.google.com/search?q=Family%20Farm%20and%20Home%202025-11-28%20data%20breach" target="_blank" rel="noopener noreferrer">Family Farm and Home</a> |
@@ -325,6 +324,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Chris Leong | Aug-2024 | <a href="https://www.google.com/search?q=Chris%20Leong%20Aug-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Chris Leong</a> |
 | Not SOCRadar | Aug-2024 | <a href="https://www.google.com/search?q=Not%20SOCRadar%20Aug-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Not SOCRadar</a> |
 | Unknown Breach (not SOCRadar) | 2024-08-03 | <a href="https://www.google.com/search?q=Unknown%20Breach%20(not%20SOCRadar)%202024-08-03%20data%20breach" target="_blank" rel="noopener noreferrer">Unknown Breach (not SOCRadar)</a> |
+| centraltickets.co.uk | 2024-07-24 | <a href="https://lunarcyber.com/lunar-breach-catalog/centraltickets-co-uk/" target="_blank" rel="noopener noreferrer">centraltickets.co.uk</a> |
 | Otelier | Jul-2024 | <a href="https://www.google.com/search?q=Otelier%20Jul-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Otelier</a> |
 | MSI | Jul-2024 | <a href="https://www.google.com/search?q=MSI%20Jul-2024%20data%20breach" target="_blank" rel="noopener noreferrer">MSI</a> |
 | Ladies.com | Jul-2024 | <a href="https://www.google.com/search?q=Ladies.com%20Jul-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Ladies.com</a> |
