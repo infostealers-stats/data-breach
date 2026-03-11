@@ -1348,3 +1348,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | MySpace | 2008-07-01 | <a href="https://www.google.com/search?q=MySpace%202008-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">MySpace</a> |
 | Foxy Bingo | Apr-2008 | <a href="https://www.google.com/search?q=Foxy%20Bingo%20Apr-2008%20data%20breach" target="_blank" rel="noopener noreferrer">Foxy Bingo</a> |
 | gPotato | 2007-07-12 | <a href="https://www.google.com/search?q=gPotato%202007-07-12%20data%20breach" target="_blank" rel="noopener noreferrer">gPotato</a> |
+| behrmanhouse.com |  | <a href="https://www.google.com/search?q=behrmanhouse.com%20%20data%20breach" target="_blank" rel="noopener noreferrer">behrmanhouse.com</a> |
+| pass.sports.gouv.fr |  | <a href="https://www.google.com/search?q=pass.sports.gouv.fr%20%20data%20breach" target="_blank" rel="noopener noreferrer">pass.sports.gouv.fr</a> |
+| trescal.com |  | <a href="https://www.google.com/search?q=trescal.com%20%20data%20breach" target="_blank" rel="noopener noreferrer">trescal.com</a> |
