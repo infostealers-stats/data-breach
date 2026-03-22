@@ -229,8 +229,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | High Point Treatment Center | 2025-07-26 | <a href="https://www.google.com/search?q=High%20Point%20Treatment%20Center%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">High Point Treatment Center</a> |
 | swfldermatology.com | 2025-07-26 | <a href="https://www.google.com/search?q=swfldermatology.com%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">swfldermatology.com</a> |
 | Mailchimp | 2025-07-26 | <a href="https://www.google.com/search?q=Mailchimp%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">Mailchimp</a> |
-| Bitbox | 2025-07-26 | <a href="https://www.google.com/search?q=Bitbox%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">Bitbox</a> |
 | Grayscale Investments | 2025-07-26 | <a href="https://www.google.com/search?q=Grayscale%20Investments%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">Grayscale Investments</a> |
+| Bitbox | 2025-07-26 | <a href="https://www.google.com/search?q=Bitbox%202025-07-26%20data%20breach" target="_blank" rel="noopener noreferrer">Bitbox</a> |
 | teampostop.net | 2025-07-24 | <a href="https://www.google.com/search?q=teampostop.net%202025-07-24%20data%20breach" target="_blank" rel="noopener noreferrer">teampostop.net</a> |
 | Vantage Finance | 2025-07-21 | <a href="https://www.google.com/search?q=Vantage%20Finance%202025-07-21%20data%20breach" target="_blank" rel="noopener noreferrer">Vantage Finance</a> |
 | heartlineoklahoma.org | 2025-07-21 | <a href="https://www.google.com/search?q=heartlineoklahoma.org%202025-07-21%20data%20breach" target="_blank" rel="noopener noreferrer">heartlineoklahoma.org</a> |
@@ -296,8 +296,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | Troy Hunt&#x27;s Mailchimp List | Mar-2025 | <a href="https://www.google.com/search?q=Troy%20Hunt%26%23x27%3Bs%20Mailchimp%20List%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Troy Hunt&#x27;s Mailchimp List</a> |
 | ADDA | 2025-03-07 | <a href="https://www.google.com/search?q=ADDA%202025-03-07%20data%20breach" target="_blank" rel="noopener noreferrer">ADDA</a> |
 | Royal Mail | 2025-03-01 | <a href="https://www.google.com/search?q=Royal%20Mail%202025-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">Royal Mail</a> |
-| BeYoung.in | 2025-03-01 | <a href="https://www.google.com/search?q=BeYoung.in%202025-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">BeYoung.in</a> |
 | Have I Been Drained | 2025-03-01 | <a href="https://www.google.com/search?q=Have%20I%20Been%20Drained%202025-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">Have I Been Drained</a> |
+| BeYoung.in | 2025-03-01 | <a href="https://www.google.com/search?q=BeYoung.in%202025-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">BeYoung.in</a> |
 | Orange Romania | 2025-02-25 | <a href="https://www.google.com/search?q=Orange%20Romania%202025-02-25%20data%20breach" target="_blank" rel="noopener noreferrer">Orange Romania</a> |
 | ALIEN TXTBASE Stealer Logs | 2025-02-15 | <a href="https://www.google.com/search?q=ALIEN%20TXTBASE%20Stealer%20Logs%202025-02-15%20data%20breach" target="_blank" rel="noopener noreferrer">ALIEN TXTBASE Stealer Logs</a> |
 | Adpost | Feb-2025 | <a href="https://www.google.com/search?q=Adpost%20Feb-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Adpost</a> |
@@ -334,10 +334,10 @@ This repository is built for researchers, security teams, journalists, and devel
 | Senior Dating | Nov-2024 | <a href="https://www.google.com/search?q=Senior%20Dating%20Nov-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Senior Dating</a> |
 | FlipaClip | Nov-2024 | <a href="https://www.google.com/search?q=FlipaClip%20Nov-2024%20data%20breach" target="_blank" rel="noopener noreferrer">FlipaClip</a> |
 | PoinCampus | 2024-11-14 | <a href="https://www.google.com/search?q=PoinCampus%202024-11-14%20data%20breach" target="_blank" rel="noopener noreferrer">PoinCampus</a> |
-| US Bank | 2024-11-13 | <a href="https://www.google.com/search?q=US%20Bank%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">US Bank</a> |
-| Cardinal Health | 2024-11-13 | <a href="https://www.google.com/search?q=Cardinal%20Health%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Cardinal Health</a> |
-| CalSTRS | 2024-11-13 | <a href="https://www.google.com/search?q=CalSTRS%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">CalSTRS</a> |
 | MetLife | 2024-11-13 | <a href="https://www.google.com/search?q=MetLife%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">MetLife</a> |
+| CalSTRS | 2024-11-13 | <a href="https://www.google.com/search?q=CalSTRS%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">CalSTRS</a> |
+| Cardinal Health | 2024-11-13 | <a href="https://www.google.com/search?q=Cardinal%20Health%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Cardinal Health</a> |
+| US Bank | 2024-11-13 | <a href="https://www.google.com/search?q=US%20Bank%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">US Bank</a> |
 | InterBank | 2024-10-30 | <a href="https://www.google.com/search?q=InterBank%202024-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">InterBank</a> |
 | Free France | 2024-10-17 | <a href="https://www.google.com/search?q=Free%20France%202024-10-17%20data%20breach" target="_blank" rel="noopener noreferrer">Free France</a> |
 | Free | Oct-2024 | <a href="https://www.google.com/search?q=Free%20Oct-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Free</a> |
@@ -458,27 +458,27 @@ This repository is built for researchers, security teams, journalists, and devel
 | Dymocks | Jun-2023 | <a href="https://www.google.com/search?q=Dymocks%20Jun-2023%20data%20breach" target="_blank" rel="noopener noreferrer">Dymocks</a> |
 | BreachForums Clone | Jun-2023 | <a href="https://www.google.com/search?q=BreachForums%20Clone%20Jun-2023%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums Clone</a> |
 | centerpointenergy.com | 2023-05-31 | <a href="https://www.google.com/search?q=centerpointenergy.com%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">centerpointenergy.com</a> |
-| Coca Cola | 2023-05-31 | <a href="https://www.google.com/search?q=Coca%20Cola%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Coca Cola</a> |
 | Delta Dental | 2023-05-31 | <a href="https://www.google.com/search?q=Delta%20Dental%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Delta Dental</a> |
 | Miami-Dade County | 2023-05-31 | <a href="https://www.google.com/search?q=Miami-Dade%20County%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Miami-Dade County</a> |
-| Dentsu | 2023-05-31 | <a href="https://www.google.com/search?q=Dentsu%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Dentsu</a> |
 | US Sugar | 2023-05-31 | <a href="https://www.google.com/search?q=US%20Sugar%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">US Sugar</a> |
+| Coca Cola | 2023-05-31 | <a href="https://www.google.com/search?q=Coca%20Cola%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Coca Cola</a> |
+| Dentsu | 2023-05-31 | <a href="https://www.google.com/search?q=Dentsu%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Dentsu</a> |
 | Etsy | 2023-05-31 | <a href="https://www.google.com/search?q=Etsy%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Etsy</a> |
 | City of Troy | 2023-05-31 | <a href="https://www.google.com/search?q=City%20of%20Troy%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">City of Troy</a> |
-| Ascension Healthcare | 2023-05-31 | <a href="https://www.google.com/search?q=Ascension%20Healthcare%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Ascension Healthcare</a> |
-| Centra Care | 2023-05-31 | <a href="https://www.google.com/search?q=Centra%20Care%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Centra Care</a> |
 | OSF Healthcare | 2023-05-31 | <a href="https://www.google.com/search?q=OSF%20Healthcare%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">OSF Healthcare</a> |
-| Common Spirit | 2023-05-31 | <a href="https://www.google.com/search?q=Common%20Spirit%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Common Spirit</a> |
-| Mass General Brigham | 2023-05-31 | <a href="https://www.google.com/search?q=Mass%20General%20Brigham%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Mass General Brigham</a> |
-| WVU Medecine | 2023-05-31 | <a href="https://www.google.com/search?q=WVU%20Medecine%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">WVU Medecine</a> |
 | Sutter Health | 2023-05-31 | <a href="https://www.google.com/search?q=Sutter%20Health%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Sutter Health</a> |
-| Morgan Stanley | 2023-05-31 | <a href="https://www.google.com/search?q=Morgan%20Stanley%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Morgan Stanley</a> |
+| Mass General Brigham | 2023-05-31 | <a href="https://www.google.com/search?q=Mass%20General%20Brigham%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Mass General Brigham</a> |
+| Common Spirit | 2023-05-31 | <a href="https://www.google.com/search?q=Common%20Spirit%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Common Spirit</a> |
+| Ascension Healthcare | 2023-05-31 | <a href="https://www.google.com/search?q=Ascension%20Healthcare%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Ascension Healthcare</a> |
+| WVU Medecine | 2023-05-31 | <a href="https://www.google.com/search?q=WVU%20Medecine%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">WVU Medecine</a> |
+| Centra Care | 2023-05-31 | <a href="https://www.google.com/search?q=Centra%20Care%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Centra Care</a> |
 | Nokia | 2023-05-31 | <a href="https://www.google.com/search?q=Nokia%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Nokia</a> |
+| Bank of America | 2023-05-31 | <a href="https://www.google.com/search?q=Bank%20of%20America%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Bank of America</a> |
 | Xerox | 2023-05-31 | <a href="https://www.google.com/search?q=Xerox%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Xerox</a> |
-| Koch | 2023-05-31 | <a href="https://www.google.com/search?q=Koch%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Koch</a> |
 | Bridgewater Associates | 2023-05-31 | <a href="https://www.google.com/search?q=Bridgewater%20Associates%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Bridgewater Associates</a> |
 | JLL.com | 2023-05-31 | <a href="https://www.google.com/search?q=JLL.com%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">JLL.com</a> |
-| Bank of America | 2023-05-31 | <a href="https://www.google.com/search?q=Bank%20of%20America%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Bank of America</a> |
+| Morgan Stanley | 2023-05-31 | <a href="https://www.google.com/search?q=Morgan%20Stanley%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Morgan Stanley</a> |
+| Koch | 2023-05-31 | <a href="https://www.google.com/search?q=Koch%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Koch</a> |
 | Amazon | 2023-05-31 | <a href="https://www.google.com/search?q=Amazon%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">Amazon</a> |
 | TIAA.org | 2023-05-31 | <a href="https://www.google.com/search?q=TIAA.org%202023-05-31%20data%20breach" target="_blank" rel="noopener noreferrer">TIAA.org</a> |
 | JD Group | May-2023 | <a href="https://www.google.com/search?q=JD%20Group%20May-2023%20data%20breach" target="_blank" rel="noopener noreferrer">JD Group</a> |
