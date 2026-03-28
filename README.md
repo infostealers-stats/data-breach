@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| BreachForums Version 5 - 339,778 breached accounts | 2026-03-27 | <a href="https://www.google.com/search?q=BreachForums%20Version%205%20-%20339%2C778%20breached%20accounts%202026-03-27%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums Version 5 - 339,778 breached accounts</a> |
 | Scuf Gaming - 128,683 breached accounts | 2026-03-26 | <a href="https://www.google.com/search?q=Scuf%20Gaming%20-%20128%2C683%20breached%20accounts%202026-03-26%20data%20breach" target="_blank" rel="noopener noreferrer">Scuf Gaming - 128,683 breached accounts</a> |
 | Sound Radix - 292,993 breached accounts | 2026-03-26 | <a href="https://www.google.com/search?q=Sound%20Radix%20-%20292%2C993%20breached%20accounts%202026-03-26%20data%20breach" target="_blank" rel="noopener noreferrer">Sound Radix - 292,993 breached accounts</a> |
 | RuneScape Boards - 222,762 breached accounts | 2026-03-23 | <a href="https://www.google.com/search?q=RuneScape%20Boards%20-%20222%2C762%20breached%20accounts%202026-03-23%20data%20breach" target="_blank" rel="noopener noreferrer">RuneScape Boards - 222,762 breached accounts</a> |
@@ -19,6 +20,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Aura - 903,080 breached accounts | 2026-03-18 | <a href="https://www.google.com/search?q=Aura%20-%20903%2C080%20breached%20accounts%202026-03-18%20data%20breach" target="_blank" rel="noopener noreferrer">Aura - 903,080 breached accounts</a> |
 | Divine Skins - 105,814 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Divine%20Skins%20-%20105%2C814%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Divine Skins - 105,814 breached accounts</a> |
 | Baydöner - 1,266,822 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Bayd%C3%B6ner%20-%201%2C266%2C822%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Baydöner - 1,266,822 breached accounts</a> |
+| BreachForums Version 5 | Mar-2026 | <a href="https://www.google.com/search?q=BreachForums%20Version%205%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums Version 5</a> |
 | Sound Radix | Mar-2026 | <a href="https://www.google.com/search?q=Sound%20Radix%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Sound Radix</a> |
 | Aura | Mar-2026 | <a href="https://www.google.com/search?q=Aura%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Aura</a> |
 | Divine Skins | Mar-2026 | <a href="https://www.google.com/search?q=Divine%20Skins%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Divine Skins</a> |
@@ -65,7 +67,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Figure Technology Solutions | 2026-02-14 | <a href="https://www.google.com/search?q=Figure%20Technology%20Solutions%202026-02-14%20data%20breach" target="_blank" rel="noopener noreferrer">Figure Technology Solutions</a> |
 | cryptoxscanner.com | 2026-02-11 | <a href="https://lunarcyber.com/breach-catalog/cryptoxscanner-com/" target="_blank" rel="noopener noreferrer">cryptoxscanner.com</a> |
 | Toy Battles - 1,017 breached accounts | 2026-02-10 | <a href="https://www.google.com/search?q=Toy%20Battles%20-%201%2C017%20breached%20accounts%202026-02-10%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles - 1,017 breached accounts</a> |
-| Association Nationale des Premiers Secours - 5,600 breached accounts | 2026-02-10 | <a href="https://www.google.com/search?q=Association%20Nationale%20des%20Premiers%20Secours%20-%205%2C600%20breached%20accounts%202026-02-10%20data%20breach" target="_blank" rel="noopener noreferrer">Association Nationale des Premiers Secours - 5,600 breached accounts</a> |
 | Substack | 2026-02-09 | <a href="https://www.google.com/search?q=Substack%202026-02-09%20data%20breach" target="_blank" rel="noopener noreferrer">Substack</a> |
 | Optimum Health Institute | 2026-02-08 | <a href="https://www.google.com/search?q=Optimum%20Health%20Institute%202026-02-08%20data%20breach" target="_blank" rel="noopener noreferrer">Optimum Health Institute</a> |
 | San Diego Eye Bank | 2026-02-04 | <a href="https://www.google.com/search?q=San%20Diego%20Eye%20Bank%202026-02-04%20data%20breach" target="_blank" rel="noopener noreferrer">San Diego Eye Bank</a> |
