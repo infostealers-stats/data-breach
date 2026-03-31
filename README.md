@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Cuties AI - 144,250 breached accounts | 2026-03-31 | <a href="https://www.google.com/search?q=Cuties%20AI%20-%20144%2C250%20breached%20accounts%202026-03-31%20data%20breach" target="_blank" rel="noopener noreferrer">Cuties AI - 144,250 breached accounts</a> |
 | BreachForums Version 5 - 339,778 breached accounts | 2026-03-27 | <a href="https://www.google.com/search?q=BreachForums%20Version%205%20-%20339%2C778%20breached%20accounts%202026-03-27%20data%20breach" target="_blank" rel="noopener noreferrer">BreachForums Version 5 - 339,778 breached accounts</a> |
 | Scuf Gaming - 128,683 breached accounts | 2026-03-26 | <a href="https://www.google.com/search?q=Scuf%20Gaming%20-%20128%2C683%20breached%20accounts%202026-03-26%20data%20breach" target="_blank" rel="noopener noreferrer">Scuf Gaming - 128,683 breached accounts</a> |
 | Sound Radix - 292,993 breached accounts | 2026-03-26 | <a href="https://www.google.com/search?q=Sound%20Radix%20-%20292%2C993%20breached%20accounts%202026-03-26%20data%20breach" target="_blank" rel="noopener noreferrer">Sound Radix - 292,993 breached accounts</a> |
@@ -69,7 +70,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Toy Battles | Feb-2026 | <a href="https://www.google.com/search?q=Toy%20Battles%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles</a> |
 | Figure Technology Solutions | 2026-02-14 | <a href="https://www.google.com/search?q=Figure%20Technology%20Solutions%202026-02-14%20data%20breach" target="_blank" rel="noopener noreferrer">Figure Technology Solutions</a> |
 | cryptoxscanner.com | 2026-02-11 | <a href="https://lunarcyber.com/breach-catalog/cryptoxscanner-com/" target="_blank" rel="noopener noreferrer">cryptoxscanner.com</a> |
-| Toy Battles - 1,017 breached accounts | 2026-02-10 | <a href="https://www.google.com/search?q=Toy%20Battles%20-%201%2C017%20breached%20accounts%202026-02-10%20data%20breach" target="_blank" rel="noopener noreferrer">Toy Battles - 1,017 breached accounts</a> |
 | Substack | 2026-02-09 | <a href="https://www.google.com/search?q=Substack%202026-02-09%20data%20breach" target="_blank" rel="noopener noreferrer">Substack</a> |
 | Optimum Health Institute | 2026-02-08 | <a href="https://www.google.com/search?q=Optimum%20Health%20Institute%202026-02-08%20data%20breach" target="_blank" rel="noopener noreferrer">Optimum Health Institute</a> |
 | San Diego Eye Bank | 2026-02-04 | <a href="https://www.google.com/search?q=San%20Diego%20Eye%20Bank%202026-02-04%20data%20breach" target="_blank" rel="noopener noreferrer">San Diego Eye Bank</a> |
@@ -299,6 +299,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | X (Twitter) | 2025-04-02 | <a href="https://www.google.com/search?q=X%20(Twitter)%202025-04-02%20data%20breach" target="_blank" rel="noopener noreferrer">X (Twitter)</a> |
 | unss.org | 2025-04-01 | <a href="https://lunarcyber.com/breach-catalog/unss-org/" target="_blank" rel="noopener noreferrer">unss.org</a> |
 | NYU | 2025-03-22 | <a href="https://www.google.com/search?q=NYU%202025-03-22%20data%20breach" target="_blank" rel="noopener noreferrer">NYU</a> |
+| Cuties AI | Mar-2025 | <a href="https://www.google.com/search?q=Cuties%20AI%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Cuties AI</a> |
 | AUTOSUR | Mar-2025 | <a href="https://www.google.com/search?q=AUTOSUR%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">AUTOSUR</a> |
 | Tehets&#xE9;gKapu | Mar-2025 | <a href="https://www.google.com/search?q=Tehets%26%23xE9%3BgKapu%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Tehets&#xE9;gKapu</a> |
 | Samsung Germany Customer Tickets | Mar-2025 | <a href="https://www.google.com/search?q=Samsung%20Germany%20Customer%20Tickets%20Mar-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Samsung Germany Customer Tickets</a> |
