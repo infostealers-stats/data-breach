@@ -13,6 +13,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | Breach Name | Date | More info |
 | --- | --- | --- |
 | SongTrivia2 | Apr-2026 | <a href="https://www.google.com/search?q=SongTrivia2%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2</a> |
+| Crunchyroll - 1,195,684 breached accounts | 2026-04-04 | <a href="https://www.google.com/search?q=Crunchyroll%20-%201%2C195%2C684%20breached%20accounts%202026-04-04%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll - 1,195,684 breached accounts</a> |
+| SongTrivia2 - 291,739 breached accounts | 2026-04-04 | <a href="https://www.google.com/search?q=SongTrivia2%20-%20291%2C739%20breached%20accounts%202026-04-04%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2 - 291,739 breached accounts</a> |
 | SUCCESS - 253,510 breached accounts | 2026-04-01 | <a href="https://www.google.com/search?q=SUCCESS%20-%20253%2C510%20breached%20accounts%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">SUCCESS - 253,510 breached accounts</a> |
 | Astrazeneca | 2026-04-01 | <a href="https://www.google.com/search?q=Astrazeneca%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Astrazeneca</a> |
 | Cuties AI - 144,250 breached accounts | 2026-03-31 | <a href="https://www.google.com/search?q=Cuties%20AI%20-%20144%2C250%20breached%20accounts%202026-03-31%20data%20breach" target="_blank" rel="noopener noreferrer">Cuties AI - 144,250 breached accounts</a> |
@@ -27,6 +29,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Aura - 903,080 breached accounts | 2026-03-18 | <a href="https://www.google.com/search?q=Aura%20-%20903%2C080%20breached%20accounts%202026-03-18%20data%20breach" target="_blank" rel="noopener noreferrer">Aura - 903,080 breached accounts</a> |
 | Divine Skins - 105,814 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Divine%20Skins%20-%20105%2C814%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Divine Skins - 105,814 breached accounts</a> |
 | Baydöner - 1,266,822 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Bayd%C3%B6ner%20-%201%2C266%2C822%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Baydöner - 1,266,822 breached accounts</a> |
+| Crunchyroll | Mar-2026 | <a href="https://www.google.com/search?q=Crunchyroll%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll</a> |
 | SUCCESS | Mar-2026 | <a href="https://www.google.com/search?q=SUCCESS%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SUCCESS</a> |
 | Sound Radix | Mar-2026 | <a href="https://www.google.com/search?q=Sound%20Radix%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Sound Radix</a> |
 | Aura | Mar-2026 | <a href="https://www.google.com/search?q=Aura%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Aura</a> |
@@ -62,9 +65,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | CarGurus | 2026-02-21 | <a href="https://www.google.com/search?q=CarGurus%202026-02-21%20data%20breach" target="_blank" rel="noopener noreferrer">CarGurus</a> |
 | CarMax - 431,371 breached accounts | 2026-02-20 | <a href="https://www.google.com/search?q=CarMax%20-%20431%2C371%20breached%20accounts%202026-02-20%20data%20breach" target="_blank" rel="noopener noreferrer">CarMax - 431,371 breached accounts</a> |
 | Figure - 967,178 breached accounts | 2026-02-18 | <a href="https://www.google.com/search?q=Figure%20-%20967%2C178%20breached%20accounts%202026-02-18%20data%20breach" target="_blank" rel="noopener noreferrer">Figure - 967,178 breached accounts</a> |
-| Canada Goose - 581,877 breached accounts | 2026-02-17 | <a href="https://www.google.com/search?q=Canada%20Goose%20-%20581%2C877%20breached%20accounts%202026-02-17%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Goose - 581,877 breached accounts</a> |
 | Stockton Cardiology Medical Group | 2026-02-17 | <a href="https://www.google.com/search?q=Stockton%20Cardiology%20Medical%20Group%202026-02-17%20data%20breach" target="_blank" rel="noopener noreferrer">Stockton Cardiology Medical Group</a> |
-| University of Pennsylvania - 623,750 breached accounts | 2026-02-16 | <a href="https://www.google.com/search?q=University%20of%20Pennsylvania%20-%20623%2C750%20breached%20accounts%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">University of Pennsylvania - 623,750 breached accounts</a> |
 | Modoc Medical Center | 2026-02-16 | <a href="https://www.google.com/search?q=Modoc%20Medical%20Center%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">Modoc Medical Center</a> |
 | Canada Goose | 2026-02-16 | <a href="https://www.google.com/search?q=Canada%20Goose%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Goose</a> |
 | Lovora | Feb-2026 | <a href="https://www.google.com/search?q=Lovora%20Feb-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Lovora</a> |
