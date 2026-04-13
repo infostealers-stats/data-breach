@@ -15,6 +15,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | pioneer.xssl.net | 2026-06-02 | <a href="https://lunarcyber.com/breach-catalog/pioneer-xssl-net/" target="_blank" rel="noopener noreferrer">pioneer.xssl.net</a> |
 | My Lovely AI | Apr-2026 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI</a> |
 | SongTrivia2 | Apr-2026 | <a href="https://www.google.com/search?q=SongTrivia2%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2</a> |
+| Hallmark - 1,736,520 breached accounts | 2026-04-12 | <a href="https://www.google.com/search?q=Hallmark%20-%201%2C736%2C520%20breached%20accounts%202026-04-12%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark - 1,736,520 breached accounts</a> |
 | My Lovely AI - 106,271 breached accounts | 2026-04-08 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20-%20106%2C271%20breached%20accounts%202026-04-08%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI - 106,271 breached accounts</a> |
 | academyhealth.org | 2026-04-06 | <a href="https://www.google.com/search?q=academyhealth.org%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">academyhealth.org</a> |
 | Crunchyroll - 1,195,684 breached accounts | 2026-04-04 | <a href="https://www.google.com/search?q=Crunchyroll%20-%201%2C195%2C684%20breached%20accounts%202026-04-04%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll - 1,195,684 breached accounts</a> |
@@ -44,6 +45,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Divine Skins - 105,814 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Divine%20Skins%20-%20105%2C814%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Divine Skins - 105,814 breached accounts</a> |
 | Baydöner - 1,266,822 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Bayd%C3%B6ner%20-%201%2C266%2C822%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Baydöner - 1,266,822 breached accounts</a> |
 | Aura.com | 2026-03-15 | <a href="https://www.google.com/search?q=Aura.com%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Aura.com</a> |
+| Hallmark | Mar-2026 | <a href="https://www.google.com/search?q=Hallmark%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark</a> |
 | Crunchyroll | Mar-2026 | <a href="https://www.google.com/search?q=Crunchyroll%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll</a> |
 | SUCCESS | Mar-2026 | <a href="https://www.google.com/search?q=SUCCESS%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SUCCESS</a> |
 | Sound Radix | Mar-2026 | <a href="https://www.google.com/search?q=Sound%20Radix%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Sound Radix</a> |
@@ -79,7 +81,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Beacon Pointe Advisors | 2026-02-22 | <a href="https://www.google.com/search?q=Beacon%20Pointe%20Advisors%202026-02-22%20data%20breach" target="_blank" rel="noopener noreferrer">Beacon Pointe Advisors</a> |
 | Mercer Advisors | 2026-02-22 | <a href="https://www.google.com/search?q=Mercer%20Advisors%202026-02-22%20data%20breach" target="_blank" rel="noopener noreferrer">Mercer Advisors</a> |
 | CarGurus | 2026-02-21 | <a href="https://www.google.com/search?q=CarGurus%202026-02-21%20data%20breach" target="_blank" rel="noopener noreferrer">CarGurus</a> |
-| CarMax - 431,371 breached accounts | 2026-02-20 | <a href="https://www.google.com/search?q=CarMax%20-%20431%2C371%20breached%20accounts%202026-02-20%20data%20breach" target="_blank" rel="noopener noreferrer">CarMax - 431,371 breached accounts</a> |
 | Stockton Cardiology Medical Group | 2026-02-17 | <a href="https://www.google.com/search?q=Stockton%20Cardiology%20Medical%20Group%202026-02-17%20data%20breach" target="_blank" rel="noopener noreferrer">Stockton Cardiology Medical Group</a> |
 | Modoc Medical Center | 2026-02-16 | <a href="https://www.google.com/search?q=Modoc%20Medical%20Center%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">Modoc Medical Center</a> |
 | Canada Goose | 2026-02-16 | <a href="https://www.google.com/search?q=Canada%20Goose%202026-02-16%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Goose</a> |
