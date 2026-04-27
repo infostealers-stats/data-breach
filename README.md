@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Udemy - 1,401,259 breached accounts | 2026-04-26 | <a href="https://www.google.com/search?q=Udemy%20-%201%2C401%2C259%20breached%20accounts%202026-04-26%20data%20breach" target="_blank" rel="noopener noreferrer">Udemy - 1,401,259 breached accounts</a> |
 | Carnival - 7,531,359 breached accounts | 2026-04-24 | <a href="https://www.google.com/search?q=Carnival%20-%207%2C531%2C359%20breached%20accounts%202026-04-24%20data%20breach" target="_blank" rel="noopener noreferrer">Carnival - 7,531,359 breached accounts</a> |
 | Canada Life | 2026-04-18 | <a href="https://www.google.com/search?q=Canada%20Life%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Life</a> |
 | Pitney Bowes | 2026-04-18 | <a href="https://www.google.com/search?q=Pitney%20Bowes%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Pitney Bowes</a> |
@@ -19,6 +20,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Amtrak - 2,147,679 breached accounts | 2026-04-17 | <a href="https://www.google.com/search?q=Amtrak%20-%202%2C147%2C679%20breached%20accounts%202026-04-17%20data%20breach" target="_blank" rel="noopener noreferrer">Amtrak - 2,147,679 breached accounts</a> |
 | McGraw Hill - 13,500,136 breached accounts | 2026-04-16 | <a href="https://www.google.com/search?q=McGraw%20Hill%20-%2013%2C500%2C136%20breached%20accounts%202026-04-16%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill - 13,500,136 breached accounts</a> |
 | online.mmvietnam.com | 2026-04-15 | <a href="https://lunarcyber.com/breach-catalog/online-mmvietnam-com/" target="_blank" rel="noopener noreferrer">online.mmvietnam.com</a> |
+| Udemy | Apr-2026 | <a href="https://www.google.com/search?q=Udemy%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Udemy</a> |
 | Carnival | Apr-2026 | <a href="https://www.google.com/search?q=Carnival%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Carnival</a> |
 | My Lovely AI | Apr-2026 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI</a> |
 | SongTrivia2 | Apr-2026 | <a href="https://www.google.com/search?q=SongTrivia2%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2</a> |
@@ -76,7 +78,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Woflow, Inc. | 2026-03-03 | <a href="https://www.google.com/search?q=Woflow%2C%20Inc.%202026-03-03%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow, Inc.</a> |
 | Lovora - 495,556 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=Lovora%20-%20495%2C556%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">Lovora - 495,556 breached accounts</a> |
 | Quitbro - 22,874 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=Quitbro%20-%2022%2C874%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">Quitbro - 22,874 breached accounts</a> |
-| KomikoAI - 1,060,191 breached accounts | 2026-03-02 | <a href="https://www.google.com/search?q=KomikoAI%20-%201%2C060%2C191%20breached%20accounts%202026-03-02%20data%20breach" target="_blank" rel="noopener noreferrer">KomikoAI - 1,060,191 breached accounts</a> |
 | tldr.tech | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/tldr-tech/" target="_blank" rel="noopener noreferrer">tldr.tech</a> |
 | komiko.app | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/komiko-app/" target="_blank" rel="noopener noreferrer">komiko.app</a> |
 | auctionguru.com | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/auctionguru-com/" target="_blank" rel="noopener noreferrer">auctionguru.com</a> |
