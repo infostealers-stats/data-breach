@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Aman - 215,563 breached accounts | 2026-05-01 | <a href="https://www.google.com/search?q=Aman%20-%20215%2C563%20breached%20accounts%202026-05-01%20data%20breach" target="_blank" rel="noopener noreferrer">Aman - 215,563 breached accounts</a> |
 | Pitney Bowes - 8,243,989 breached accounts | 2026-04-27 | <a href="https://www.google.com/search?q=Pitney%20Bowes%20-%208%2C243%2C989%20breached%20accounts%202026-04-27%20data%20breach" target="_blank" rel="noopener noreferrer">Pitney Bowes - 8,243,989 breached accounts</a> |
 | ADT - 5,488,888 breached accounts | 2026-04-27 | <a href="https://www.google.com/search?q=ADT%20-%205%2C488%2C888%20breached%20accounts%202026-04-27%20data%20breach" target="_blank" rel="noopener noreferrer">ADT - 5,488,888 breached accounts</a> |
 | taxedesejour.bordeaux-metropole.fr | 2026-04-27 | <a href="https://lunarcyber.com/breach-catalog/taxedesejour-bordeaux-metropole-fr/" target="_blank" rel="noopener noreferrer">taxedesejour.bordeaux-metropole.fr</a> |
@@ -28,6 +29,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Alert 360 | 2026-04-18 | <a href="https://www.google.com/search?q=Alert%20360%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Alert 360</a> |
 | Amtrak - 2,147,679 breached accounts | 2026-04-17 | <a href="https://www.google.com/search?q=Amtrak%20-%202%2C147%2C679%20breached%20accounts%202026-04-17%20data%20breach" target="_blank" rel="noopener noreferrer">Amtrak - 2,147,679 breached accounts</a> |
 | McGraw Hill - 13,500,136 breached accounts | 2026-04-16 | <a href="https://www.google.com/search?q=McGraw%20Hill%20-%2013%2C500%2C136%20breached%20accounts%202026-04-16%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill - 13,500,136 breached accounts</a> |
+| Aman | Apr-2026 | <a href="https://www.google.com/search?q=Aman%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Aman</a> |
 | ADT | Apr-2026 | <a href="https://www.google.com/search?q=ADT%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">ADT</a> |
 | Carnival | Apr-2026 | <a href="https://www.google.com/search?q=Carnival%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Carnival</a> |
 | My Lovely AI | Apr-2026 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI</a> |
@@ -95,7 +97,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Cours d&#x27;Adultes de Paris | 2026-03-06 | <a href="https://www.google.com/search?q=Cours%20d%26%23x27%3BAdultes%20de%20Paris%202026-03-06%20data%20breach" target="_blank" rel="noopener noreferrer">Cours d&#x27;Adultes de Paris</a> |
 | Odido | 2026-03-04 | <a href="https://www.google.com/search?q=Odido%202026-03-04%20data%20breach" target="_blank" rel="noopener noreferrer">Odido</a> |
 | LexisNexis | 2026-03-04 | <a href="https://www.google.com/search?q=LexisNexis%202026-03-04%20data%20breach" target="_blank" rel="noopener noreferrer">LexisNexis</a> |
-| Provecho - 712,904 breached accounts | 2026-03-03 | <a href="https://www.google.com/search?q=Provecho%20-%20712%2C904%20breached%20accounts%202026-03-03%20data%20breach" target="_blank" rel="noopener noreferrer">Provecho - 712,904 breached accounts</a> |
 | Woflow, Inc. | 2026-03-03 | <a href="https://www.google.com/search?q=Woflow%2C%20Inc.%202026-03-03%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow, Inc.</a> |
 | visa.com | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/visa-com/" target="_blank" rel="noopener noreferrer">visa.com</a> |
 | calai.app | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/calai-app/" target="_blank" rel="noopener noreferrer">calai.app</a> |
