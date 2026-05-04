@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Marcus &amp; Millichap - 1,837,078 breached accounts | 2026-05-03 | <a href="https://www.google.com/search?q=Marcus%20%26amp%3B%20Millichap%20-%201%2C837%2C078%20breached%20accounts%202026-05-03%20data%20breach" target="_blank" rel="noopener noreferrer">Marcus &amp; Millichap - 1,837,078 breached accounts</a> |
 | ZenBusiness - 5,118,184 breached accounts | 2026-05-02 | <a href="https://www.google.com/search?q=ZenBusiness%20-%205%2C118%2C184%20breached%20accounts%202026-05-02%20data%20breach" target="_blank" rel="noopener noreferrer">ZenBusiness - 5,118,184 breached accounts</a> |
 | Aman - 215,563 breached accounts | 2026-05-01 | <a href="https://www.google.com/search?q=Aman%20-%20215%2C563%20breached%20accounts%202026-05-01%20data%20breach" target="_blank" rel="noopener noreferrer">Aman - 215,563 breached accounts</a> |
 | aman.com | 2026-04-29 | <a href="https://lunarcyber.com/breach-catalog/aman-com/" target="_blank" rel="noopener noreferrer">aman.com</a> |
@@ -33,6 +34,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Alert 360 | 2026-04-18 | <a href="https://www.google.com/search?q=Alert%20360%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Alert 360</a> |
 | Amtrak - 2,147,679 breached accounts | 2026-04-17 | <a href="https://www.google.com/search?q=Amtrak%20-%202%2C147%2C679%20breached%20accounts%202026-04-17%20data%20breach" target="_blank" rel="noopener noreferrer">Amtrak - 2,147,679 breached accounts</a> |
 | McGraw Hill - 13,500,136 breached accounts | 2026-04-16 | <a href="https://www.google.com/search?q=McGraw%20Hill%20-%2013%2C500%2C136%20breached%20accounts%202026-04-16%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill - 13,500,136 breached accounts</a> |
+| Marcus &amp; Millichap | Apr-2026 | <a href="https://www.google.com/search?q=Marcus%20%26amp%3B%20Millichap%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Marcus &amp; Millichap</a> |
 | Aman | Apr-2026 | <a href="https://www.google.com/search?q=Aman%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Aman</a> |
 | ADT | Apr-2026 | <a href="https://www.google.com/search?q=ADT%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">ADT</a> |
 | Carnival | Apr-2026 | <a href="https://www.google.com/search?q=Carnival%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Carnival</a> |
@@ -78,7 +80,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Matthews Real Estate Investment Services | 2026-03-20 | <a href="https://www.google.com/search?q=Matthews%20Real%20Estate%20Investment%20Services%202026-03-20%20data%20breach" target="_blank" rel="noopener noreferrer">Matthews Real Estate Investment Services</a> |
 | Berkadia Commercial Mortgage LLC | 2026-03-19 | <a href="https://www.google.com/search?q=Berkadia%20Commercial%20Mortgage%20LLC%202026-03-19%20data%20breach" target="_blank" rel="noopener noreferrer">Berkadia Commercial Mortgage LLC</a> |
 | Aura - 903,080 breached accounts | 2026-03-18 | <a href="https://www.google.com/search?q=Aura%20-%20903%2C080%20breached%20accounts%202026-03-18%20data%20breach" target="_blank" rel="noopener noreferrer">Aura - 903,080 breached accounts</a> |
-| Divine Skins - 105,814 breached accounts | 2026-03-15 | <a href="https://www.google.com/search?q=Divine%20Skins%20-%20105%2C814%20breached%20accounts%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Divine Skins - 105,814 breached accounts</a> |
 | Aura.com | 2026-03-15 | <a href="https://www.google.com/search?q=Aura.com%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Aura.com</a> |
 | Hallmark | Mar-2026 | <a href="https://www.google.com/search?q=Hallmark%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark</a> |
 | Crunchyroll | Mar-2026 | <a href="https://www.google.com/search?q=Crunchyroll%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll</a> |
