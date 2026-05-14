@@ -13,6 +13,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Breach Name | Date | More info |
 | --- | --- | --- |
 | Cushman &amp; Wakefield | May-2026 | <a href="https://www.google.com/search?q=Cushman%20%26amp%3B%20Wakefield%20May-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Cushman &amp; Wakefield</a> |
+| Canada Life - 237,810 breached accounts | 2026-05-13 | <a href="https://www.google.com/search?q=Canada%20Life%20-%20237%2C810%20breached%20accounts%202026-05-13%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Life - 237,810 breached accounts</a> |
 | Cushman &amp; Wakefield - 310,431 breached accounts | 2026-05-12 | <a href="https://www.google.com/search?q=Cushman%20%26amp%3B%20Wakefield%20-%20310%2C431%20breached%20accounts%202026-05-12%20data%20breach" target="_blank" rel="noopener noreferrer">Cushman &amp; Wakefield - 310,431 breached accounts</a> |
 | Zara - 197,376 breached accounts | 2026-05-08 | <a href="https://www.google.com/search?q=Zara%20-%20197%2C376%20breached%20accounts%202026-05-08%20data%20breach" target="_blank" rel="noopener noreferrer">Zara - 197,376 breached accounts</a> |
 | Woflow - 447,593 breached accounts | 2026-05-07 | <a href="https://www.google.com/search?q=Woflow%20-%20447%2C593%20breached%20accounts%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow - 447,593 breached accounts</a> |
@@ -71,7 +72,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | SongTrivia2 - 291,739 breached accounts | 2026-04-04 | <a href="https://www.google.com/search?q=SongTrivia2%20-%20291%2C739%20breached%20accounts%202026-04-04%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2 - 291,739 breached accounts</a> |
 | anfr.fr | 2026-04-02 | <a href="https://lunarcyber.com/breach-catalog/anfr-fr/" target="_blank" rel="noopener noreferrer">anfr.fr</a> |
 | Texas Hearing Institute | 2026-04-02 | <a href="https://www.google.com/search?q=Texas%20Hearing%20Institute%202026-04-02%20data%20breach" target="_blank" rel="noopener noreferrer">Texas Hearing Institute</a> |
-| SUCCESS - 253,510 breached accounts | 2026-04-01 | <a href="https://www.google.com/search?q=SUCCESS%20-%20253%2C510%20breached%20accounts%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">SUCCESS - 253,510 breached accounts</a> |
 | laredoute.fr | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/laredoute-fr-2/" target="_blank" rel="noopener noreferrer">laredoute.fr</a> |
 | p і l k і n а і l ․r u | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/p%d1%96lk%d1%96n%d0%b0%d1%96l%e2%80%a4ru/" target="_blank" rel="noopener noreferrer">p і l k і n а і l ․r u</a> |
 | polymerium.ru | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/polymerium-ru/" target="_blank" rel="noopener noreferrer">polymerium.ru</a> |
