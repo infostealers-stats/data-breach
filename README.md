@@ -12,6 +12,8 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| CTT - 468,124 breached accounts | 2026-05-19 | <a href="https://www.google.com/search?q=CTT%20-%20468%2C124%20breached%20accounts%202026-05-19%20data%20breach" target="_blank" rel="noopener noreferrer">CTT - 468,124 breached accounts</a> |
+| Addi - 34,532,941 breached accounts | 2026-05-18 | <a href="https://www.google.com/search?q=Addi%20-%2034%2C532%2C941%20breached%20accounts%202026-05-18%20data%20breach" target="_blank" rel="noopener noreferrer">Addi - 34,532,941 breached accounts</a> |
 | Cushman &amp; Wakefield | May-2026 | <a href="https://www.google.com/search?q=Cushman%20%26amp%3B%20Wakefield%20May-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Cushman &amp; Wakefield</a> |
 | Abrigo - 711,099 breached accounts | 2026-05-14 | <a href="https://www.google.com/search?q=Abrigo%20-%20711%2C099%20breached%20accounts%202026-05-14%20data%20breach" target="_blank" rel="noopener noreferrer">Abrigo - 711,099 breached accounts</a> |
 | Canada Life - 237,810 breached accounts | 2026-05-13 | <a href="https://www.google.com/search?q=Canada%20Life%20-%20237%2C810%20breached%20accounts%202026-05-13%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Life - 237,810 breached accounts</a> |
@@ -51,6 +53,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | McGraw Hill - 13,500,136 breached accounts | 2026-04-16 | <a href="https://www.google.com/search?q=McGraw%20Hill%20-%2013%2C500%2C136%20breached%20accounts%202026-04-16%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill - 13,500,136 breached accounts</a> |
 | kemper.com | 2026-04-15 | <a href="https://lunarcyber.com/breach-catalog/kemper-com/" target="_blank" rel="noopener noreferrer">kemper.com</a> |
 | ants.gouv.fr | 2026-04-15 | <a href="https://lunarcyber.com/breach-catalog/ants-gouv-fr/" target="_blank" rel="noopener noreferrer">ants.gouv.fr</a> |
+| CTT | Apr-2026 | <a href="https://www.google.com/search?q=CTT%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">CTT</a> |
 | Abrigo | Apr-2026 | <a href="https://www.google.com/search?q=Abrigo%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Abrigo</a> |
 | Zara | Apr-2026 | <a href="https://www.google.com/search?q=Zara%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Zara</a> |
 | LegionProxy | Apr-2026 | <a href="https://www.google.com/search?q=LegionProxy%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">LegionProxy</a> |
@@ -69,10 +72,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | Amtrak | 2026-04-11 | <a href="https://www.google.com/search?q=Amtrak%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">Amtrak</a> |
 | McGraw Hill | 2026-04-11 | <a href="https://www.google.com/search?q=McGraw%20Hill%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill</a> |
 | Kemper Corporation | 2026-04-11 | <a href="https://www.google.com/search?q=Kemper%20Corporation%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">Kemper Corporation</a> |
-| My Lovely AI - 106,271 breached accounts | 2026-04-08 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20-%20106%2C271%20breached%20accounts%202026-04-08%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI - 106,271 breached accounts</a> |
 | The McLamb Group | 2026-04-06 | <a href="https://www.google.com/search?q=The%20McLamb%20Group%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">The McLamb Group</a> |
 | academyhealth.org | 2026-04-06 | <a href="https://www.google.com/search?q=academyhealth.org%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">academyhealth.org</a> |
-| Crunchyroll - 1,195,684 breached accounts | 2026-04-04 | <a href="https://www.google.com/search?q=Crunchyroll%20-%201%2C195%2C684%20breached%20accounts%202026-04-04%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll - 1,195,684 breached accounts</a> |
 | Texas Hearing Institute | 2026-04-02 | <a href="https://www.google.com/search?q=Texas%20Hearing%20Institute%202026-04-02%20data%20breach" target="_blank" rel="noopener noreferrer">Texas Hearing Institute</a> |
 | laredoute.fr | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/laredoute-fr-2/" target="_blank" rel="noopener noreferrer">laredoute.fr</a> |
 | Nissan | 2026-04-01 | <a href="https://www.google.com/search?q=Nissan%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Nissan</a> |
@@ -88,6 +89,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Matthews Real Estate Investment Services | 2026-03-20 | <a href="https://www.google.com/search?q=Matthews%20Real%20Estate%20Investment%20Services%202026-03-20%20data%20breach" target="_blank" rel="noopener noreferrer">Matthews Real Estate Investment Services</a> |
 | Berkadia Commercial Mortgage LLC | 2026-03-19 | <a href="https://www.google.com/search?q=Berkadia%20Commercial%20Mortgage%20LLC%202026-03-19%20data%20breach" target="_blank" rel="noopener noreferrer">Berkadia Commercial Mortgage LLC</a> |
 | Aura.com | 2026-03-15 | <a href="https://www.google.com/search?q=Aura.com%202026-03-15%20data%20breach" target="_blank" rel="noopener noreferrer">Aura.com</a> |
+| Addi | Mar-2026 | <a href="https://www.google.com/search?q=Addi%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Addi</a> |
 | Woflow | Mar-2026 | <a href="https://www.google.com/search?q=Woflow%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow</a> |
 | Hallmark | Mar-2026 | <a href="https://www.google.com/search?q=Hallmark%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark</a> |
 | Crunchyroll | Mar-2026 | <a href="https://www.google.com/search?q=Crunchyroll%20Mar-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchyroll</a> |
@@ -1441,3 +1443,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | MySpace | 2008-07-01 | <a href="https://www.google.com/search?q=MySpace%202008-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">MySpace</a> |
 | Foxy Bingo | Apr-2008 | <a href="https://www.google.com/search?q=Foxy%20Bingo%20Apr-2008%20data%20breach" target="_blank" rel="noopener noreferrer">Foxy Bingo</a> |
 | gPotato | 2007-07-12 | <a href="https://www.google.com/search?q=gPotato%202007-07-12%20data%20breach" target="_blank" rel="noopener noreferrer">gPotato</a> |
+| belambra.fr |  | <a href="https://www.google.com/search?q=belambra.fr%20%20data%20breach" target="_blank" rel="noopener noreferrer">belambra.fr</a> |
+| kroll.com |  | <a href="https://www.google.com/search?q=kroll.com%20%20data%20breach" target="_blank" rel="noopener noreferrer">kroll.com</a> |
+| kcaa.pk |  | <a href="https://www.google.com/search?q=kcaa.pk%20%20data%20breach" target="_blank" rel="noopener noreferrer">kcaa.pk</a> |
