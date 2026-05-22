@@ -12,6 +12,8 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Dragonica Lunaris - 126,293 breached accounts | 2026-05-21 | <a href="https://www.google.com/search?q=Dragonica%20Lunaris%20-%20126%2C293%20breached%20accounts%202026-05-21%20data%20breach" target="_blank" rel="noopener noreferrer">Dragonica Lunaris - 126,293 breached accounts</a> |
+| Windows93 / Myspace93 - 46,105 breached accounts | 2026-05-21 | <a href="https://www.google.com/search?q=Windows93%20%2F%20Myspace93%20-%2046%2C105%20breached%20accounts%202026-05-21%20data%20breach" target="_blank" rel="noopener noreferrer">Windows93 / Myspace93 - 46,105 breached accounts</a> |
 | CTT - 468,124 breached accounts | 2026-05-19 | <a href="https://www.google.com/search?q=CTT%20-%20468%2C124%20breached%20accounts%202026-05-19%20data%20breach" target="_blank" rel="noopener noreferrer">CTT - 468,124 breached accounts</a> |
 | Addi - 34,532,941 breached accounts | 2026-05-18 | <a href="https://www.google.com/search?q=Addi%20-%2034%2C532%2C941%20breached%20accounts%202026-05-18%20data%20breach" target="_blank" rel="noopener noreferrer">Addi - 34,532,941 breached accounts</a> |
 | belambra.fr | 2026-05-16 | <a href="https://lunarcyber.com/breach-catalog/belambra-fr/" target="_blank" rel="noopener noreferrer">belambra.fr</a> |
@@ -32,10 +34,10 @@ This repository is built for researchers, security teams, journalists, and devel
 | Marcus &amp; Millichap - 1,837,078 breached accounts | 2026-05-03 | <a href="https://www.google.com/search?q=Marcus%20%26amp%3B%20Millichap%20-%201%2C837%2C078%20breached%20accounts%202026-05-03%20data%20breach" target="_blank" rel="noopener noreferrer">Marcus &amp; Millichap - 1,837,078 breached accounts</a> |
 | ZenBusiness - 5,118,184 breached accounts | 2026-05-02 | <a href="https://www.google.com/search?q=ZenBusiness%20-%205%2C118%2C184%20breached%20accounts%202026-05-02%20data%20breach" target="_blank" rel="noopener noreferrer">ZenBusiness - 5,118,184 breached accounts</a> |
 | Aman - 215,563 breached accounts | 2026-05-01 | <a href="https://www.google.com/search?q=Aman%20-%20215%2C563%20breached%20accounts%202026-05-01%20data%20breach" target="_blank" rel="noopener noreferrer">Aman - 215,563 breached accounts</a> |
+| jedtc.com.sa | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/jedtc-com-sa/" target="_blank" rel="noopener noreferrer">jedtc.com.sa</a> |
+| djaboo.com | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/djaboo-com/" target="_blank" rel="noopener noreferrer">djaboo.com</a> |
 | fredrikstad.kommune.no | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/fredrikstad-kommune-no/" target="_blank" rel="noopener noreferrer">fredrikstad.kommune.no</a> |
 | gites-de-france.com | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/gites-de-france-com/" target="_blank" rel="noopener noreferrer">gites-de-france.com</a> |
-| vvg.hr | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/vvg-hr/" target="_blank" rel="noopener noreferrer">vvg.hr</a> |
-| pnc.gov.pt | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/pnc-gov-pt/" target="_blank" rel="noopener noreferrer">pnc.gov.pt</a> |
 | kroll.com | 2026-04-28 | <a href="https://lunarcyber.com/breach-catalog/kroll-com/" target="_blank" rel="noopener noreferrer">kroll.com</a> |
 | Vimeo, Inc. | 2026-04-28 | <a href="https://www.google.com/search?q=Vimeo%2C%20Inc.%202026-04-28%20data%20breach" target="_blank" rel="noopener noreferrer">Vimeo, Inc.</a> |
 | Pitney Bowes - 8,243,989 breached accounts | 2026-04-27 | <a href="https://www.google.com/search?q=Pitney%20Bowes%20-%208%2C243%2C989%20breached%20accounts%202026-04-27%20data%20breach" target="_blank" rel="noopener noreferrer">Pitney Bowes - 8,243,989 breached accounts</a> |
@@ -51,7 +53,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Pitney Bowes | 2026-04-18 | <a href="https://www.google.com/search?q=Pitney%20Bowes%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Pitney Bowes</a> |
 | Alert 360 | 2026-04-18 | <a href="https://www.google.com/search?q=Alert%20360%202026-04-18%20data%20breach" target="_blank" rel="noopener noreferrer">Alert 360</a> |
 | Amtrak - 2,147,679 breached accounts | 2026-04-17 | <a href="https://www.google.com/search?q=Amtrak%20-%202%2C147%2C679%20breached%20accounts%202026-04-17%20data%20breach" target="_blank" rel="noopener noreferrer">Amtrak - 2,147,679 breached accounts</a> |
-| McGraw Hill - 13,500,136 breached accounts | 2026-04-16 | <a href="https://www.google.com/search?q=McGraw%20Hill%20-%2013%2C500%2C136%20breached%20accounts%202026-04-16%20data%20breach" target="_blank" rel="noopener noreferrer">McGraw Hill - 13,500,136 breached accounts</a> |
 | CTT | Apr-2026 | <a href="https://www.google.com/search?q=CTT%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">CTT</a> |
 | Abrigo | Apr-2026 | <a href="https://www.google.com/search?q=Abrigo%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Abrigo</a> |
 | Zara | Apr-2026 | <a href="https://www.google.com/search?q=Zara%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Zara</a> |
@@ -64,7 +65,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Carnival | Apr-2026 | <a href="https://www.google.com/search?q=Carnival%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Carnival</a> |
 | My Lovely AI | Apr-2026 | <a href="https://www.google.com/search?q=My%20Lovely%20AI%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">My Lovely AI</a> |
 | SongTrivia2 | Apr-2026 | <a href="https://www.google.com/search?q=SongTrivia2%20Apr-2026%20data%20breach" target="_blank" rel="noopener noreferrer">SongTrivia2</a> |
-| Hallmark - 1,736,520 breached accounts | 2026-04-12 | <a href="https://www.google.com/search?q=Hallmark%20-%201%2C736%2C520%20breached%20accounts%202026-04-12%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark - 1,736,520 breached accounts</a> |
 | Marcus &amp; Millichap, Inc. | 2026-04-11 | <a href="https://www.google.com/search?q=Marcus%20%26amp%3B%20Millichap%2C%20Inc.%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">Marcus &amp; Millichap, Inc.</a> |
 | Mytheresa | 2026-04-11 | <a href="https://www.google.com/search?q=Mytheresa%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">Mytheresa</a> |
 | Abrigo, Inc. | 2026-04-11 | <a href="https://www.google.com/search?q=Abrigo%2C%20Inc.%202026-04-11%20data%20breach" target="_blank" rel="noopener noreferrer">Abrigo, Inc.</a> |
@@ -137,7 +137,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Panera Bread | 2026-01-26 | <a href="https://www.google.com/search?q=Panera%20Bread%202026-01-26%20data%20breach" target="_blank" rel="noopener noreferrer">Panera Bread</a> |
 | Edmunds.com | 2026-01-24 | <a href="https://www.google.com/search?q=Edmunds.com%202026-01-24%20data%20breach" target="_blank" rel="noopener noreferrer">Edmunds.com</a> |
 | CarMax | 2026-01-24 | <a href="https://www.google.com/search?q=CarMax%202026-01-24%20data%20breach" target="_blank" rel="noopener noreferrer">CarMax</a> |
-| haagplanten.net | 2026-01-23 | <a href="https://lunarcyber.com/breach-catalog/haagplanten-net/" target="_blank" rel="noopener noreferrer">haagplanten.net</a> |
 | SoundCloud | 2026-01-23 | <a href="https://www.google.com/search?q=SoundCloud%202026-01-23%20data%20breach" target="_blank" rel="noopener noreferrer">SoundCloud</a> |
 | Betterment | 2026-01-23 | <a href="https://www.google.com/search?q=Betterment%202026-01-23%20data%20breach" target="_blank" rel="noopener noreferrer">Betterment</a> |
 | Crunchbase | 2026-01-23 | <a href="https://www.google.com/search?q=Crunchbase%202026-01-23%20data%20breach" target="_blank" rel="noopener noreferrer">Crunchbase</a> |
@@ -146,13 +145,14 @@ This repository is built for researchers, security teams, journalists, and devel
 | Figure | Jan-2026 | <a href="https://www.google.com/search?q=Figure%20Jan-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Figure</a> |
 | Association Nationale des Premiers Secours | Jan-2026 | <a href="https://www.google.com/search?q=Association%20Nationale%20des%20Premiers%20Secours%20Jan-2026%20data%20breach" target="_blank" rel="noopener noreferrer">Association Nationale des Premiers Secours</a> |
 | The National Auto Loan Network | 2026-01-14 | <a href="https://www.google.com/search?q=The%20National%20Auto%20Loan%20Network%202026-01-14%20data%20breach" target="_blank" rel="noopener noreferrer">The National Auto Loan Network</a> |
-| nafta.academy | 2026-01-13 | <a href="https://lunarcyber.com/breach-catalog/nafta-academy/" target="_blank" rel="noopener noreferrer">nafta.academy</a> |
 | Dubai Royal Airwing | 2026-01-13 | <a href="https://www.google.com/search?q=Dubai%20Royal%20Airwing%202026-01-13%20data%20breach" target="_blank" rel="noopener noreferrer">Dubai Royal Airwing</a> |
 | Cardiovascular Medical Group of Southern California (CVMG) | 2026-01-11 | <a href="https://www.google.com/search?q=Cardiovascular%20Medical%20Group%20of%20Southern%20California%20(CVMG)%202026-01-11%20data%20breach" target="_blank" rel="noopener noreferrer">Cardiovascular Medical Group of Southern California (CVMG)</a> |
 | SNU.GOUV.FR | 2026-01-06 | <a href="https://www.google.com/search?q=SNU.GOUV.FR%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">SNU.GOUV.FR</a> |
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
+| h1bmetrics.com | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/h1bmetrics-com/" target="_blank" rel="noopener noreferrer">h1bmetrics.com</a> |
+| dataeglobal.com | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/dataeglobal-com/" target="_blank" rel="noopener noreferrer">dataeglobal.com</a> |
 | iitbhu.ac.in | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/iitbhu-ac-in/" target="_blank" rel="noopener noreferrer">iitbhu.ac.in</a> |
 | elegantnailsupply.com | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/elegantnailsupply-com/" target="_blank" rel="noopener noreferrer">elegantnailsupply.com</a> |
 | ffroller-skateboard.fr | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/ffroller-skateboard-fr/" target="_blank" rel="noopener noreferrer">ffroller-skateboard.fr</a> |
@@ -163,9 +163,10 @@ This repository is built for researchers, security teams, journalists, and devel
 | RedHat Gitlab | 2025-12-30 | <a href="https://www.google.com/search?q=RedHat%20Gitlab%202025-12-30%20data%20breach" target="_blank" rel="noopener noreferrer">RedHat Gitlab</a> |
 | Goodwin College | 2025-12-28 | <a href="https://www.google.com/search?q=Goodwin%20College%202025-12-28%20data%20breach" target="_blank" rel="noopener noreferrer">Goodwin College</a> |
 | Chrysler | 2025-12-25 | <a href="https://www.google.com/search?q=Chrysler%202025-12-25%20data%20breach" target="_blank" rel="noopener noreferrer">Chrysler</a> |
-| ristorantelabaia.it | 2025-12-23 | <a href="https://lunarcyber.com/breach-catalog/ristorantelabaia-it/" target="_blank" rel="noopener noreferrer">ristorantelabaia.it</a> |
 | healthcareandmoore | 2025-12-22 | <a href="https://www.google.com/search?q=healthcareandmoore%202025-12-22%20data%20breach" target="_blank" rel="noopener noreferrer">healthcareandmoore</a> |
+| bestexp.co.kr | 2025-12-17 | <a href="https://lunarcyber.com/breach-catalog/bestexp-co-kr/" target="_blank" rel="noopener noreferrer">bestexp.co.kr</a> |
 | Precise Benefits Group LLC | 2025-12-16 | <a href="https://www.google.com/search?q=Precise%20Benefits%20Group%20LLC%202025-12-16%20data%20breach" target="_blank" rel="noopener noreferrer">Precise Benefits Group LLC</a> |
+| Dragonica Lunaris | Dec-2025 | <a href="https://www.google.com/search?q=Dragonica%20Lunaris%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Dragonica Lunaris</a> |
 | APOIA.se | Dec-2025 | <a href="https://www.google.com/search?q=APOIA.se%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">APOIA.se</a> |
 | Raaga | Dec-2025 | <a href="https://www.google.com/search?q=Raaga%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Raaga</a> |
 | Pass&#x27;Sport | Dec-2025 | <a href="https://www.google.com/search?q=Pass%26%23x27%3BSport%20Dec-2025%20data%20breach" target="_blank" rel="noopener noreferrer">Pass&#x27;Sport</a> |
@@ -348,6 +349,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | PDI Health | 2025-05-14 | <a href="https://www.google.com/search?q=PDI%20Health%202025-05-14%20data%20breach" target="_blank" rel="noopener noreferrer">PDI Health</a> |
 | Balance Diagnostics | 2025-05-06 | <a href="https://www.google.com/search?q=Balance%20Diagnostics%202025-05-06%20data%20breach" target="_blank" rel="noopener noreferrer">Balance Diagnostics</a> |
 | Pulmonary Physicians of South Florida Clinics | 2025-05-05 | <a href="https://www.google.com/search?q=Pulmonary%20Physicians%20of%20South%20Florida%20Clinics%202025-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Pulmonary Physicians of South Florida Clinics</a> |
+| fortaleza.ce.gov | 2025-05-01 | <a href="https://lunarcyber.com/breach-catalog/fortaleza-ce-gov/" target="_blank" rel="noopener noreferrer">fortaleza.ce.gov</a> |
 | Arkansas Primary Care | 2025-04-24 | <a href="https://www.google.com/search?q=Arkansas%20Primary%20Care%202025-04-24%20data%20breach" target="_blank" rel="noopener noreferrer">Arkansas Primary Care</a> |
 | Carrefour Mobile | 2025-04-23 | <a href="https://www.google.com/search?q=Carrefour%20Mobile%202025-04-23%20data%20breach" target="_blank" rel="noopener noreferrer">Carrefour Mobile</a> |
 | SK Telecom | 2025-04-19 | <a href="https://www.google.com/search?q=SK%20Telecom%202025-04-19%20data%20breach" target="_blank" rel="noopener noreferrer">SK Telecom</a> |
@@ -408,7 +410,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Cardinal Health | 2024-11-13 | <a href="https://www.google.com/search?q=Cardinal%20Health%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Cardinal Health</a> |
 | MetLife | 2024-11-13 | <a href="https://www.google.com/search?q=MetLife%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">MetLife</a> |
 | US Bank | 2024-11-13 | <a href="https://www.google.com/search?q=US%20Bank%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">US Bank</a> |
-| amgtime.com | 2024-11-01 | <a href="https://lunarcyber.com/breach-catalog/amgtime-com/" target="_blank" rel="noopener noreferrer">amgtime.com</a> |
 | InterBank | 2024-10-30 | <a href="https://www.google.com/search?q=InterBank%202024-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">InterBank</a> |
 | Free France | 2024-10-17 | <a href="https://www.google.com/search?q=Free%20France%202024-10-17%20data%20breach" target="_blank" rel="noopener noreferrer">Free France</a> |
 | Free | Oct-2024 | <a href="https://www.google.com/search?q=Free%20Oct-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Free</a> |
@@ -715,6 +716,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | CrimeCraft MAYN Games | 2021-02-01 | <a href="https://www.google.com/search?q=CrimeCraft%20MAYN%20Games%202021-02-01%20data%20breach" target="_blank" rel="noopener noreferrer">CrimeCraft MAYN Games</a> |
 | Raychat | 2021-01-31 | <a href="https://www.google.com/search?q=Raychat%202021-01-31%20data%20breach" target="_blank" rel="noopener noreferrer">Raychat</a> |
 | Serasa Experian | 2021-01-20 | <a href="https://www.google.com/search?q=Serasa%20Experian%202021-01-20%20data%20breach" target="_blank" rel="noopener noreferrer">Serasa Experian</a> |
+| Windows93 / Myspace93 | Jan-2021 | <a href="https://www.google.com/search?q=Windows93%20%2F%20Myspace93%20Jan-2021%20data%20breach" target="_blank" rel="noopener noreferrer">Windows93 / Myspace93</a> |
 | Date Hot Brunettes | Jan-2021 | <a href="https://www.google.com/search?q=Date%20Hot%20Brunettes%20Jan-2021%20data%20breach" target="_blank" rel="noopener noreferrer">Date Hot Brunettes</a> |
 | Twitter (200M) | Jan-2021 | <a href="https://www.google.com/search?q=Twitter%20(200M)%20Jan-2021%20data%20breach" target="_blank" rel="noopener noreferrer">Twitter (200M)</a> |
 | Bookchor | Jan-2021 | <a href="https://www.google.com/search?q=Bookchor%20Jan-2021%20data%20breach" target="_blank" rel="noopener noreferrer">Bookchor</a> |
@@ -1445,6 +1447,3 @@ This repository is built for researchers, security teams, journalists, and devel
 | MySpace | 2008-07-01 | <a href="https://www.google.com/search?q=MySpace%202008-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">MySpace</a> |
 | Foxy Bingo | Apr-2008 | <a href="https://www.google.com/search?q=Foxy%20Bingo%20Apr-2008%20data%20breach" target="_blank" rel="noopener noreferrer">Foxy Bingo</a> |
 | gPotato | 2007-07-12 | <a href="https://www.google.com/search?q=gPotato%202007-07-12%20data%20breach" target="_blank" rel="noopener noreferrer">gPotato</a> |
-| djaboo.com |  | <a href="https://www.google.com/search?q=djaboo.com%20%20data%20breach" target="_blank" rel="noopener noreferrer">djaboo.com</a> |
-| jedtc.com.sa |  | <a href="https://www.google.com/search?q=jedtc.com.sa%20%20data%20breach" target="_blank" rel="noopener noreferrer">jedtc.com.sa</a> |
-| dataeglobal.com |  | <a href="https://www.google.com/search?q=dataeglobal.com%20%20data%20breach" target="_blank" rel="noopener noreferrer">dataeglobal.com</a> |
