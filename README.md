@@ -18,13 +18,11 @@ This repository is built for researchers, security teams, journalists, and devel
 | Mytheresa - 84,108 breached accounts | 2026-05-27 | <a href="https://www.google.com/search?q=Mytheresa%20-%2084%2C108%20breached%20accounts%202026-05-27%20data%20breach" target="_blank" rel="noopener noreferrer">Mytheresa - 84,108 breached accounts</a> |
 | fnhpa-pro.fr | 2026-05-27 | <a href="https://lunarcyber.com/breach-catalog/fnhpa-pro-fr/" target="_blank" rel="noopener noreferrer">fnhpa-pro.fr</a> |
 | Ameriprise - 502,597 breached accounts | 2026-05-26 | <a href="https://www.google.com/search?q=Ameriprise%20-%20502%2C597%20breached%20accounts%202026-05-26%20data%20breach" target="_blank" rel="noopener noreferrer">Ameriprise - 502,597 breached accounts</a> |
-| dzine.ai | 2026-05-25 | <a href="https://lunarcyber.com/breach-catalog/dzine-ai/" target="_blank" rel="noopener noreferrer">dzine.ai</a> |
 | 7-Eleven - 185,256 breached accounts | 2026-05-24 | <a href="https://www.google.com/search?q=7-Eleven%20-%20185%2C256%20breached%20accounts%202026-05-24%20data%20breach" target="_blank" rel="noopener noreferrer">7-Eleven - 185,256 breached accounts</a> |
-| torta.rs | 2026-05-24 | <a href="https://lunarcyber.com/breach-catalog/torta-rs/" target="_blank" rel="noopener noreferrer">torta.rs</a> |
 | Charter Communications, Inc. | 2026-05-23 | <a href="https://www.google.com/search?q=Charter%20Communications%2C%20Inc.%202026-05-23%20data%20breach" target="_blank" rel="noopener noreferrer">Charter Communications, Inc.</a> |
+| vcarrd.comvcarrd.com | 2026-05-22 | <a href="https://lunarcyber.com/breach-catalog/vcarrd-comvcarrd-com/" target="_blank" rel="noopener noreferrer">vcarrd.comvcarrd.com</a> |
 | Dragonica Lunaris - 126,293 breached accounts | 2026-05-21 | <a href="https://www.google.com/search?q=Dragonica%20Lunaris%20-%20126%2C293%20breached%20accounts%202026-05-21%20data%20breach" target="_blank" rel="noopener noreferrer">Dragonica Lunaris - 126,293 breached accounts</a> |
 | Windows93 / Myspace93 - 46,105 breached accounts | 2026-05-21 | <a href="https://www.google.com/search?q=Windows93%20%2F%20Myspace93%20-%2046%2C105%20breached%20accounts%202026-05-21%20data%20breach" target="_blank" rel="noopener noreferrer">Windows93 / Myspace93 - 46,105 breached accounts</a> |
-| flave.ai | 2026-05-20 | <a href="https://lunarcyber.com/breach-catalog/flave-ai/" target="_blank" rel="noopener noreferrer">flave.ai</a> |
 | CTT - 468,124 breached accounts | 2026-05-19 | <a href="https://www.google.com/search?q=CTT%20-%20468%2C124%20breached%20accounts%202026-05-19%20data%20breach" target="_blank" rel="noopener noreferrer">CTT - 468,124 breached accounts</a> |
 | Addi - 34,532,941 breached accounts | 2026-05-18 | <a href="https://www.google.com/search?q=Addi%20-%2034%2C532%2C941%20breached%20accounts%202026-05-18%20data%20breach" target="_blank" rel="noopener noreferrer">Addi - 34,532,941 breached accounts</a> |
 | Gastroenterology &amp; Hepatology of CNY | 2026-05-16 | <a href="https://www.google.com/search?q=Gastroenterology%20%26amp%3B%20Hepatology%20of%20CNY%202026-05-16%20data%20breach" target="_blank" rel="noopener noreferrer">Gastroenterology &amp; Hepatology of CNY</a> |
@@ -51,6 +49,9 @@ This repository is built for researchers, security teams, journalists, and devel
 | Reborn Gaming - 126 breached accounts | 2026-05-04 | <a href="https://www.google.com/search?q=Reborn%20Gaming%20-%20126%20breached%20accounts%202026-05-04%20data%20breach" target="_blank" rel="noopener noreferrer">Reborn Gaming - 126 breached accounts</a> |
 | Marcus &amp; Millichap - 1,837,078 breached accounts | 2026-05-03 | <a href="https://www.google.com/search?q=Marcus%20%26amp%3B%20Millichap%20-%201%2C837%2C078%20breached%20accounts%202026-05-03%20data%20breach" target="_blank" rel="noopener noreferrer">Marcus &amp; Millichap - 1,837,078 breached accounts</a> |
 | ZenBusiness - 5,118,184 breached accounts | 2026-05-02 | <a href="https://www.google.com/search?q=ZenBusiness%20-%205%2C118%2C184%20breached%20accounts%202026-05-02%20data%20breach" target="_blank" rel="noopener noreferrer">ZenBusiness - 5,118,184 breached accounts</a> |
+| cecytec.edu.mx | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/cecytec-edu-mx/" target="_blank" rel="noopener noreferrer">cecytec.edu.mx</a> |
+| franceverif.fr | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/franceverif-fr/" target="_blank" rel="noopener noreferrer">franceverif.fr</a> |
+| ratakan.com | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/ratakan-com/" target="_blank" rel="noopener noreferrer">ratakan.com</a> |
 | subsidio.gob.bo | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/subsidio-gob-bo/" target="_blank" rel="noopener noreferrer">subsidio.gob.bo</a> |
 | moveup-formation.fr | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/moveup-formation-fr/" target="_blank" rel="noopener noreferrer">moveup-formation.fr</a> |
 | solidariomedicalcenter.com | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/solidariomedicalcenter-com/" target="_blank" rel="noopener noreferrer">solidariomedicalcenter.com</a> |
@@ -96,10 +97,9 @@ This repository is built for researchers, security teams, journalists, and devel
 | The McLamb Group | 2026-04-06 | <a href="https://www.google.com/search?q=The%20McLamb%20Group%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">The McLamb Group</a> |
 | academyhealth.org | 2026-04-06 | <a href="https://www.google.com/search?q=academyhealth.org%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">academyhealth.org</a> |
 | Texas Hearing Institute | 2026-04-02 | <a href="https://www.google.com/search?q=Texas%20Hearing%20Institute%202026-04-02%20data%20breach" target="_blank" rel="noopener noreferrer">Texas Hearing Institute</a> |
+| farmapatria.com.ve | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/farmapatria-com-ve/" target="_blank" rel="noopener noreferrer">farmapatria.com.ve</a> |
 | nutrabio.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/nutrabio-com/" target="_blank" rel="noopener noreferrer">nutrabio.com</a> |
 | karlchevrolet.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/karlchevrolet-com/" target="_blank" rel="noopener noreferrer">karlchevrolet.com</a> |
-| vimeo.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/vimeo-com/" target="_blank" rel="noopener noreferrer">vimeo.com</a> |
-| amtrak.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/amtrak-com/" target="_blank" rel="noopener noreferrer">amtrak.com</a> |
 | Nissan | 2026-04-01 | <a href="https://www.google.com/search?q=Nissan%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Nissan</a> |
 | Astrazeneca | 2026-04-01 | <a href="https://www.google.com/search?q=Astrazeneca%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Astrazeneca</a> |
 | Hallmark Cards, Inc. &amp; Hallmark Plus | 2026-03-31 | <a href="https://www.google.com/search?q=Hallmark%20Cards%2C%20Inc.%20%26amp%3B%20Hallmark%20Plus%202026-03-31%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark Cards, Inc. &amp; Hallmark Plus</a> |
@@ -135,7 +135,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Odido | 2026-03-04 | <a href="https://www.google.com/search?q=Odido%202026-03-04%20data%20breach" target="_blank" rel="noopener noreferrer">Odido</a> |
 | LexisNexis | 2026-03-04 | <a href="https://www.google.com/search?q=LexisNexis%202026-03-04%20data%20breach" target="_blank" rel="noopener noreferrer">LexisNexis</a> |
 | Woflow, Inc. | 2026-03-03 | <a href="https://www.google.com/search?q=Woflow%2C%20Inc.%202026-03-03%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow, Inc.</a> |
-| supersalud.gov.co | 2026-03-01 | <a href="https://lunarcyber.com/breach-catalog/supersalud-gov-co/" target="_blank" rel="noopener noreferrer">supersalud.gov.co</a> |
 | Loozap | 2026-03-01 | <a href="https://www.google.com/search?q=Loozap%202026-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">Loozap</a> |
 | Eiffage | 2026-03-01 | <a href="https://www.google.com/search?q=Eiffage%202026-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">Eiffage</a> |
 | Eni Energy | 2026-03-01 | <a href="https://www.google.com/search?q=Eni%20Energy%202026-03-01%20data%20breach" target="_blank" rel="noopener noreferrer">Eni Energy</a> |
@@ -278,6 +277,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | University of Pennsylvania | 2025-10-03 | <a href="https://www.google.com/search?q=University%20of%20Pennsylvania%202025-10-03%20data%20breach" target="_blank" rel="noopener noreferrer">University of Pennsylvania</a> |
 | Allervie Health | 2025-10-02 | <a href="https://www.google.com/search?q=Allervie%20Health%202025-10-02%20data%20breach" target="_blank" rel="noopener noreferrer">Allervie Health</a> |
 | TriMed Inc. HSIC | 2025-10-02 | <a href="https://www.google.com/search?q=TriMed%20Inc.%20HSIC%202025-10-02%20data%20breach" target="_blank" rel="noopener noreferrer">TriMed Inc. HSIC</a> |
+| pk.hamdardglobal.com | 2025-10-01 | <a href="https://lunarcyber.com/breach-catalog/pk-hamdardglobal-com/" target="_blank" rel="noopener noreferrer">pk.hamdardglobal.com</a> |
 | Western Orthopaedics | 2025-09-30 | <a href="https://www.google.com/search?q=Western%20Orthopaedics%202025-09-30%20data%20breach" target="_blank" rel="noopener noreferrer">Western Orthopaedics</a> |
 | MCBS, LLC | 2025-09-25 | <a href="https://www.google.com/search?q=MCBS%2C%20LLC%202025-09-25%20data%20breach" target="_blank" rel="noopener noreferrer">MCBS, LLC</a> |
 | Madison Healthcare Services | 2025-09-23 | <a href="https://www.google.com/search?q=Madison%20Healthcare%20Services%202025-09-23%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Healthcare Services</a> |
@@ -368,7 +368,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | PDI Health | 2025-05-14 | <a href="https://www.google.com/search?q=PDI%20Health%202025-05-14%20data%20breach" target="_blank" rel="noopener noreferrer">PDI Health</a> |
 | Balance Diagnostics | 2025-05-06 | <a href="https://www.google.com/search?q=Balance%20Diagnostics%202025-05-06%20data%20breach" target="_blank" rel="noopener noreferrer">Balance Diagnostics</a> |
 | Pulmonary Physicians of South Florida Clinics | 2025-05-05 | <a href="https://www.google.com/search?q=Pulmonary%20Physicians%20of%20South%20Florida%20Clinics%202025-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Pulmonary Physicians of South Florida Clinics</a> |
-| colocrossing.com | 2025-05-01 | <a href="https://lunarcyber.com/breach-catalog/colocrossing-com/" target="_blank" rel="noopener noreferrer">colocrossing.com</a> |
 | Arkansas Primary Care | 2025-04-24 | <a href="https://www.google.com/search?q=Arkansas%20Primary%20Care%202025-04-24%20data%20breach" target="_blank" rel="noopener noreferrer">Arkansas Primary Care</a> |
 | Carrefour Mobile | 2025-04-23 | <a href="https://www.google.com/search?q=Carrefour%20Mobile%202025-04-23%20data%20breach" target="_blank" rel="noopener noreferrer">Carrefour Mobile</a> |
 | SK Telecom | 2025-04-19 | <a href="https://www.google.com/search?q=SK%20Telecom%202025-04-19%20data%20breach" target="_blank" rel="noopener noreferrer">SK Telecom</a> |
@@ -485,6 +484,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Operation Endgame | May-2024 | <a href="https://www.google.com/search?q=Operation%20Endgame%20May-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Operation Endgame</a> |
 | pcTattletale | May-2024 | <a href="https://www.google.com/search?q=pcTattletale%20May-2024%20data%20breach" target="_blank" rel="noopener noreferrer">pcTattletale</a> |
 | The Post Millennial | 2024-05-02 | <a href="https://www.google.com/search?q=The%20Post%20Millennial%202024-05-02%20data%20breach" target="_blank" rel="noopener noreferrer">The Post Millennial</a> |
+| multi-player.app | 2024-05-01 | <a href="https://lunarcyber.com/breach-catalog/multi-player-app/" target="_blank" rel="noopener noreferrer">multi-player.app</a> |
 | MovieBoxPro | 2024-04-15 | <a href="https://www.google.com/search?q=MovieBoxPro%202024-04-15%20data%20breach" target="_blank" rel="noopener noreferrer">MovieBoxPro</a> |
 | Sport 2000 | Apr-2024 | <a href="https://www.google.com/search?q=Sport%202000%20Apr-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Sport 2000</a> |
 | Neiman Marcus | Apr-2024 | <a href="https://www.google.com/search?q=Neiman%20Marcus%20Apr-2024%20data%20breach" target="_blank" rel="noopener noreferrer">Neiman Marcus</a> |
