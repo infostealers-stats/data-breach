@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Baker Distributing - 102,935 breached accounts | 2026-06-07 | <a href="https://www.google.com/search?q=Baker%20Distributing%20-%20102%2C935%20breached%20accounts%202026-06-07%20data%20breach" target="_blank" rel="noopener noreferrer">Baker Distributing - 102,935 breached accounts</a> |
 | BCD Travel - 396,313 breached accounts | 2026-06-05 | <a href="https://www.google.com/search?q=BCD%20Travel%20-%20396%2C313%20breached%20accounts%202026-06-05%20data%20breach" target="_blank" rel="noopener noreferrer">BCD Travel - 396,313 breached accounts</a> |
 | DentaQuest - 2,553,599 breached accounts | 2026-06-03 | <a href="https://www.google.com/search?q=DentaQuest%20-%202%2C553%2C599%20breached%20accounts%202026-06-03%20data%20breach" target="_blank" rel="noopener noreferrer">DentaQuest - 2,553,599 breached accounts</a> |
 | Edmunds - 177,860 breached accounts | 2026-06-01 | <a href="https://www.google.com/search?q=Edmunds%20-%20177%2C860%20breached%20accounts%202026-06-01%20data%20breach" target="_blank" rel="noopener noreferrer">Edmunds - 177,860 breached accounts</a> |
@@ -52,7 +53,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Powell Electronics | 2026-05-07 | <a href="https://www.google.com/search?q=Powell%20Electronics%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Powell Electronics</a> |
 | Cushman &amp; Wakefield Inc. | 2026-05-07 | <a href="https://www.google.com/search?q=Cushman%20%26amp%3B%20Wakefield%20Inc.%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Cushman &amp; Wakefield Inc.</a> |
 | LegionProxy - 10,144 breached accounts | 2026-05-06 | <a href="https://www.google.com/search?q=LegionProxy%20-%2010%2C144%20breached%20accounts%202026-05-06%20data%20breach" target="_blank" rel="noopener noreferrer">LegionProxy - 10,144 breached accounts</a> |
-| Vimeo - 119,167 breached accounts | 2026-05-05 | <a href="https://www.google.com/search?q=Vimeo%20-%20119%2C167%20breached%20accounts%202026-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Vimeo - 119,167 breached accounts</a> |
 | Adelante Soluciones Financieras (Addi.com) | 2026-05-05 | <a href="https://www.google.com/search?q=Adelante%20Soluciones%20Financieras%20(Addi.com)%202026-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Adelante Soluciones Financieras (Addi.com)</a> |
 | Del Monte Food | 2026-05-05 | <a href="https://www.google.com/search?q=Del%20Monte%20Food%202026-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Del Monte Food</a> |
 | Advanta Genetics | 2026-04-29 | <a href="https://www.google.com/search?q=Advanta%20Genetics%202026-04-29%20data%20breach" target="_blank" rel="noopener noreferrer">Advanta Genetics</a> |
@@ -146,6 +146,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
+| Baker Distributing | May 2026 | <a href="https://www.google.com/search?q=Baker%20Distributing%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Baker Distributing</a> |
 | DentaQuest | May 2026 | <a href="https://www.google.com/search?q=DentaQuest%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">DentaQuest</a> |
 | Edmunds | Jan 2026 | <a href="https://www.google.com/search?q=Edmunds%20Jan%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Edmunds</a> |
 | Atlas Menu | May 2026 | <a href="https://www.google.com/search?q=Atlas%20Menu%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Atlas Menu</a> |
