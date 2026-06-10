@@ -16,6 +16,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | BCD Travel - 396,313 breached accounts | 2026-06-05 | <a href="https://www.google.com/search?q=BCD%20Travel%20-%20396%2C313%20breached%20accounts%202026-06-05%20data%20breach" target="_blank" rel="noopener noreferrer">BCD Travel - 396,313 breached accounts</a> |
 | DentaQuest - 2,553,599 breached accounts | 2026-06-03 | <a href="https://www.google.com/search?q=DentaQuest%20-%202%2C553%2C599%20breached%20accounts%202026-06-03%20data%20breach" target="_blank" rel="noopener noreferrer">DentaQuest - 2,553,599 breached accounts</a> |
 | Edmunds - 177,860 breached accounts | 2026-06-01 | <a href="https://www.google.com/search?q=Edmunds%20-%20177%2C860%20breached%20accounts%202026-06-01%20data%20breach" target="_blank" rel="noopener noreferrer">Edmunds - 177,860 breached accounts</a> |
+| gtptabs.com | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/gtptabs-com/" target="_blank" rel="noopener noreferrer">gtptabs.com</a> |
 | debras.com.au | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/debras-com-au/" target="_blank" rel="noopener noreferrer">debras.com.au</a> |
 | bestfriendmatch.com | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/bestfriendmatch-com/" target="_blank" rel="noopener noreferrer">bestfriendmatch.com</a> |
 | ars.sante.fr | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/ars-sante-fr/" target="_blank" rel="noopener noreferrer">ars.sante.fr</a> |
@@ -25,9 +26,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | pkp.go.id | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/pkp-go-id/" target="_blank" rel="noopener noreferrer">pkp.go.id</a> |
 | cookunity.com | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/cookunity-com/" target="_blank" rel="noopener noreferrer">cookunity.com</a> |
 | acmi.wa.edu.au | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/acmi-wa-edu-au/" target="_blank" rel="noopener noreferrer">acmi.wa.edu.au</a> |
-| mmj.com.au | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/mmj-com-au/" target="_blank" rel="noopener noreferrer">mmj.com.au</a> |
-| gnkdinamo.hrgnkdinamo.hr | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/gnkdinamo-hrgnkdinamo-hr/" target="_blank" rel="noopener noreferrer">gnkdinamo.hrgnkdinamo.hr</a> |
-| hampr.com.au | 2026-05-31 | <a href="https://lunarcyber.com/breach-catalog/hampr-com-au/" target="_blank" rel="noopener noreferrer">hampr.com.au</a> |
 | Atlas Menu - 63,926 breached accounts | 2026-05-30 | <a href="https://www.google.com/search?q=Atlas%20Menu%20-%2063%2C926%20breached%20accounts%202026-05-30%20data%20breach" target="_blank" rel="noopener noreferrer">Atlas Menu - 63,926 breached accounts</a> |
 | BCD Travel | 2026-05-29 | <a href="https://www.google.com/search?q=BCD%20Travel%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">BCD Travel</a> |
 | Charter - 4,851,517 breached accounts | 2026-05-28 | <a href="https://www.google.com/search?q=Charter%20-%204%2C851%2C517%20breached%20accounts%202026-05-28%20data%20breach" target="_blank" rel="noopener noreferrer">Charter - 4,851,517 breached accounts</a> |
@@ -58,6 +56,9 @@ This repository is built for researchers, security teams, journalists, and devel
 | LegionProxy - 10,144 breached accounts | 2026-05-06 | <a href="https://www.google.com/search?q=LegionProxy%20-%2010%2C144%20breached%20accounts%202026-05-06%20data%20breach" target="_blank" rel="noopener noreferrer">LegionProxy - 10,144 breached accounts</a> |
 | Adelante Soluciones Financieras (Addi.com) | 2026-05-05 | <a href="https://www.google.com/search?q=Adelante%20Soluciones%20Financieras%20(Addi.com)%202026-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Adelante Soluciones Financieras (Addi.com)</a> |
 | Del Monte Food | 2026-05-05 | <a href="https://www.google.com/search?q=Del%20Monte%20Food%202026-05-05%20data%20breach" target="_blank" rel="noopener noreferrer">Del Monte Food</a> |
+| atlasmenu.net | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/atlasmenu-net/" target="_blank" rel="noopener noreferrer">atlasmenu.net</a> |
+| miff.com.au | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/miff-com-au/" target="_blank" rel="noopener noreferrer">miff.com.au</a> |
+| laboratoriomedicos.com | 2026-05-01 | <a href="https://lunarcyber.com/breach-catalog/laboratoriomedicos-com/" target="_blank" rel="noopener noreferrer">laboratoriomedicos.com</a> |
 | Advanta Genetics | 2026-04-29 | <a href="https://www.google.com/search?q=Advanta%20Genetics%202026-04-29%20data%20breach" target="_blank" rel="noopener noreferrer">Advanta Genetics</a> |
 | Vimeo, Inc. | 2026-04-28 | <a href="https://www.google.com/search?q=Vimeo%2C%20Inc.%202026-04-28%20data%20breach" target="_blank" rel="noopener noreferrer">Vimeo, Inc.</a> |
 | ADT, Inc. | 2026-04-24 | <a href="https://www.google.com/search?q=ADT%2C%20Inc.%202026-04-24%20data%20breach" target="_blank" rel="noopener noreferrer">ADT, Inc.</a> |
@@ -83,7 +84,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | academyhealth.org | 2026-04-06 | <a href="https://www.google.com/search?q=academyhealth.org%202026-04-06%20data%20breach" target="_blank" rel="noopener noreferrer">academyhealth.org</a> |
 | Texas Hearing Institute | 2026-04-02 | <a href="https://www.google.com/search?q=Texas%20Hearing%20Institute%202026-04-02%20data%20breach" target="_blank" rel="noopener noreferrer">Texas Hearing Institute</a> |
 | pitneybowes.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/pitneybowes-com/" target="_blank" rel="noopener noreferrer">pitneybowes.com</a> |
-| laredoute.com | 2026-04-01 | <a href="https://lunarcyber.com/breach-catalog/laredoute-com/" target="_blank" rel="noopener noreferrer">laredoute.com</a> |
 | Nissan | 2026-04-01 | <a href="https://www.google.com/search?q=Nissan%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Nissan</a> |
 | Astrazeneca | 2026-04-01 | <a href="https://www.google.com/search?q=Astrazeneca%202026-04-01%20data%20breach" target="_blank" rel="noopener noreferrer">Astrazeneca</a> |
 | Hallmark Cards, Inc. &amp; Hallmark Plus | 2026-03-31 | <a href="https://www.google.com/search?q=Hallmark%20Cards%2C%20Inc.%20%26amp%3B%20Hallmark%20Plus%202026-03-31%20data%20breach" target="_blank" rel="noopener noreferrer">Hallmark Cards, Inc. &amp; Hallmark Plus</a> |
