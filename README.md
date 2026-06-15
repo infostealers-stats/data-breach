@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Infinite Campus - 137,123 breached accounts | 2026-06-15 | <a href="https://www.google.com/search?q=Infinite%20Campus%20-%20137%2C123%20breached%20accounts%202026-06-15%20data%20breach" target="_blank" rel="noopener noreferrer">Infinite Campus - 137,123 breached accounts</a> |
 | University of Nottingham - 454,635 breached accounts | 2026-06-10 | <a href="https://www.google.com/search?q=University%20of%20Nottingham%20-%20454%2C635%20breached%20accounts%202026-06-10%20data%20breach" target="_blank" rel="noopener noreferrer">University of Nottingham - 454,635 breached accounts</a> |
 | napoleonperdis.com | 2026-06-09 | <a href="https://lunarcyber.com/breach-catalog/napoleonperdis-com/" target="_blank" rel="noopener noreferrer">napoleonperdis.com</a> |
 | forte.jor.br | 2026-06-09 | <a href="https://lunarcyber.com/breach-catalog/forte-jor-br/" target="_blank" rel="noopener noreferrer">forte.jor.br</a> |
@@ -51,7 +52,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Canada Life - 237,810 breached accounts | 2026-05-13 | <a href="https://www.google.com/search?q=Canada%20Life%20-%20237%2C810%20breached%20accounts%202026-05-13%20data%20breach" target="_blank" rel="noopener noreferrer">Canada Life - 237,810 breached accounts</a> |
 | Cushman &amp; Wakefield - 310,431 breached accounts | 2026-05-12 | <a href="https://www.google.com/search?q=Cushman%20%26amp%3B%20Wakefield%20-%20310%2C431%20breached%20accounts%202026-05-12%20data%20breach" target="_blank" rel="noopener noreferrer">Cushman &amp; Wakefield - 310,431 breached accounts</a> |
 | Zara - 197,376 breached accounts | 2026-05-08 | <a href="https://www.google.com/search?q=Zara%20-%20197%2C376%20breached%20accounts%202026-05-08%20data%20breach" target="_blank" rel="noopener noreferrer">Zara - 197,376 breached accounts</a> |
-| Woflow - 447,593 breached accounts | 2026-05-07 | <a href="https://www.google.com/search?q=Woflow%20-%20447%2C593%20breached%20accounts%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Woflow - 447,593 breached accounts</a> |
 | Florida East Coast Railway | 2026-05-07 | <a href="https://www.google.com/search?q=Florida%20East%20Coast%20Railway%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Florida East Coast Railway</a> |
 | TESSCO | 2026-05-07 | <a href="https://www.google.com/search?q=TESSCO%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">TESSCO</a> |
 | Blanchard | 2026-05-07 | <a href="https://www.google.com/search?q=Blanchard%202026-05-07%20data%20breach" target="_blank" rel="noopener noreferrer">Blanchard</a> |
@@ -157,6 +157,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
+| Infinite Campus | Mar 2026 | <a href="https://www.google.com/search?q=Infinite%20Campus%20Mar%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Infinite Campus</a> |
 | University of Nottingham | Jun 2026 | <a href="https://www.google.com/search?q=University%20of%20Nottingham%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">University of Nottingham</a> |
 | Baker Distributing | May 2026 | <a href="https://www.google.com/search?q=Baker%20Distributing%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Baker Distributing</a> |
 | DentaQuest | May 2026 | <a href="https://www.google.com/search?q=DentaQuest%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">DentaQuest</a> |
