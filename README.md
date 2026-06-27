@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| American Tower - 216,601 breached accounts | 2026-06-26 | <a href="https://www.google.com/search?q=American%20Tower%20-%20216%2C601%20breached%20accounts%202026-06-26%20data%20breach" target="_blank" rel="noopener noreferrer">American Tower - 216,601 breached accounts</a> |
 | Madison Square Garden Sports - 9,796,738 breached accounts | 2026-06-24 | <a href="https://www.google.com/search?q=Madison%20Square%20Garden%20Sports%20-%209%2C796%2C738%20breached%20accounts%202026-06-24%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Square Garden Sports - 9,796,738 breached accounts</a> |
 | JCPenney - 368,418 breached accounts | 2026-06-20 | <a href="https://www.google.com/search?q=JCPenney%20-%20368%2C418%20breached%20accounts%202026-06-20%20data%20breach" target="_blank" rel="noopener noreferrer">JCPenney - 368,418 breached accounts</a> |
 | ouestfrance-immo.pro | 2026-06-19 | <a href="https://lunarcyber.com/breach-catalog/ouestfrance-immo-pro/" target="_blank" rel="noopener noreferrer">ouestfrance-immo.pro</a> |
@@ -63,7 +64,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | 7-Eleven - 185,256 breached accounts | 2026-05-24 | <a href="https://www.google.com/search?q=7-Eleven%20-%20185%2C256%20breached%20accounts%202026-05-24%20data%20breach" target="_blank" rel="noopener noreferrer">7-Eleven - 185,256 breached accounts</a> |
 | Baker Distributing Company | 2026-05-23 | <a href="https://www.google.com/search?q=Baker%20Distributing%20Company%202026-05-23%20data%20breach" target="_blank" rel="noopener noreferrer">Baker Distributing Company</a> |
 | Charter Communications, Inc. | 2026-05-23 | <a href="https://www.google.com/search?q=Charter%20Communications%2C%20Inc.%202026-05-23%20data%20breach" target="_blank" rel="noopener noreferrer">Charter Communications, Inc.</a> |
-| Dragonica Lunaris - 126,293 breached accounts | 2026-05-21 | <a href="https://www.google.com/search?q=Dragonica%20Lunaris%20-%20126%2C293%20breached%20accounts%202026-05-21%20data%20breach" target="_blank" rel="noopener noreferrer">Dragonica Lunaris - 126,293 breached accounts</a> |
 | Gastroenterology &amp; Hepatology of CNY | 2026-05-16 | <a href="https://www.google.com/search?q=Gastroenterology%20%26amp%3B%20Hepatology%20of%20CNY%202026-05-16%20data%20breach" target="_blank" rel="noopener noreferrer">Gastroenterology &amp; Hepatology of CNY</a> |
 | Raise the Bottom | 2026-05-15 | <a href="https://www.google.com/search?q=Raise%20the%20Bottom%202026-05-15%20data%20breach" target="_blank" rel="noopener noreferrer">Raise the Bottom</a> |
 | WholeHealth Chicago | 2026-05-15 | <a href="https://www.google.com/search?q=WholeHealth%20Chicago%202026-05-15%20data%20breach" target="_blank" rel="noopener noreferrer">WholeHealth Chicago</a> |
@@ -178,6 +178,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
 | lbp-tm.fr | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/lbp-tm-fr/" target="_blank" rel="noopener noreferrer">lbp-tm.fr</a> |
 | carrefour.fr | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/carrefour-fr/" target="_blank" rel="noopener noreferrer">carrefour.fr</a> |
+| American Tower | Jun 2026 | <a href="https://www.google.com/search?q=American%20Tower%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">American Tower</a> |
 | Madison Square Garden Sports | Jun 2026 | <a href="https://www.google.com/search?q=Madison%20Square%20Garden%20Sports%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Square Garden Sports</a> |
 | JCPenney | Jun 2026 | <a href="https://www.google.com/search?q=JCPenney%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">JCPenney</a> |
 | Operation Endgame 4.0 | Jun 2026 | <a href="https://www.google.com/search?q=Operation%20Endgame%204.0%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Operation Endgame 4.0</a> |
