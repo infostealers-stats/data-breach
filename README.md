@@ -14,6 +14,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | --- | --- | --- |
 | irec-sas.fr | 2026-07-28 | <a href="https://lunarcyber.com/breach-catalog/irec-sas-fr/" target="_blank" rel="noopener noreferrer">irec-sas.fr</a> |
 | fhf.fr | 2026-07-23 | <a href="https://lunarcyber.com/breach-catalog/fhf-fr/" target="_blank" rel="noopener noreferrer">fhf.fr</a> |
+| Moody Bible Institute - 2,303,416 breached accounts | 2026-07-03 | <a href="https://www.google.com/search?q=Moody%20Bible%20Institute%20-%202%2C303%2C416%20breached%20accounts%202026-07-03%20data%20breach" target="_blank" rel="noopener noreferrer">Moody Bible Institute - 2,303,416 breached accounts</a> |
 | checkcarro.com.br | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/checkcarro-com-br/" target="_blank" rel="noopener noreferrer">checkcarro.com.br</a> |
 | virtualconvocation.amizone.net | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/virtualconvocation-amizone-net/" target="_blank" rel="noopener noreferrer">virtualconvocation.amizone.net</a> |
 | lugera.com | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/lugera-com/" target="_blank" rel="noopener noreferrer">lugera.com</a> |
@@ -66,7 +67,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Kemper - 269,299 breached accounts | 2026-05-28 | <a href="https://www.google.com/search?q=Kemper%20-%20269%2C299%20breached%20accounts%202026-05-28%20data%20breach" target="_blank" rel="noopener noreferrer">Kemper - 269,299 breached accounts</a> |
 | Sinomax USA | 2026-05-28 | <a href="https://www.google.com/search?q=Sinomax%20USA%202026-05-28%20data%20breach" target="_blank" rel="noopener noreferrer">Sinomax USA</a> |
 | Mytheresa - 84,108 breached accounts | 2026-05-27 | <a href="https://www.google.com/search?q=Mytheresa%20-%2084%2C108%20breached%20accounts%202026-05-27%20data%20breach" target="_blank" rel="noopener noreferrer">Mytheresa - 84,108 breached accounts</a> |
-| Ameriprise - 502,597 breached accounts | 2026-05-26 | <a href="https://www.google.com/search?q=Ameriprise%20-%20502%2C597%20breached%20accounts%202026-05-26%20data%20breach" target="_blank" rel="noopener noreferrer">Ameriprise - 502,597 breached accounts</a> |
 | Plexsupply Inc | 2026-05-26 | <a href="https://www.google.com/search?q=Plexsupply%20Inc%202026-05-26%20data%20breach" target="_blank" rel="noopener noreferrer">Plexsupply Inc</a> |
 | Baker Distributing Company | 2026-05-23 | <a href="https://www.google.com/search?q=Baker%20Distributing%20Company%202026-05-23%20data%20breach" target="_blank" rel="noopener noreferrer">Baker Distributing Company</a> |
 | Charter Communications, Inc. | 2026-05-23 | <a href="https://www.google.com/search?q=Charter%20Communications%2C%20Inc.%202026-05-23%20data%20breach" target="_blank" rel="noopener noreferrer">Charter Communications, Inc.</a> |
@@ -181,6 +181,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
 | lbp-tm.fr | 2026-01-01 | <a href="https://lunarcyber.com/breach-catalog/lbp-tm-fr/" target="_blank" rel="noopener noreferrer">lbp-tm.fr</a> |
+| Moody Bible Institute | Jun 2026 | <a href="https://www.google.com/search?q=Moody%20Bible%20Institute%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Moody Bible Institute</a> |
 | American Tower | Jun 2026 | <a href="https://www.google.com/search?q=American%20Tower%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">American Tower</a> |
 | Madison Square Garden Sports | Jun 2026 | <a href="https://www.google.com/search?q=Madison%20Square%20Garden%20Sports%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Square Garden Sports</a> |
 | JCPenney | Jun 2026 | <a href="https://www.google.com/search?q=JCPenney%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">JCPenney</a> |
