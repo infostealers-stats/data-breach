@@ -12,19 +12,19 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Paidwork - 23,272,765 breached accounts | 2026-07-19 | <a href="https://www.google.com/search?q=Paidwork%20-%2023%2C272%2C765%20breached%20accounts%202026-07-19%20data%20breach" target="_blank" rel="noopener noreferrer">Paidwork - 23,272,765 breached accounts</a> |
+| pompiers.fr | 2026-07-16 | <a href="https://lunarcyber.com/breach-catalog/pompiers-fr/" target="_blank" rel="noopener noreferrer">pompiers.fr</a> |
 | Fluke - 821,100 breached accounts | 2026-07-15 | <a href="https://www.google.com/search?q=Fluke%20-%20821%2C100%20breached%20accounts%202026-07-15%20data%20breach" target="_blank" rel="noopener noreferrer">Fluke - 821,100 breached accounts</a> |
 | Goose Creek - 6,574,121 breached accounts | 2026-07-15 | <a href="https://www.google.com/search?q=Goose%20Creek%20-%206%2C574%2C121%20breached%20accounts%202026-07-15%20data%20breach" target="_blank" rel="noopener noreferrer">Goose Creek - 6,574,121 breached accounts</a> |
+| eva.gg | 2026-07-15 | <a href="https://lunarcyber.com/breach-catalog/eva-gg/" target="_blank" rel="noopener noreferrer">eva.gg</a> |
+| westernint.com | 2026-07-15 | <a href="https://lunarcyber.com/breach-catalog/westernint-com/" target="_blank" rel="noopener noreferrer">westernint.com</a> |
 | Glendale Community College - 793,925 breached accounts | 2026-07-11 | <a href="https://www.google.com/search?q=Glendale%20Community%20College%20-%20793%2C925%20breached%20accounts%202026-07-11%20data%20breach" target="_blank" rel="noopener noreferrer">Glendale Community College - 793,925 breached accounts</a> |
 | Chumz | 2026-07-11 | <a href="https://www.google.com/search?q=Chumz%202026-07-11%20data%20breach" target="_blank" rel="noopener noreferrer">Chumz</a> |
-| salesprophet.io | 2026-07-08 | <a href="https://lunarcyber.com/breach-catalog/salesprophet-io/" target="_blank" rel="noopener noreferrer">salesprophet.io</a> |
-| azur.ru | 2026-07-08 | <a href="https://lunarcyber.com/breach-catalog/azur-ru/" target="_blank" rel="noopener noreferrer">azur.ru</a> |
-| mixzip.ru | 2026-07-08 | <a href="https://lunarcyber.com/breach-catalog/mixzip-ru/" target="_blank" rel="noopener noreferrer">mixzip.ru</a> |
 | CorePharma | 2026-07-08 | <a href="https://www.google.com/search?q=CorePharma%202026-07-08%20data%20breach" target="_blank" rel="noopener noreferrer">CorePharma</a> |
-| fdc69.com | 2026-07-04 | <a href="https://lunarcyber.com/breach-catalog/fdc69-com/" target="_blank" rel="noopener noreferrer">fdc69.com</a> |
 | Moody Bible Institute - 2,303,416 breached accounts | 2026-07-03 | <a href="https://www.google.com/search?q=Moody%20Bible%20Institute%20-%202%2C303%2C416%20breached%20accounts%202026-07-03%20data%20breach" target="_blank" rel="noopener noreferrer">Moody Bible Institute - 2,303,416 breached accounts</a> |
-| homers.fr | 2026-07-03 | <a href="https://lunarcyber.com/breach-catalog/homers-fr/" target="_blank" rel="noopener noreferrer">homers.fr</a> |
 | glendale.edu | 2026-07-02 | <a href="https://lunarcyber.com/breach-catalog/glendale-edu/" target="_blank" rel="noopener noreferrer">glendale.edu</a> |
-| ingramcontent.com | 2026-07-02 | <a href="https://lunarcyber.com/breach-catalog/ingramcontent-com/" target="_blank" rel="noopener noreferrer">ingramcontent.com</a> |
+| lifeline.org.au | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/lifeline-org-au/" target="_blank" rel="noopener noreferrer">lifeline.org.au</a> |
+| kulturigo.de | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/kulturigo-de/" target="_blank" rel="noopener noreferrer">kulturigo.de</a> |
 | puppyfinder.com | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/puppyfinder-com/" target="_blank" rel="noopener noreferrer">puppyfinder.com</a> |
 | avafatea.com | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/avafatea-com/" target="_blank" rel="noopener noreferrer">avafatea.com</a> |
 | association.fr | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/association-fr/" target="_blank" rel="noopener noreferrer">association.fr</a> |
@@ -71,7 +71,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Edmunds - 177,860 breached accounts | 2026-06-01 | <a href="https://www.google.com/search?q=Edmunds%20-%20177%2C860%20breached%20accounts%202026-06-01%20data%20breach" target="_blank" rel="noopener noreferrer">Edmunds - 177,860 breached accounts</a> |
 | hairpersona.ru | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/hairpersona-ru/" target="_blank" rel="noopener noreferrer">hairpersona.ru</a> |
 | boslive.icai.org | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/boslive-icai-org/" target="_blank" rel="noopener noreferrer">boslive.icai.org</a> |
-| Atlas Menu - 63,926 breached accounts | 2026-05-30 | <a href="https://www.google.com/search?q=Atlas%20Menu%20-%2063%2C926%20breached%20accounts%202026-05-30%20data%20breach" target="_blank" rel="noopener noreferrer">Atlas Menu - 63,926 breached accounts</a> |
 | BCD Travel | 2026-05-29 | <a href="https://www.google.com/search?q=BCD%20Travel%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">BCD Travel</a> |
 | www.labexpress.com | 2026-05-29 | <a href="https://www.google.com/search?q=www.labexpress.com%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">www.labexpress.com</a> |
 | Sinomax USA | 2026-05-28 | <a href="https://www.google.com/search?q=Sinomax%20USA%202026-05-28%20data%20breach" target="_blank" rel="noopener noreferrer">Sinomax USA</a> |
@@ -192,6 +191,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | L&#x27;Assurance Retraite | 2026-01-06 | <a href="https://www.google.com/search?q=L%26%23x27%3BAssurance%20Retraite%202026-01-06%20data%20breach" target="_blank" rel="noopener noreferrer">L&#x27;Assurance Retraite</a> |
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
+| Paidwork | Mar 2026 | <a href="https://www.google.com/search?q=Paidwork%20Mar%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Paidwork</a> |
 | Fluke | Jul 2026 | <a href="https://www.google.com/search?q=Fluke%20Jul%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Fluke</a> |
 | Goose Creek | Jun 2026 | <a href="https://www.google.com/search?q=Goose%20Creek%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Goose Creek</a> |
 | Glendale Community College | Jun 2026 | <a href="https://www.google.com/search?q=Glendale%20Community%20College%20Jun%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Glendale Community College</a> |
@@ -494,6 +494,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | US Bank | 2024-11-13 | <a href="https://www.google.com/search?q=US%20Bank%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">US Bank</a> |
 | CalSTRS | 2024-11-13 | <a href="https://www.google.com/search?q=CalSTRS%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">CalSTRS</a> |
 | Cardinal Health | 2024-11-13 | <a href="https://www.google.com/search?q=Cardinal%20Health%202024-11-13%20data%20breach" target="_blank" rel="noopener noreferrer">Cardinal Health</a> |
+| sju.org.sa | 2024-11-06 | <a href="https://lunarcyber.com/breach-catalog/sju-org-sa/" target="_blank" rel="noopener noreferrer">sju.org.sa</a> |
 | InterBank | 2024-10-30 | <a href="https://www.google.com/search?q=InterBank%202024-10-30%20data%20breach" target="_blank" rel="noopener noreferrer">InterBank</a> |
 | Free France | 2024-10-17 | <a href="https://www.google.com/search?q=Free%20France%202024-10-17%20data%20breach" target="_blank" rel="noopener noreferrer">Free France</a> |
 | Wayne County, Michigan | 2024-10-02 | <a href="https://www.google.com/search?q=Wayne%20County%2C%20Michigan%202024-10-02%20data%20breach" target="_blank" rel="noopener noreferrer">Wayne County, Michigan</a> |
