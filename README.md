@@ -19,16 +19,14 @@ This repository is built for researchers, security teams, journalists, and devel
 | groupe-cloue.com | 2026-08-10 | <a href="https://lunarcyber.com/breach-catalog/groupe-cloue-com/" target="_blank" rel="noopener noreferrer">groupe-cloue.com</a> |
 | Alcon - 218,395 breached accounts | 2026-08-09 | <a href="https://www.google.com/search?q=Alcon%20-%20218%2C395%20breached%20accounts%202026-08-09%20data%20breach" target="_blank" rel="noopener noreferrer">Alcon - 218,395 breached accounts</a> |
 | Brinks Home - 732,162 breached accounts | 2026-08-08 | <a href="https://www.google.com/search?q=Brinks%20Home%20-%20732%2C162%20breached%20accounts%202026-08-08%20data%20breach" target="_blank" rel="noopener noreferrer">Brinks Home - 732,162 breached accounts</a> |
-| clcv.org | 2026-08-08 | <a href="https://lunarcyber.com/breach-catalog/clcv-org/" target="_blank" rel="noopener noreferrer">clcv.org</a> |
-| mailshake.com | 2026-08-08 | <a href="https://lunarcyber.com/breach-catalog/mailshake-com/" target="_blank" rel="noopener noreferrer">mailshake.com</a> |
 | Exact Sciences - 10,869,543 breached accounts | 2026-08-07 | <a href="https://www.google.com/search?q=Exact%20Sciences%20-%2010%2C869%2C543%20breached%20accounts%202026-08-07%20data%20breach" target="_blank" rel="noopener noreferrer">Exact Sciences - 10,869,543 breached accounts</a> |
 | Uber Freight | 2026-08-07 | <a href="https://www.google.com/search?q=Uber%20Freight%202026-08-07%20data%20breach" target="_blank" rel="noopener noreferrer">Uber Freight</a> |
-| alcon.com | 2026-08-06 | <a href="https://lunarcyber.com/breach-catalog/alcon-com/" target="_blank" rel="noopener noreferrer">alcon.com</a> |
 | Inter-Con Security - 276,114 breached accounts | 2026-08-05 | <a href="https://www.google.com/search?q=Inter-Con%20Security%20-%20276%2C114%20breached%20accounts%202026-08-05%20data%20breach" target="_blank" rel="noopener noreferrer">Inter-Con Security - 276,114 breached accounts</a> |
-| amerifreight.net | 2026-08-05 | <a href="https://lunarcyber.com/breach-catalog/amerifreight-net/" target="_blank" rel="noopener noreferrer">amerifreight.net</a> |
 | SplitVPN - 865,336 breached accounts | 2026-08-01 | <a href="https://www.google.com/search?q=SplitVPN%20-%20865%2C336%20breached%20accounts%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">SplitVPN - 865,336 breached accounts</a> |
+| autobarn.net | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/autobarn-net/" target="_blank" rel="noopener noreferrer">autobarn.net</a> |
+| santepubliquefrance.fr | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/santepubliquefrance-fr/" target="_blank" rel="noopener noreferrer">santepubliquefrance.fr</a> |
+| rousselagri.com | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/rousselagri-com/" target="_blank" rel="noopener noreferrer">rousselagri.com</a> |
 | daskaloi.gr | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/daskaloi-gr/" target="_blank" rel="noopener noreferrer">daskaloi.gr</a> |
-| morgansindall.com | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/morgansindall-com/" target="_blank" rel="noopener noreferrer">morgansindall.com</a> |
 | Questel SAS | 2026-08-01 | <a href="https://www.google.com/search?q=Questel%20SAS%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">Questel SAS</a> |
 | Alcon Inc. | 2026-08-01 | <a href="https://www.google.com/search?q=Alcon%20Inc.%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">Alcon Inc.</a> |
 | Houston City College - 831,642 breached accounts | 2026-07-28 | <a href="https://www.google.com/search?q=Houston%20City%20College%20-%20831%2C642%20breached%20accounts%202026-07-28%20data%20breach" target="_blank" rel="noopener noreferrer">Houston City College - 831,642 breached accounts</a> |
@@ -50,15 +48,16 @@ This repository is built for researchers, security teams, journalists, and devel
 | Suno - 55,282,226 breached accounts | 2026-07-20 | <a href="https://www.google.com/search?q=Suno%20-%2055%2C282%2C226%20breached%20accounts%202026-07-20%20data%20breach" target="_blank" rel="noopener noreferrer">Suno - 55,282,226 breached accounts</a> |
 | Wikoff | 2026-07-20 | <a href="https://www.google.com/search?q=Wikoff%202026-07-20%20data%20breach" target="_blank" rel="noopener noreferrer">Wikoff</a> |
 | Paidwork - 23,272,765 breached accounts | 2026-07-19 | <a href="https://www.google.com/search?q=Paidwork%20-%2023%2C272%2C765%20breached%20accounts%202026-07-19%20data%20breach" target="_blank" rel="noopener noreferrer">Paidwork - 23,272,765 breached accounts</a> |
-| guarapari.es.gov.br | 2026-07-16 | <a href="https://lunarcyber.com/breach-catalog/guarapari-es-gov-br/" target="_blank" rel="noopener noreferrer">guarapari.es.gov.br</a> |
 | District of Columbia Housing Authority | 2026-07-16 | <a href="https://www.google.com/search?q=District%20of%20Columbia%20Housing%20Authority%202026-07-16%20data%20breach" target="_blank" rel="noopener noreferrer">District of Columbia Housing Authority</a> |
 | Fluke - 821,100 breached accounts | 2026-07-15 | <a href="https://www.google.com/search?q=Fluke%20-%20821%2C100%20breached%20accounts%202026-07-15%20data%20breach" target="_blank" rel="noopener noreferrer">Fluke - 821,100 breached accounts</a> |
 | Goose Creek - 6,574,121 breached accounts | 2026-07-15 | <a href="https://www.google.com/search?q=Goose%20Creek%20-%206%2C574%2C121%20breached%20accounts%202026-07-15%20data%20breach" target="_blank" rel="noopener noreferrer">Goose Creek - 6,574,121 breached accounts</a> |
 | Exact Sciences | 2026-07-15 | <a href="https://www.google.com/search?q=Exact%20Sciences%202026-07-15%20data%20breach" target="_blank" rel="noopener noreferrer">Exact Sciences</a> |
 | spectrumchemical.com | 2026-07-14 | <a href="https://www.google.com/search?q=spectrumchemical.com%202026-07-14%20data%20breach" target="_blank" rel="noopener noreferrer">spectrumchemical.com</a> |
+| litige.fr | 2026-07-13 | <a href="https://lunarcyber.com/breach-catalog/litige-fr/" target="_blank" rel="noopener noreferrer">litige.fr</a> |
 | Glendale Community College - 793,925 breached accounts | 2026-07-11 | <a href="https://www.google.com/search?q=Glendale%20Community%20College%20-%20793%2C925%20breached%20accounts%202026-07-11%20data%20breach" target="_blank" rel="noopener noreferrer">Glendale Community College - 793,925 breached accounts</a> |
 | Chumz | 2026-07-11 | <a href="https://www.google.com/search?q=Chumz%202026-07-11%20data%20breach" target="_blank" rel="noopener noreferrer">Chumz</a> |
 | CorePharma | 2026-07-08 | <a href="https://www.google.com/search?q=CorePharma%202026-07-08%20data%20breach" target="_blank" rel="noopener noreferrer">CorePharma</a> |
+| fonds-dotation-enfance.com | 2026-07-07 | <a href="https://lunarcyber.com/breach-catalog/fonds-dotation-enfance-com/" target="_blank" rel="noopener noreferrer">fonds-dotation-enfance.com</a> |
 | hаіrреrѕоnа․ru | 2026-07-07 | <a href="https://lunarcyber.com/breach-catalog/h%d0%b0%d1%96r%d1%80%d0%b5r%d1%95%d0%ben%d0%b0%e2%80%a4ru/" target="_blank" rel="noopener noreferrer">hаіrреrѕоnа․ru</a> |
 | bureau-vallee.fr | 2026-07-07 | <a href="https://lunarcyber.com/breach-catalog/bureau-vallee-fr/" target="_blank" rel="noopener noreferrer">bureau-vallee.fr</a> |
 | Moody Bible Institute - 2,303,416 breached accounts | 2026-07-03 | <a href="https://www.google.com/search?q=Moody%20Bible%20Institute%20-%202%2C303%2C416%20breached%20accounts%202026-07-03%20data%20breach" target="_blank" rel="noopener noreferrer">Moody Bible Institute - 2,303,416 breached accounts</a> |
@@ -85,6 +84,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Sysco Corporation | 2026-06-15 | <a href="https://www.google.com/search?q=Sysco%20Corporation%202026-06-15%20data%20breach" target="_blank" rel="noopener noreferrer">Sysco Corporation</a> |
 | Deep Well Services | 2026-06-15 | <a href="https://www.google.com/search?q=Deep%20Well%20Services%202026-06-15%20data%20breach" target="_blank" rel="noopener noreferrer">Deep Well Services</a> |
 | icc.edu | 2026-06-15 | <a href="https://www.google.com/search?q=icc.edu%202026-06-15%20data%20breach" target="_blank" rel="noopener noreferrer">icc.edu</a> |
+| ac-lyon.fr | 2026-06-13 | <a href="https://lunarcyber.com/breach-catalog/ac-lyon-fr/" target="_blank" rel="noopener noreferrer">ac-lyon.fr</a> |
 | AXCERA.IO | 2026-06-13 | <a href="https://www.google.com/search?q=AXCERA.IO%202026-06-13%20data%20breach" target="_blank" rel="noopener noreferrer">AXCERA.IO</a> |
 | Catalys Brands | 2026-06-12 | <a href="https://www.google.com/search?q=Catalys%20Brands%202026-06-12%20data%20breach" target="_blank" rel="noopener noreferrer">Catalys Brands</a> |
 | Madison Square Garden Sports Corp. | 2026-06-12 | <a href="https://www.google.com/search?q=Madison%20Square%20Garden%20Sports%20Corp.%202026-06-12%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Square Garden Sports Corp.</a> |
@@ -98,6 +98,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Singing River Health System | 2026-06-03 | <a href="https://www.google.com/search?q=Singing%20River%20Health%20System%202026-06-03%20data%20breach" target="_blank" rel="noopener noreferrer">Singing River Health System</a> |
 | Edgewood Surgical Hospital | 2026-06-03 | <a href="https://www.google.com/search?q=Edgewood%20Surgical%20Hospital%202026-06-03%20data%20breach" target="_blank" rel="noopener noreferrer">Edgewood Surgical Hospital</a> |
 | canopybrands.us | 2026-06-02 | <a href="https://www.google.com/search?q=canopybrands.us%202026-06-02%20data%20breach" target="_blank" rel="noopener noreferrer">canopybrands.us</a> |
+| apps.education.fr | 2026-06-01 | <a href="https://lunarcyber.com/breach-catalog/apps-education-fr/" target="_blank" rel="noopener noreferrer">apps.education.fr</a> |
 | UEI College | 2026-05-29 | <a href="https://www.google.com/search?q=UEI%20College%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">UEI College</a> |
 | BCD Travel | 2026-05-29 | <a href="https://www.google.com/search?q=BCD%20Travel%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">BCD Travel</a> |
 | www.labexpress.com | 2026-05-29 | <a href="https://www.google.com/search?q=www.labexpress.com%202026-05-29%20data%20breach" target="_blank" rel="noopener noreferrer">www.labexpress.com</a> |
@@ -114,7 +115,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | WholeHealth Chicago | 2026-05-15 | <a href="https://www.google.com/search?q=WholeHealth%20Chicago%202026-05-15%20data%20breach" target="_blank" rel="noopener noreferrer">WholeHealth Chicago</a> |
 | Data Exchange Corporation | 2026-05-13 | <a href="https://www.google.com/search?q=Data%20Exchange%20Corporation%202026-05-13%20data%20breach" target="_blank" rel="noopener noreferrer">Data Exchange Corporation</a> |
 | Sun Source | 2026-05-13 | <a href="https://www.google.com/search?q=Sun%20Source%202026-05-13%20data%20breach" target="_blank" rel="noopener noreferrer">Sun Source</a> |
-| lopesan.com | 2026-05-12 | <a href="https://lunarcyber.com/breach-catalog/lopesan-com/" target="_blank" rel="noopener noreferrer">lopesan.com</a> |
 | Bank of Baroda | 2026-05-12 | <a href="https://www.google.com/search?q=Bank%20of%20Baroda%202026-05-12%20data%20breach" target="_blank" rel="noopener noreferrer">Bank of Baroda</a> |
 | lifelongaccess.org | 2026-05-12 | <a href="https://www.google.com/search?q=lifelongaccess.org%202026-05-12%20data%20breach" target="_blank" rel="noopener noreferrer">lifelongaccess.org</a> |
 | pccarx.com | 2026-05-12 | <a href="https://www.google.com/search?q=pccarx.com%202026-05-12%20data%20breach" target="_blank" rel="noopener noreferrer">pccarx.com</a> |
