@@ -12,6 +12,7 @@ This repository is built for researchers, security teams, journalists, and devel
 
 | Breach Name | Date | More info |
 | --- | --- | --- |
+| Carhartt - 12,933,413 breached accounts | 2026-08-25 | <a href="https://www.google.com/search?q=Carhartt%20-%2012%2C933%2C413%20breached%20accounts%202026-08-25%20data%20breach" target="_blank" rel="noopener noreferrer">Carhartt - 12,933,413 breached accounts</a> |
 | NIUS - 6,090 breached accounts | 2026-08-23 | <a href="https://www.google.com/search?q=NIUS%20-%206%2C090%20breached%20accounts%202026-08-23%20data%20breach" target="_blank" rel="noopener noreferrer">NIUS - 6,090 breached accounts</a> |
 | Golf Canada - 568,972 breached accounts | 2026-08-22 | <a href="https://www.google.com/search?q=Golf%20Canada%20-%20568%2C972%20breached%20accounts%202026-08-22%20data%20breach" target="_blank" rel="noopener noreferrer">Golf Canada - 568,972 breached accounts</a> |
 | enrollblog.com | 2026-08-20 | <a href="https://lunarcyber.com/breach-catalog/enrollblog-com/" target="_blank" rel="noopener noreferrer">enrollblog.com</a> |
@@ -83,7 +84,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Sysco - 2,691,852 breached accounts | 2026-06-28 | <a href="https://www.google.com/search?q=Sysco%20-%202%2C691%2C852%20breached%20accounts%202026-06-28%20data%20breach" target="_blank" rel="noopener noreferrer">Sysco - 2,691,852 breached accounts</a> |
 | FCCI Insurance Group | 2026-06-28 | <a href="https://www.google.com/search?q=FCCI%20Insurance%20Group%202026-06-28%20data%20breach" target="_blank" rel="noopener noreferrer">FCCI Insurance Group</a> |
 | American Tower - 216,601 breached accounts | 2026-06-26 | <a href="https://www.google.com/search?q=American%20Tower%20-%20216%2C601%20breached%20accounts%202026-06-26%20data%20breach" target="_blank" rel="noopener noreferrer">American Tower - 216,601 breached accounts</a> |
-| Madison Square Garden Sports - 9,796,738 breached accounts | 2026-06-24 | <a href="https://www.google.com/search?q=Madison%20Square%20Garden%20Sports%20-%209%2C796%2C738%20breached%20accounts%202026-06-24%20data%20breach" target="_blank" rel="noopener noreferrer">Madison Square Garden Sports - 9,796,738 breached accounts</a> |
 | Quest Health Solutions | 2026-06-24 | <a href="https://www.google.com/search?q=Quest%20Health%20Solutions%202026-06-24%20data%20breach" target="_blank" rel="noopener noreferrer">Quest Health Solutions</a> |
 | go2joy.vn | 2026-06-20 | <a href="https://lunarcyber.com/breach-catalog/go2joy-vn/" target="_blank" rel="noopener noreferrer">go2joy.vn</a> |
 | icsecurity.com | 2026-06-18 | <a href="https://www.google.com/search?q=icsecurity.com%202026-06-18%20data%20breach" target="_blank" rel="noopener noreferrer">icsecurity.com</a> |
@@ -254,6 +254,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | bookingtek.com | 2026-01-03 | <a href="https://lunarcyber.com/breach-catalog/bookingtek-com/" target="_blank" rel="noopener noreferrer">bookingtek.com</a> |
 | Sai Oral Surgery | 2026-01-02 | <a href="https://www.google.com/search?q=Sai%20Oral%20Surgery%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Sai Oral Surgery</a> |
 | Neurological Associates of Washington | 2026-01-02 | <a href="https://www.google.com/search?q=Neurological%20Associates%20of%20Washington%202026-01-02%20data%20breach" target="_blank" rel="noopener noreferrer">Neurological Associates of Washington</a> |
+| Carhartt | Aug 2026 | <a href="https://www.google.com/search?q=Carhartt%20Aug%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Carhartt</a> |
 | Golf Canada | May 2026 | <a href="https://www.google.com/search?q=Golf%20Canada%20May%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Golf Canada</a> |
 | Oz Hair and Beauty | Aug 2026 | <a href="https://www.google.com/search?q=Oz%20Hair%20and%20Beauty%20Aug%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Oz Hair and Beauty</a> |
 | Fanlore | Aug 2026 | <a href="https://www.google.com/search?q=Fanlore%20Aug%202026%20data%20breach" target="_blank" rel="noopener noreferrer">Fanlore</a> |
