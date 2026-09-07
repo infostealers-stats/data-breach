@@ -22,13 +22,14 @@ This repository is built for researchers, security teams, journalists, and devel
 | gotrestle.com | 2026-08-30 | <a href="https://lunarcyber.com/breach-catalog/gotrestle-com/" target="_blank" rel="noopener noreferrer">gotrestle.com</a> |
 | DistributionNOW (DNOW Inc.) | 2026-08-30 | <a href="https://www.google.com/search?q=DistributionNOW%20(DNOW%20Inc.)%202026-08-30%20data%20breach" target="_blank" rel="noopener noreferrer">DistributionNOW (DNOW Inc.)</a> |
 | rightinbox.com | 2026-08-29 | <a href="https://lunarcyber.com/breach-catalog/rightinbox-com/" target="_blank" rel="noopener noreferrer">rightinbox.com</a> |
-| sdis57.fr | 2026-08-29 | <a href="https://lunarcyber.com/breach-catalog/sdis57-fr/" target="_blank" rel="noopener noreferrer">sdis57.fr</a> |
-| actis-location.com | 2026-08-28 | <a href="https://lunarcyber.com/breach-catalog/actis-location-com/" target="_blank" rel="noopener noreferrer">actis-location.com</a> |
+| roomertravel.com | 2026-08-27 | <a href="https://lunarcyber.com/breach-catalog/roomertravel-com/" target="_blank" rel="noopener noreferrer">roomertravel.com</a> |
+| findfemboys.com | 2026-08-27 | <a href="https://lunarcyber.com/breach-catalog/findfemboys-com/" target="_blank" rel="noopener noreferrer">findfemboys.com</a> |
 | Carhartt - 12,933,413 breached accounts | 2026-08-25 | <a href="https://www.google.com/search?q=Carhartt%20-%2012%2C933%2C413%20breached%20accounts%202026-08-25%20data%20breach" target="_blank" rel="noopener noreferrer">Carhartt - 12,933,413 breached accounts</a> |
 | bergerat-rent.com | 2026-08-24 | <a href="https://lunarcyber.com/breach-catalog/bergerat-rent-com/" target="_blank" rel="noopener noreferrer">bergerat-rent.com</a> |
 | bernard-groupe.com | 2026-08-24 | <a href="https://lunarcyber.com/breach-catalog/bernard-groupe-com/" target="_blank" rel="noopener noreferrer">bernard-groupe.com</a> |
 | Brookview Financial | 2026-08-24 | <a href="https://www.google.com/search?q=Brookview%20Financial%202026-08-24%20data%20breach" target="_blank" rel="noopener noreferrer">Brookview Financial</a> |
 | NIUS - 6,090 breached accounts | 2026-08-23 | <a href="https://www.google.com/search?q=NIUS%20-%206%2C090%20breached%20accounts%202026-08-23%20data%20breach" target="_blank" rel="noopener noreferrer">NIUS - 6,090 breached accounts</a> |
+| magairports.com | 2026-08-23 | <a href="https://lunarcyber.com/breach-catalog/magairports-com/" target="_blank" rel="noopener noreferrer">magairports.com</a> |
 | CyrusOne, LLC. | 2026-08-23 | <a href="https://www.google.com/search?q=CyrusOne%2C%20LLC.%202026-08-23%20data%20breach" target="_blank" rel="noopener noreferrer">CyrusOne, LLC.</a> |
 | Golf Canada - 568,972 breached accounts | 2026-08-22 | <a href="https://www.google.com/search?q=Golf%20Canada%20-%20568%2C972%20breached%20accounts%202026-08-22%20data%20breach" target="_blank" rel="noopener noreferrer">Golf Canada - 568,972 breached accounts</a> |
 | beautysuccess.fr | 2026-08-21 | <a href="https://lunarcyber.com/breach-catalog/beautysuccess-fr/" target="_blank" rel="noopener noreferrer">beautysuccess.fr</a> |
@@ -36,7 +37,6 @@ This repository is built for researchers, security teams, journalists, and devel
 | Fanlore - 144,520 breached accounts | 2026-08-19 | <a href="https://www.google.com/search?q=Fanlore%20-%20144%2C520%20breached%20accounts%202026-08-19%20data%20breach" target="_blank" rel="noopener noreferrer">Fanlore - 144,520 breached accounts</a> |
 | Delek US | 2026-08-19 | <a href="https://www.google.com/search?q=Delek%20US%202026-08-19%20data%20breach" target="_blank" rel="noopener noreferrer">Delek US</a> |
 | Southeastern Oklahoma State University | 2026-08-19 | <a href="https://www.google.com/search?q=Southeastern%20Oklahoma%20State%20University%202026-08-19%20data%20breach" target="_blank" rel="noopener noreferrer">Southeastern Oklahoma State University</a> |
-| baxter.com | 2026-08-18 | <a href="https://lunarcyber.com/breach-catalog/baxter-com/" target="_blank" rel="noopener noreferrer">baxter.com</a> |
 | questapartments.com.au | 2026-08-17 | <a href="https://lunarcyber.com/breach-catalog/questapartments-com-au/" target="_blank" rel="noopener noreferrer">questapartments.com.au</a> |
 | AAM:HOA Management | 2026-08-15 | <a href="https://www.google.com/search?q=AAM%3AHOA%20Management%202026-08-15%20data%20breach" target="_blank" rel="noopener noreferrer">AAM:HOA Management</a> |
 | TOTVS | 2026-08-15 | <a href="https://www.google.com/search?q=TOTVS%202026-08-15%20data%20breach" target="_blank" rel="noopener noreferrer">TOTVS</a> |
@@ -59,14 +59,12 @@ This repository is built for researchers, security teams, journalists, and devel
 | biocytogen.com | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/biocytogen-com/" target="_blank" rel="noopener noreferrer">biocytogen.com</a> |
 | военсбыт.рф | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/%d0%b2%d0%be%d0%b5%d0%bd%d1%81%d0%b1%d1%8b%d1%82-%d1%80%d1%84/" target="_blank" rel="noopener noreferrer">военсбыт.рф</a> |
 | tobee.co | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/tobee-co/" target="_blank" rel="noopener noreferrer">tobee.co</a> |
-| lookinsure.com | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/lookinsure-com/" target="_blank" rel="noopener noreferrer">lookinsure.com</a> |
-| unicaspa.it | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/unicaspa-it/" target="_blank" rel="noopener noreferrer">unicaspa.it</a> |
-| livtours.com | 2026-08-01 | <a href="https://lunarcyber.com/breach-catalog/livtours-com/" target="_blank" rel="noopener noreferrer">livtours.com</a> |
 | Lumenis Ltd. | 2026-08-01 | <a href="https://www.google.com/search?q=Lumenis%20Ltd.%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">Lumenis Ltd.</a> |
 | Questel SAS | 2026-08-01 | <a href="https://www.google.com/search?q=Questel%20SAS%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">Questel SAS</a> |
 | Alcon Inc. | 2026-08-01 | <a href="https://www.google.com/search?q=Alcon%20Inc.%202026-08-01%20data%20breach" target="_blank" rel="noopener noreferrer">Alcon Inc.</a> |
 | Houston City College - 831,642 breached accounts | 2026-07-28 | <a href="https://www.google.com/search?q=Houston%20City%20College%20-%20831%2C642%20breached%20accounts%202026-07-28%20data%20breach" target="_blank" rel="noopener noreferrer">Houston City College - 831,642 breached accounts</a> |
 | exactsciences.com | 2026-07-28 | <a href="https://lunarcyber.com/breach-catalog/exactsciences-com/" target="_blank" rel="noopener noreferrer">exactsciences.com</a> |
+| cosmundi.de | 2026-07-27 | <a href="https://lunarcyber.com/breach-catalog/cosmundi-de/" target="_blank" rel="noopener noreferrer">cosmundi.de</a> |
 | Wilbert&#x27;s | 2026-07-27 | <a href="https://www.google.com/search?q=Wilbert%26%23x27%3Bs%202026-07-27%20data%20breach" target="_blank" rel="noopener noreferrer">Wilbert&#x27;s</a> |
 | RingCentral, Inc. | 2026-07-27 | <a href="https://www.google.com/search?q=RingCentral%2C%20Inc.%202026-07-27%20data%20breach" target="_blank" rel="noopener noreferrer">RingCentral, Inc.</a> |
 | BH Security, LLC. (brinkshome.com) | 2026-07-27 | <a href="https://www.google.com/search?q=BH%20Security%2C%20LLC.%20(brinkshome.com)%202026-07-27%20data%20breach" target="_blank" rel="noopener noreferrer">BH Security, LLC. (brinkshome.com)</a> |
@@ -99,6 +97,8 @@ This repository is built for researchers, security teams, journalists, and devel
 | Moody Bible Institute - 2,303,416 breached accounts | 2026-07-03 | <a href="https://www.google.com/search?q=Moody%20Bible%20Institute%20-%202%2C303%2C416%20breached%20accounts%202026-07-03%20data%20breach" target="_blank" rel="noopener noreferrer">Moody Bible Institute - 2,303,416 breached accounts</a> |
 | anc1912.org.za | 2026-07-03 | <a href="https://lunarcyber.com/breach-catalog/anc1912-org-za/" target="_blank" rel="noopener noreferrer">anc1912.org.za</a> |
 | Northeast Pediatrics &amp; Adolescent Medicine | 2026-07-02 | <a href="https://www.google.com/search?q=Northeast%20Pediatrics%20%26amp%3B%20Adolescent%20Medicine%202026-07-02%20data%20breach" target="_blank" rel="noopener noreferrer">Northeast Pediatrics &amp; Adolescent Medicine</a> |
+| neemans.com | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/neemans-com/" target="_blank" rel="noopener noreferrer">neemans.com</a> |
+| thewellnessshop.in | 2026-07-01 | <a href="https://lunarcyber.com/breach-catalog/thewellnessshop-in/" target="_blank" rel="noopener noreferrer">thewellnessshop.in</a> |
 | Eagle Crest Communities | 2026-07-01 | <a href="https://www.google.com/search?q=Eagle%20Crest%20Communities%202026-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">Eagle Crest Communities</a> |
 | Ingram Content Group, Inc. | 2026-07-01 | <a href="https://www.google.com/search?q=Ingram%20Content%20Group%2C%20Inc.%202026-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">Ingram Content Group, Inc.</a> |
 | Fluke Corporation | 2026-07-01 | <a href="https://www.google.com/search?q=Fluke%20Corporation%202026-07-01%20data%20breach" target="_blank" rel="noopener noreferrer">Fluke Corporation</a> |
@@ -1150,7 +1150,7 @@ This repository is built for researchers, security teams, journalists, and devel
 | Club Penguin Rewritten (July 2019) | Jul 2019 | <a href="https://www.google.com/search?q=Club%20Penguin%20Rewritten%20(July%202019)%20Jul%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Club Penguin Rewritten (July 2019)</a> |
 | Flash Flash Revolution (2019 breach) | Jul 2019 | <a href="https://www.google.com/search?q=Flash%20Flash%20Revolution%20(2019%20breach)%20Jul%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Flash Flash Revolution (2019 breach)</a> |
 | GameSalad | Feb 2019 | <a href="https://www.google.com/search?q=GameSalad%20Feb%202019%20data%20breach" target="_blank" rel="noopener noreferrer">GameSalad</a> |
-| Artvalue | Jun 2019 | <a href="https://www.google.com/search?q=Artvalue%20Jun%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Artvalue</a> |
+| Artvalue.com | Jun 2019 | <a href="https://www.google.com/search?q=Artvalue.com%20Jun%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Artvalue.com</a> |
 | Bulgarian National Revenue Agency | Jul 2019 | <a href="https://www.google.com/search?q=Bulgarian%20National%20Revenue%20Agency%20Jul%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Bulgarian National Revenue Agency</a> |
 | BlackSpigotMC | Jul 2019 | <a href="https://www.google.com/search?q=BlackSpigotMC%20Jul%202019%20data%20breach" target="_blank" rel="noopener noreferrer">BlackSpigotMC</a> |
 | Wiener B&#xFC;chereien | Jun 2019 | <a href="https://www.google.com/search?q=Wiener%20B%26%23xFC%3Bchereien%20Jun%202019%20data%20breach" target="_blank" rel="noopener noreferrer">Wiener B&#xFC;chereien</a> |
